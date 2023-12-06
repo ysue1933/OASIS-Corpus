@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ The lack of sufficient vocabulary knowledge is one of the most important sources of confusion for second language (L2) students encountering difficult and challenging texts in L2. Glossing is a traditional aid that helps struggling readers overcome decoding difficulties. However, the main challenge for predicting the success of any instructional technique or intervention is to take into account the variation of three dimensions of reading comprehension: the reader, the text, and the reading activity. To this end, this study compared learners’ local (understanding of glossed ideas) and global (understanding of unglossed ideas) comprehension after reading three texts of differing difficulty levels. The results show that glossing may have helped global understanding in difficult texts, but may also have been distracting in easier texts. 
+What the researchers did
+ 
+● Learners were 58 freshmen (aged 18-20) taking their general English course at university. They had the same language background. Their proficiency was equivalent to pre-intermediate level (A2 in CEFR scale). 
+● Learners completed three reading comprehension tasks over three weeks. 
+● To create the three difficulty levels (i.e., easy, moderate, and difficult), text features (readability vs. lexical coverage) were modified, and those modifications were validated in later pilot studies. 
+● Learners were divided into two groups: glossed (in the first language – L1) and unglossed. 
+● They read one passage in every session and, after collecting the passages, answered the reading comprehension questions followed by a posttest questionnaire. 
+● The reading time for each passage was limited to 15 minutes. 
+● To test local and global comprehension, a 20-item test was developed for each individual passage. Half of the items in each test addressed the understanding of local concepts, represented by target items in the passage, and the other half addressed the global concepts, representing meanings and ideas that were not expressed by glossed items. 
+What the researchers found
+ 
+● In the moderate and distinctively difficult texts that were structurally coherent and well-organized, glossing has a beneficial impact on the global understanding through promoting higher-level inferential comprehension. 
+● The present findings partly confirm the deleterious role of glossing on the global comprehension just in cases that the passage is deemed relatively easy by the readers—on such occasions, glossing functions as a distractor by bringing linguistic elements to the readers’ focal attention and occupying their limited attentional resources. 
+● Glosses in difficult texts stimulate more processing of target items and, in consequence, enhance readers’ awareness of those items to the shallow level of noticing, which might be conducive to the learning of item-based features like vocabulary. 
+Things to consider
+ 
+● In this study, the three passages with different difficulty levels were read under time constraints, which is fundamentally what learners often do when performing a reading comprehension task in the classroom. While it should be mentioned that the findings of this study are applicable in many classroom settings where there are time restrictions for reading, there may be concerns that the observed trade-off effect between reading comprehension and noticing of target items in the easy text might be due to reading under time pressure. 

@@ -1,0 +1,21 @@
+
+What this research was about and why it is important 
+ It has been proposed that children learning language implicitly try to predict what speakers will say next. Not only can this process of prediction facilitate understanding, but it can also support language learning. The reason is that we learn the most from when we make mistakes with our predictions: When predictions fail, we correct our error for future predictions, and this correction is actually one way in which learning is accomplished. We tested this hypothesis by supplying two groups of 3-4-year-olds with exposure to different input. One of the groups received input that was contrary to their experience in real world conversations, and the other heard input more consistent with these expectations. We found that the two groups differed in how they interpreted ambiguous sentences they were later exposed to, suggesting they had adapted to new expectations. However, when we did the same thing with two-year-olds, they were not affected in the same way by recent input. The findings have important theoretical implications, as they show mixed support for a very central theory in language learning. 
+What the researchers did
+ 
+● We tested 49 3-4-year-old and 48 2-year-old monolingual French speakers. 
+● During an exposure phase, these children heard unambiguous sentences that were either compatible with their experience with the language to date or were not compatible with the most expected interpretation (but were still fully grammatical). 
+● In the test, children heard ambiguous sentences that had two completely reasonable interpretations. 
+● We measured how long they looked at images depicting each interpretation to see if their interpretations reflected their recent experience of the language in the exposure phase. 
+What the researchers found
+ 
+● We found that 3-4-year-olds looked more at pictures depicting an interpretation congruent with their recent experience i.e., with the unambiguous sentences they had just heard in the experiment. This did not hold true for 2-year-olds. 
+● Thus, 3-4-year-olds, but not 2-year-olds, adapted their predictions in the face of new evidence. 
+Things to consider
+ 
+● The finding that 3-4-year-olds adapted their predictions when interpreting ambiguous sentences supports the idea that children implicitly predict what speakers will say next, and that this facilitates understanding. 
+● The fact that the same was not found for 2-year-olds does not support this idea, because if this process supports language learning, it should be active from a very early age. 
+● This may mean we need to adapt this idea, and hypothesize instead that this ability develops with age. 
+● However, toddlers’ failure to adapt their predictions may just mean that the task was too hard for them, or that the underlying process is still active, but is hidden by their failure to remember the sentences or make generalizations from them. 
+● It is a limitation of the current study that we could not disentangle these “performance factors” from the underlying language learning processes. 
+● Next time you watch a child make a mistake in understanding a sentence, consider the fact that this sentence might have contradicted their prior expectations. Note how they change their expectations next time you use this, or a similar, sentence, since they are less likely to make this mistake again. 

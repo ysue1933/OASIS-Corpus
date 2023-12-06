@@ -1,0 +1,18 @@
+
+What this research was about and why it is important 
+ A phraseological unit refers to the co-occurrence of a word and one or more other linguistic elements that can function as a meaning unit, with the expectation that they co-occur more frequently than by chance. Recent research on the syntactic complexity of second language (L2) English writing has paid increasing attention to measures of phraseological diversity, sophistication, and complexity. The research has reported stronger predictive power for these measures for L2 English writing quality than for measures based on larger syntactic units. This study extended this research to L2 Chinese. It examined the relationship of a set of word-combination-based measures of phraseological diversity, sophistication, and complexity to L2 Chinese proficiency and writing quality in comparison to that of a set of measures based on the topic-comment (TC) unit (a larger syntactic unit in Chinese). This study considered 4 language-independent (e.g., verb-object) and 4 language-specific (e.g., predicate-complement) types of word combinations. A TC unit is a chain of two or more clauses sharing the same topic, with the topic mentioned explicitly in one clause and referred to implicitly in the other clauses. Results showed that, relative to TC-unit-based measures, a number of phraseological measures correlated more strongly with human ratings of narratives written by beginning, intermediate, and advanced Korean learners of Chinese. Measures pertaining to language-specific word combination types (including both TC-unit-based and phraseological measures) discriminated between intermediate and advanced learners better than between beginning and intermediate learners. Results also revealed the usefulness of predicate-related combinations in assessing L2 Chinese phraseological diversity, sophistication, and complexity. 
+What the researchers did
+ 
+● The researchers analyzed 101 narratives written by beginning, intermediate, and advanced Korean learners of Chinese and rated by 2 expert Chinese teachers. 
+● Each narrative was manually analyzed for 4 TC-unit-based measures and automatically analyzed for 21 phraseological diversity, sophistication, and complexity measures. 
+● Analyses were conducted to determine how strongly each measure correlated (was associated) with the writing score and whether each measure exhibited differences between proficiencies. 
+What the researchers found
+ 
+● Several phraseological measures correlated more strongly with writing scores than all TC-unit-based measures, with phraseological diversity measures exhibiting the strongest positive correlations overall. 
+● Measures based on language-independent features exhibited greater differences between the beginning and intermediate levels, but those based on language-specific features exhibited greater differences between the intermediate and advanced levels. 
+● Measures of phraseological diversity and complexity that used verb-object, adverb-predicate, and predicate-complement combinations discriminated between different L2 Chinese proficiencies better than measures that used other types of word combinations. 
+Things to consider
+ 
+● When assessing L2 Chinese proficiency and writing quality, it seems important to consider features at different structural levels with different levels of granularity. 
+● Language-specific features may be especially important in assessing the phraseological competence of 
+● intermediate and advanced learners of Chinese. It could be useful for teachers to create opportunities to help L2 Chinese learners develop their phraseological competence, along with their lexical and grammatical competence. 

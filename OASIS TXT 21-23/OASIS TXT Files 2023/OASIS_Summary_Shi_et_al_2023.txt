@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+ Figurativeness is an important semantic phenomenon that is pervasive in idioms, collocations, and phrasal verbs. Although much is known about how second language (L2) learners process figurative language, most researchers explored this topic with idioms (e.g., kick the bucket) or phrasal verbs (e.g., run over). In this study, we addressed the intriguing case of figurativeness in collocations. We explored, using a self-paced reading experiment, whether and how figurativeness might affect the L2 processing of collocations. Results show that figurativeness matters for L2 speakers in that it slows them down compared to literal phrases, irrespective of whether the figurativeness occurs in transparent and decomposable collocations or in somewhat opaque and nondecomposable idioms. 
+What the researchers did
+ 
+● Participants were 40 English native speakers and 44 Chinese-speaking English foreign language learners (including doctoral, postgraduate, and undergraduate students). A 50-item C-test was used to measure the English foreign language learners’ proficiency. 
+● The participants read (1) sentences with figurative collocations (e.g., build a career), (2) sentences with literal collocations (e.g., build a house), and (3) control sentences with a literal collocation pair (e.g., choose a career vs. choose a house). The added literal versus literal control pair had the same lexical differences (i.e., career vs. house) as the experimental pair, but did not have the same figurative versus literal difference. 
+● Participants read the sentences word by word in a self-paced manner, using the space bar to proceed through the sentence. Their response times for the critical words—the noun in the verb + noun collocations, and for the first and the second words after that were compared across participant groups and item types. 
+● The researchers examined the effect of figurativeness on reading times and explored whether the figurativeness effect differed as a result of the participants’ subjective familiarity with the collocations and their L2 proficiency. 
+What the researchers found
+ 
+● English foreign language learners processed figurative collocations more slowly than literal collocation controls. In contrast, English native speakers processed figurative and literal phrases with similar ease. 
+● More proficient L2 speakers slowed down less when processing figurative collocations than less proficient L2 speakers did. 
+● The participants’ familiarity with the collocation did not influence their reading times. 
+Things to consider
+ 
+● L2 speakers may compute novel figurative meanings in real time during processing when the literal analysis of the collocation fails or is determined to be inappropriate. In comparison, native speakers are more likely to engage in a faster mapping of the different components of a figurative collocation during processing. 
+● L2 speakers are likely to shift gradually from the computation approach to the direct retrieval approach once they encounter the L2 formulaic sequences with enough regularity or reach a certain level of proficiency. 
+● Results were limited to L1–L2 congruent collocations with which L2 participants were quite familiar, and the role of familiarity could be reexamined with incongruent items in a future investigation. 

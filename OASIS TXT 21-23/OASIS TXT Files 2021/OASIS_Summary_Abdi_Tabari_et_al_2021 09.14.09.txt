@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+ In second language (L2) writing teaching, instructors are often faced with the task of choosing good topics that will stimulate students’ interest in writing and help them improve writing competence through practice. Whether or not students are interested in a particular writing topic is largely influenced by their familiarity with it. So, do familiar and unfamiliar topics lead to fluctuations in performance in L2 writing? We reason that such fluctuations exist in the linguistic complexity of writing (usage of vocabulary, phrases, sentences) and the emotional color of students’ work (positive, negative, or neutral). To explore the impact of the writing topic familiarity, students were divided into two groups. One group wrote based on a familiar topic, while the other group wrote based on an unfamiliar topic. Our analysis shows that familiar and unfamiliar topics can lead to different writing emotions and different grammatical complexities. 
+What the researchers did
+ 
+● The L2 writers were 67 international doctoral students enrolled in an academic English writing class. All of them majored in either business or engineering. The participants were 22-25 years old, spoke English as a second language, and came from a variety of first language (L1) backgrounds, including Chinese, Spanish, Portuguese, Iranian, Indian, and others. 
+● We gave two different sets of topics to the L2 writers and asked them to evaluate how they were familiar with the writing topics. About half of them then wrote approximately 250 words on a familiar topic, and the rest of them wrote on an unfamiliar topic. 
+● We collected their essays and analyzed both the linguistic complexity and emotional color using automatic text processing and evaluation tools. 
+● To test whether topic familiarity level affects L2 writing, we compared the linguistic complexity and emotional color in the two groups’ essays. We also investigated if linguistic complexity and emotional color were associated with each other. 
+What the researchers found
+ 
+● For emotional color, the essays written on unfamiliar topics showed more negative emotions than familiar topics. 
+● Familiar and unfamiliar topics also led to different linguistic complexity. The differences were more noticeable in terms of how L2 writers used phrases and clauses than the usage of individual words. 
+● Interestingly, we found that emotion color and linguistic complexity in L2 writing were associated with each other. In particular, less emotional disturbance during writing was linked to more sophisticated language use. 
+Things to consider
+ 
+● This study shows that topic familiarity plays an important role in the L2 writing experience. Students are more ‘ready’ to write on something that they have prior knowledge about. When the topic is unfamiliar, they can feel less confident and experience more negative emotions. 
+● Besides, topic familiarity affects the L2 writing outcome in terms of lexical, phrasal, and clausal structures. One explanation is that with prior knowledge, L2 writers can spend less time generating ideas and allocate more time planning sophisticated linguistic structures. 
+● Emotional color and linguistic complexity are interconnected in L2 writing. Emotional disturbance during writing can lead to less sophisticated language use. Thus, a ‘neutral’ state of mind might be optimal for L2 writers to achieve the best performance. 

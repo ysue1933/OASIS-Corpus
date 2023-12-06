@@ -1,0 +1,22 @@
+
+What this research was about and why it is important 
+ Self-assessments are useful for setting language learning goals and likely influence many choices that language learners make about their learning. In this study, 198 learners self-assessed their comprehensibility (how easy it was for others to understand their speech) and accentedness (how native-like their Korean accent was). They also responded to a survey and completed a speaking task. The speaking tasks were listened to and judged by 82 South Korean listeners. There was a moderately strong relationship between self-assessments and listener judgments for both comprehensibility and accentedness. However, learners who received lower judgments from the listeners tended to overestimate their own pronunciation in their self-assessments. In contrast, those who received higher judgments tended to underestimate their pronunciation. Learner attitudes also influenced self-assessments, in that greater satisfaction with their own pronunciation and greater value placed on pronunciation were associated with higher self-assessment scores and with greater differences between self-assessments and listener judgments. 
+What the researchers did
+ 
+● 198 learners of Korean from varying L1 backgrounds and proficiency levels participated in this study. 
+● All learners self-assessed their comprehensibility and accentedness on 9-point scales, took an oral proficiency test, responded to a background survey, and completed a speaking task that was recorded. 
+● 82 South Korean listeners heard and judged a random set of 28 of the learner speaking tasks, judging them for comprehensibility and accentedness. 
+● The researchers analyzed the learners’ self-assessments and compared them to the listeners’ judgments. 
+What the researchers found
+ 
+● Moderate positive correlations were found between self-assessments and listener judgments (r = .54) for comprehensibility and accentedness. 
+● Learners with lower listener-based scores tended to overestimate their own abilities in their self-assessments, and learners with higher listener-based scores tended to underestimate their own abilities. 
+● Learners with higher listener-based scores tended to make self-assessments closer to the listeners’ judgments. 
+● Higher oral proficiency predicted higher self-assessments and more overconfidence in comprehensibility (relative to lower proficiency). But oral proficiency was unrelated to accentedness self-assessments. 
+● Satisfaction with their own pronunciation predicted higher self-assessments, more overconfidence in self-assessments, and larger differences with listeners’ accentedness judgments. 
+● Learners’ perceived value (importance) of pronunciation also predicted higher self-assessments and overconfidence as well as larger differences from listeners’ comprehensibility judgments. 
+Things to consider
+ 
+● The strength of relationships between self-assessments and listener judgments aligns with some previous studies but differs from others. The different self-assessment methods used may explain these mixed findings. 
+● Findings offer some support for a popular psychological effect (Dunning-Kruger effect), which predicts that novices overestimate their abilities but experts underestimate them. Although generally supporting this idea, the pattern of results in this study, especially for comprehensibility, showed only a weak effect of this nature. 
+● Collecting learner attitudes appeared to be important for better understanding data from self-assessments. 

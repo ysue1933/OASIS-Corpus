@@ -1,0 +1,22 @@
+
+What this research was about and why it is important 
+ This study arose from the need to provide a clear historical framework for the research on second language pronunciation by using an informed methodology, i.e., bibliometric method, which simply conducts a statistical evaluation of published papers, books, journals, authors etc. to measure their influence in the scientific community. Bibliometric analyses help bring together and compare large amounts of citation data. As a result of the study, question marks were cleared as to the important research themes and trends of the studies on second language pronunciation, how and when certain concepts in this field emerged and evolved. Also, the pioneering scholars, articles and journals in the field hereby came to light.   
+What the researchers did
+ 
+● 629 articles published in top-quality second language acquisition journals in the 44-year period (1977-2020) were included in the analyses. 
+● Articles, authors, and journals were classified based on their contextual relationships. A software called VOSviewer was used to illustrate these relationships. 
+● For three different periods, the most-cited works, authors and journals were shown (1977–1991, 1992–2006, 2007–
+2020; with 58, 106, and 465 articles, respectively). 
+● Trend analyses were performed across periods to determine common research themes and areas. 
+● Some of the articles were narrated in terms of what they introduced to the field. 
+What the researchers found
+ 
+● Some of the findings are as follows. The first period of second language pronunciation research mainly introduced related theories. Studies on the teaching of pronunciation started in the second period and settled in the third period. 
+● Some of the typical concepts of research on second language pronunciation are: comprehensibility and intelligibility, accent and accentedness, speech perception and production, segmentals and suprasegmentals, pronunciation teaching, native and nonnative speech and speakers. 
+● Different scholars of second language pronunciation shaped different periods. 
+● It is possible to broadly categorize journals that publish research on second language pronunciation based on their scientific focus as follows: second language acquisition, psycholinguistics, and phonetics/speech journals. 
+Things to consider
+ 
+● This study, in brief, showed the development of the research field of second language pronunciation from its roots to the present. 
+● The findings highlight important research venues, key works, and distinguished scholars in second language pronunciation research. 
+● Bibliometric methods are suited to computationally analyzing big data, i.e., extremely large data sets in a particular field of research. 

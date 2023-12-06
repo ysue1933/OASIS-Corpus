@@ -1,0 +1,18 @@
+
+What this research was about and why it is important 
+ Babies learn the sounds of their native language by mere listening. Long before they can say their first word, they can perceive critical properties of vowels and consonants in their mother tongue. Can adults also learn sounds of an ambient language from unguided (passive) exposure by unconsciously tracking the acoustic properties and variation in the surrounding speech stream? Or are adult learners entrenched in what they already know, and so learn foreign sounds better when the foreign sounds' properties are familiar from their native language experience. We tested these questions in a laboratory experiment involving two different groups of adults: native speakers of Czech and native speakers of Greek. The two languages differ in whether or not they contrast vowel sounds by the duration (length) of the vowel: Czechs use duration in their language to distinguish meanings of words, Greeks do not. In this study, after listening to various short and long foreign-language vowels, Czech adults seemed to form a ‘short’ and a ‘long’ category better than Greek adults. Our tentative conclusion is that for adults learning completely new sounds from passive listening might be less likely when there is no prior knowledge of that sound characteristic, especially in the initial stages of learning. 
+What the researchers did
+ 
+● The researchers created a 5-minute training programme during which 25 Czech and 28 Greek adults listened to 210 various vowel sounds differing in duration. 
+● For half of the Czechs and half of the Greeks the variation in duration represented two vowel categories – a long and a short one. For the other half of each language group, the variation suggested only a single category. 
+● Listeners were tested before and after training on their ability to tell apart pairs of short and long vowels. 
+What the researchers found
+ 
+● All listeners became better at distinguishing the short and long vowels over time. 
+● How well they learned this length contrast seemed to depend on their native language. 
+● Czechs, whose native language uses vowel duration to contrast words, benefited from exposure to two durational categories – it helped them more accurately detect durational differences after training. 
+● Greeks, whose native language does not use duration to contrast words, rather unexpectedly, improved in detecting durational differences after being exposed to a single durational category. 
+Things to consider
+ 
+● Intensive exposure to foreign language sounds may not be enough for all adult learners to extract new speech categories, as speech sound perception might depend on what they know from their native language. 
+● The present study was done with a small number of participants and the results of the statistical analysis did not unequivocally demonstrate native-language effect. This means that the findings are only indicative and should be tested Materials and data: Materials and data are publicly available at https://osf.io/xdq79/ and http://www.iris-database.org. 

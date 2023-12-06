@@ -1,0 +1,16 @@
+
+What this research was about and why it is important 
+ One way to study how people understand language is by creating computer models that simulate some part of the mental processes. This research method has been very valuable for investigating understanding in a single language, but is not often used to learn about people who know two or more languages (bilinguals and multilinguals). It is important to understand bilingualism and multilingualism better because, worldwide, most people speak more than one language. For this reason, we looked at current computer models of language and discuss how these can be (and, occasionally, have been) turned into bilingual and multilingual models. 
+What the researchers did
+ 
+● The most successful computer models of human language understanding assume that people try to match what they hear or read to the patterns of language that they have experienced before. We review which models of this type have been proposed, which of these have also been used for bilingualism and multilingualism, and what their strengths and weaknesses are. 
+What the researchers found
+ 
+● Only very few models have been applied to two languages simultaneously. 
+● In some cases, a bilingual model can be created by simply providing two languages to a model that was designed for dealing with one language. 
+● Researchers who developed automatic language processing systems, without the goal to learn about human language understanding, have created systems that can handle many languages at the same time, sometimes more than a hundred. Again, this often does not require more than providing many languages to a system that was designed for dealing with just one. 
+● Surprising, and sometimes human-like, behavior can emerge from models that are exposed to multiple languages. For example, they can switch language mid-sentence, or aspects of one language can influence how another language is processed. 
+Things to consider
+ 
+● Creating multilingual computer models of language might not be very difficult, if a suitable single-language model is already available. 
+● Behavior that is typical for bilinguals (such as language switching) can emerge without the presence of a specifically bilingual system. All that is needed is a system for language processing that has been exposed to two languages. This would imply that there is nothing special about multilingualism, in machines or in people. 

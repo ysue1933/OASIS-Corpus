@@ -1,0 +1,14 @@
+
+What this study was about and why it is important Russian engineering students often have to write in English. The task is challenging because the students seldom have access to special academic writing courses. As such, the students tend to use Russian style norms in their writing. The study argues that Russian academic writing courses need to include the study of differences between the scientific style of international researchers and that of Russians writing in their own first language. The authors compared two corpora: a “student corpus” and an “expert corpus.” These corpora were examined using two computational tools: Coh-Metrix and Gramulator. The study presents the quantitative and qualitative analysis of various aspects of corpora characteristics. The study shows that Russian students’ English writing differs in many respects. For example, Russian students use more nouns and prepositions, fewer verbs and adverbs, and they also demonstrate lower vocabulary variety. 
+What the researchers did
+ 
+● Coh-Metrix indices that represent text characteristics were grouped into six categories: readability (what makes texts easier to comprehend), writing quality (what characterizes texts as high-quality or low-quality), cohesion (what makes connective writing), syntax (the sentence structures the writers choose), word choice (the sort of vocabulary used), and genre purity (if texts exhibit genre characteristics). 
+● The study compared a corpus of 80 student texts and a corpus of 94 expert texts. All texts were science papers from a single discipline. The experts’ texts were either papers published in high-ranking international journals or conference papers. 
+● Based on statistical procedures, two models were constructed: The Full Model (including complex indices) and the Parsimonious Model (using the simplest indices). Both models consider the contribution of each identified categories of indices. The models can be used to better understand how close a student text is to the norms of a disciplinary community. 
+What the researchers found
+ 
+● Russian students’ English writing differs considerably from expert writing in all six categories. Note that below, (S) means students’ results were higher, and (E) means experts’ results were higher. 
+● The six indices with the highest contribution were as follows: number of noun phrases (S), number of prepositional phrases (S), number of verb phrases (E), number of modifiers before a noun phrase (E), number of verbs (E), and lexical diversity (E). 
+● The two models can inform both academic writing instruction and automated text evaluation tools. What things to consider 
+● The differences between the writing of Russian students and the writing of international experts should be the focus of academic writing instruction courses. 
+● The use of specialized automated feedback tools such as Auto-Peer may facilitate the development of student-writers.   

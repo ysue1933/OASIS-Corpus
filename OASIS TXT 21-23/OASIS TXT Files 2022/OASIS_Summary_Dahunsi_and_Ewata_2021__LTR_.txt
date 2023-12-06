@@ -1,0 +1,24 @@
+
+What this research was about and why it is important 
+ Multiword expressions are becoming more increasingly commonly used both in speaking and writing, and their effective use is an indication of fluency and proficiency. Understanding the structures and co-occurrence possibilities of multiword expressions with other grammatical elements would be of immense help to second language learners. In spite of the importance of multiword expressions to mastering English as a second language, the English Language Teaching curriculum does not cover how the words are structured to form functional units. Using the British component of the British National Corpus (a general, English as First language corpus) and a purpose-built Nigerian Media Discourse corpus (a genre-specific, English as Second Language corpus), this study examined three-word lexical bundles (a type of multiword expression) with a minimum of 50 occurrences per corpus. The study discovered that both corpora had instances of general and genre-specific lexical bundles with varying frequencies. It also identified five categories of lexical bundles with different structural patterns and peculiar combinatorial possibilities with other elements of language in clausal configurations. 
+What the researchers did
+ 
+● Data for the study were from two corpora; a 1 million-word British component of the International Corpus (ICE-GB) of English and a 1million-word corpus built with texts retrieved from online Nigerian newspapers, tagged the Nigerian Media Corpus (NMC).  
+● Both corpora are similar and at the same different: o They are similar as both are in English and contain 1 million words, apiece o They are different as the ICE-GB is a general corpus that comprises both written and spoken texts that are entirely a first language product while the NMC is a product of second language use, solely written texts and limited to newspaper discourse 
+● The study first used an automated multi-word frequency retrieval software to generate all the running and distinct words in the corpora. It then extracted all 3-word clusters (lexical bundles) with a minimum of 50 frequencies in the corpora 
+● 
+● The collection of clusters generated was then categorised based on their structural similarities 
+● The grammatical arrangement, how they occur in usage and the position of occurrence in sentences of each identified lexical bundle were determined 
+What the researchers found
+ 
+● The study found that both English as a first and second language is characterised by the use of lexical bundles (a type of multiword expressions). 
+● There are similar structural and usage patterns in both English as a first and second language corpora. 
+● Both English as a first and second language had varying frequencies of lexical bundles. For example while be able to, as far as, in terms of and at the end are higher in the BNC, in order to, as well as, as part of and a result of are prominent in the NMC 
+● There are general lexical bundles such as: a lot of, in spite of, as far as, as long as, etc. which are frequent in the both the BNC and the NMC corpora while genre-specific lexical bundles like the British Prime Minister are exclusive to the BNC. 
+● The study identified five categories of lexical bundles: article-headed, preposition-headed, noun-headed, verb-headed and pronoun-headed categories. 
+● The study also established that the combinatorial possibilities of lexical bundles with other elements is dependent on the structural composition of lexical bundles. 
+Things to consider
+ 
+● Lexical bundles come in different categories and each category has different structural patterns. 
+● Colligational possibilities vary across lexical bundle types as each has specific syntactic elements (lexical and phrasal categories) which can follow them in contexts of use. 
+● More research is needed to understand how the bundles are structured and explain their co-occurrence in different genre 

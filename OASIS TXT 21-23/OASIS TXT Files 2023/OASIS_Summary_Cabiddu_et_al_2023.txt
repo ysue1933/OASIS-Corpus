@@ -1,0 +1,18 @@
+
+What this research was about and why it is important 
+ When people hear a language spoken that they do not know, they perceive speech as a continuous flow of sounds and cannot identify word boundaries. The situation is the same when adults talk to infants. At around age 6 months, infants face challenges in discovering words within the sentences that they hear. It is important to understand how infants accomplish this task; those who are better at discovering words in speech later become better at using those words in conversation. We focused on two variables that might help infants discover words. First, infants might recycle familiar sequences of sounds to guess which parts of a sentence correspond to words. If infants already know that at can end a word (e.g., cat), they might think that bat is also a word (it ends with the same sounds). Second, infants might notice that speakers often take a short pause between sentences. They might then infer that sounds at the end of a sentence correspond to the end of a word, and sounds at the start correspond to the start of a word. We used software that uses only familiar sound sequences and pauses between sentences to discover words in speech. Results showed that these two types of information are important; our program discovered words successfully. Results also showed that the words learned by the model were similar to words that 2-year-olds produce in their speech. 
+What the researchers did
+ 
+● We simulated how infants might discover words in fluent speech using a model (computer program). 
+● We fed the model real sentences spoken to children, simulating how infants discover words in real life. 
+● We evaluated if the model could successfully discover words from continuous speech, and importantly, we also examined if the model discovered words similar to those that are produced by children in conversation. 
+What the researchers found
+ 
+● Our model successfully extracted words from continuous speech. 
+● The model extracted words similar to those that children produce, that is, short and frequent words. 
+Things to consider
+ 
+● We showed that familiar sequences of sounds and pauses between sentences could help infants solve the problem of extracting words from fluent speech. 
+● We showed that successful word identification may be a precursor of vocabulary that infants develop and use. 
+● Future research should examine the role of additional variables that are known to be important for discovering words. For example, an infant might easily infer the beginning of a word from the fact that the first syllable of English words is often stressed in pronunciation. 
+● Although this research focused on understanding the mechanisms behind infants’ performance, future developments of this work might allow researchers to understand how to facilitate word discovery in infants and design techniques to boost the acquisition of vocabulary in young children. 

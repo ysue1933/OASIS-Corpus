@@ -1,0 +1,24 @@
+
+What this research was about and why it is important 
+ This mixed-methods study set out to explore the effect of Google Expeditions (a virtual reality tool) on Iranian English as a foreign language (EFL) learners' writing motivation and performance. Such investigation is important because modern technologies have been found to enhance students' motivation and generate in them positive attitudes toward learning. Virtual reality (VR), as a highly promising type of technology, can be well incorporated into language education as it reduces distraction on the part of the learners, helps them connect deeply with the material, and fosters motivation, engagement, and active learning among them. VR is a remedy to struggling EFL writers, who tend to perceive writing as attention-demanding, complex, and time-consuming. 
+What the researchers did
+ 
+● The researchers divided 42 EFL learners into experimental and control groups. The experimental group attended a Google Expeditions-enhanced writing class (GE) and the control group performed in a regular writing class (NGE). 
+● The researchers adopted a writing motivation scale to evaluate and compare the writing motivation of GE and NGE groups. 
+● The participants' writing performance was examined using a test before the class (pretest) and after the class (posttest). 
+● Semi-structured individual interviews were conducted with 19 volunteered GE participants to investigate their perspective on VR-enhanced writing. 
+● Statistical analyses were run to analyze the quantitative data and thematic analysis was used to explore the qualitative data. 
+What the researchers found
+ 
+● The findings demonstrated a difference between GE and NGE participants in terms of writing motivation at the end of the experiment, with GE ones outscoring their NGE counterparts, lending support to the supposition that VR has the potential to improve EFL writers' motivation. 
+● As the quantitative findings evinced, the GE participants not only made progress on the posttest compared to the pretest, in terms of writing performance but also outperformed the NGE ones. 
+● By and large, the GE participants displayed positive attitudes toward Google Expeditions, regarding it as motivational, interesting, and advantageous. 
+● The interviewees revealed that the virtual environment of Google Expeditions heightened their confidence, general knowledge, and autonomy on the one hand and lowered distraction and anxiety on the other. 
+● The participants also maintained that the virtual atmosphere of Google Expeditions offered them a safe environment to practice language learning and disentangled them from the subjective judgment of others. 
+● On the whole, this experiment suggests that VR tools can be incorporated within language tuition to support struggling EFL writers and those who lack motivation, allowing them to practice and further their language skills in a relaxed setting. 
+Things to consider
+ 
+● Educators and practitioners are warned against over-emphasizing the merits of VR tools and are commended to obtain a good understanding of the drawbacks and limitations of such tools prior to putting them into practice. 
+● This study reports the findings of a short-term program. Interested researchers are invited to assess the long-term effects of VR intervention to see whether similar benefits continue to exist. 
+● The chances are high that the novelty of employing Google Expeditions increased the participants' motivation and interest. Future researchers are recommended to explore the impact of VR on those students who have prior experience with such tools. 
+● Lastly, this study is limited by the sample size and proficiency level of the participating EFL learners. Examining a larger number of pupils from a variety of different proficiency levels may yield novel results. 

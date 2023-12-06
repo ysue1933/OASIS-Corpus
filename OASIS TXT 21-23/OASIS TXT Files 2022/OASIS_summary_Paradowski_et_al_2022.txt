@@ -1,0 +1,23 @@
+
+What this research was about and why it is important 
+ By 2025, eight million students globally will be taking part in study abroad programs. Dauntingly for many, such sojourns do not always lead to improved language proficiency. This is because second language acquisition is significantly affected by learners’ social network structures and the dynamics of their communication. Yet, studies are lacking that would attempt to properly explain these mechanisms. For the first time in the literature, our study uses computational social network analysis to reconstruct a complete graph of students’ communication, demonstrating what interaction patterns are beneficial and detrimental to successful progress in the context of immersion in the foreign language. 
+What the researchers did
+ 
+● We interviewed and handed out specially designed questionnaires to a complete group of 39 exchange students from 15 countries who were taking part in an intensive language course in Germany, asking them to say how much they talked to one another and in what language(s). 
+● We also asked about self-perceived progress, typical sociobiographical background information, as well as attitudes and selected personality traits. 
+● Unlike previous study-abroad social network research, which only asked individual learners to provide information about their social networks, without collecting corresponding information from their peers, our study is the first to obtain information from the complete learner network, thus permitting a reconstruction of the full social graph. 
+● For an objective measure of progress, we also obtained detailed grades from students’ end-of-course certificates. 
+What the researchers found
+ Several findings corroborated the influence of social networks and interaction patterns on second language progress: 
+● A central position in the network slowed down progress in the second language. 
+● For progress, the proportion of speaking in German to total talking time was more important than the mere ‘raw’ amount of time spent speaking this language. 
+● Students who were talked to a lot by others actually improved their German the least. 
+● Spending time with peers who shared the same native language hindered progress in German. 
+● Competence in other languages helped acquire German faster. 
+Things to consider
+ The findings suggest that: 
+● For successful language acquisition during study abroad, it is better to have strong social ties with a few selected people than to ‘spread oneself thin’ by building shallow ties with everyone around. 
+● Students who were talked to a lot were enabling others to actively practice the language, themselves only being passive recipients. Producing language leads to deeper processing and accelerates progress. 
+● Lingering in the comfort zone of other compatriots may reduce the motivation to adjust to the host culture, act as a ‘stumbling block’ constraining the development of friendships with other nationals, and consequently hinder long-term language development. 
+● Future studies could measure social network structure and progress at more frequent intervals. It will also be useful to investigate the amount of students’ conversations outside the group of their classmates. 
+● The results may aid study abroad program directors in informed choices regarding the selection of living arrangements, group placement, and offer of extracurricular activities to help students create and expand their relationships with peers of other nationalities. Teachers in turn could use the results to choose optimal forms of in- and out-of-class activities and assignments, such as group-/team-based projects, as well as identify students who might need intervention. Last, the findings may help students themselves become more aware of the role of their social networks in language learning. 

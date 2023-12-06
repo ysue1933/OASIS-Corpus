@@ -1,0 +1,23 @@
+
+What this research was about and why it is important 
+ Research on motivation often uses questionnaires, but we need to be confident that these questionnaires are valid (i.e., measure what they claim to measure). Two questionnaires commonly used in self-determination theory (SDT) research are the Basic Psychological Needs Satisfaction and Frustration Scale (BPNSFS) and the Language Learning Orientations Scale (LLOS). In this study, data from these questionnaires, administered to learners of English in a Japanese university, were analyzed using the Rasch model for measurement to establish their validity. Also, a regression analysis examined whether motivation, as measured by these questionnaires, predicted English listening and reading proficiency. It was found that the questionnaires satisfied many of the requirements of the Rasch model, thus demonstrating their validity, but showed some items needed revision. Results also showed that autonomy (a sense of freedom regarding choices about learning) had a significant relationship with English listening and reading proficiency; intrinsic motivation (a sense of fulfilment and enjoyment from learning) was related to English listening but not reading; and competence (self-perceived ability) and external motivations (e.g, studying for material rewards such as grades or future employment) seemed not to have any relationship with listening or reading scores. 
+What the researchers did
+ 
+● The Basic Psychological Needs Satisfaction and Frustration Scale (BPNSFS) and the Language Learning Orientations Scale (LLOS) were given to 600 second year non-English major university students in Japan studying English as a foreign language. 
+● The same students completed the TOEIC Listening and Reading proficiency tests. 
+● Each of the questionnaires was analyzed using the Rasch model for measurement. 
+● Results from both motivation questionnaires were used to predict scores on the English proficiency test. 
+What the researchers found
+ 
+● Rasch analysis showed that the questionnaires measured the hypothesized constructs appropriately. 
+● There were some problems with measurement of external forms of motivation. 
+● Although the constructs were largely valid, most also had issues that seemed to be linked to wording of individual questionnaire items. 
+● Autonomy was a significant predictor of listening and reading proficiency. 
+● Intrinsic motivation predicted listening proficiency. 
+● External forms of motivation had no relationship with reading or listening proficiency. 
+Things to consider
+ 
+● Rasch analysis offered detailed information about whether each construct measured by the questionnaires was indeed one construct (versus multiple constructs), and also about how individual items contribute to the data for each construct. 
+● Questionnaires can be improved by rewriting items based on the results of Rasch analysis. 
+● To improve English listening and reading proficiency, external rewards or threats may not be as useful as enhancing students’ internal forms of motivation (e.g., satisfaction from learning). 
+● Intrinsic motivation, which was associated with listening proficiency, may have been caused by increased engagement with English outside of class. 

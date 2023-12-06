@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ Research shows that when deciding what target words to focus on in their books, textbook designers tend to use their intuition rather than a systematic method. Emerging from the need to create a corpus-informed and pedagogically convenient word list for an academic program in Turkey, the current study mainly explored the possible relationship between subjective frequency ratings (i.e., EFL instructors’ intuitions of how often a word is used) and objective frequency measures (i.e., counts of how often a word occurs in corpus). The study investigated the relationship between the subjective frequency judgements of English as a Foreign Language (EFL) instructors who are first language (L1) Turkish and second language (L2) English users and objective frequency measures from a large corpus. The study included adjective + noun and verb + noun collocations. The word order of adjective + noun collocations overlaps in the two languages. In the noun + verb collocation the two languages differ: nouns typically precede verbs in Turkish, whereas in English nouns typically follow verbs. The difference in the syntactic order may have an effect on how collocations are represented in the L1 Turkish-L2 English mental dictionary, which could influence the EFL instructors’ familiarity with the collocations. The results show that there is a positive correlation between the EFL instructors’ collocational frequency intuitions and an objective collocational frequency measure (t-score), especially for verb + noun collocations. The findings can guide those who design materials for teaching collocations in particular. 
+What the researchers did
+ 
+● 50 collocations (25 adjective + noun and 25 verb + noun) were chosen from two intermediate EFL course books. 
+● British National Corpus was used as the reference corpus to extract objective measures of how often a collocation is used. 
+● Some statistical calculations were computed to detect objective collocational strength. 
+● 51 instructors of English at a Turkish state university participated in the study. 
+● Participants indicated in an online questionnaire how frequent they thought the collocations were (1 lowest frequency – 5 highest frequency). 
+What the researchers found
+ 
+● Corpus-based frequency and EFL instructors’ frequency intuitions correlate positively, particularly for verb + noun collocations. 
+● The analysis indicates that the t-score (a score showing collocational strength) is a significant predictor of frequency intuition. 
+● Participants of the current study have a tendency to rate higher frequency collocations more accurately (i.e., closer to objective corpus frequency). 
+Things to consider
+ 
+● Course book designers’ and writers’ decisions regarding target vocabulary and lexical frequency can be complemented by objective measures. 
+● Reference vocabulary lists can be designed based on specialized (i.e., learner) corpora, experienced EFL instructors’ frequency intuitions, and representative corpora. 
+● Studies like this can guide decision makers in tertiary level schools in constructing their vocabulary syllabi and designing materials for teaching collocations. 

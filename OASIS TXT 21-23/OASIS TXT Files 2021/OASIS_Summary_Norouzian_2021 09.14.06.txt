@@ -1,0 +1,22 @@
+
+What this research was about and why it is important 
+ There has recently been a surge of interest in improving the replicability of second language (L2) research. However, less attention has been paid to replicability in the context of L2 meta-analyses. In this research, the author argued that conducting inter-rater reliability (IRR) analyses to examine how raters agree with each other is a key step toward improving the replicability of L2 meta-analyses. To that end, he developed two IRR measures, S index and Specific Agreement (SA). Then, the researcher created a program called meta_rate in R (a programming language and environment) to conduct the IRR analyses. Next, he applied the R program to an actual meta-analytic L2 study to demonstrate the practical use of the IRR methods discussed. Finally, he provided interpretive guidelines to assist both L2 meta-analysts and journals with the transparent reporting of the IRR findings. 
+What the researchers did
+ 
+● The researcher surveyed L2 meta-analyses published between 2014 and 2019 in 14 L2 journals. 
+● The foundations of IRR in L2 meta-analyses were laid out, and a formal definition of “coding” was provided. 
+● The researcher introduced two measures of IRR and argued for their advantages (e.g., these measures avoid underestimation of the inter-rater agreements) over the existing measures. 
+● The researcher developed an R program (available at: https://github.com/rnorouzian/m/blob/master/r.r) designed to compute the new IRR measures. 
+● The researcher applied the R program to an actual L2 meta-analysis and offered interpretative guidelines and reporting protocols. 
+What the researchers found
+ 
+● The survey revealed that similar to other social sciences, the use of IRR in L2 meta-analyses is limited, which raises concerns over the replicability of L2 meta-analyses. 
+● The researcher found that the new measures of IRR overcome the misleadingly low agreement scores among raters. 
+● The researcher found that difficulties with measurement often arises in meta-analytic coding sheets, given the presence of variables with different categories. 
+● The software can help overcome the measurement difficulty, but supervision of the L2 meta-analyst is still required. 
+Things to consider
+ 
+● IRR analyses must be a crucial part of meta-analysis in L2 research. 
+● The IRR reporting must have two parts: a table reporting raters’ agreements and a graph displaying the different categories where there is disagreement among the ratings. 
+● Even high rates of IRR are not an indication of replicability, when only a small proportion of studies have undergone IRR analyses. 
+● More coders improve replicability, which results in narrower confidence intervals around S indices. 

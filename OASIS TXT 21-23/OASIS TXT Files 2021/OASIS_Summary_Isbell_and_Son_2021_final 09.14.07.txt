@@ -1,0 +1,22 @@
+
+What this research was about and why it is important 
+ This research evaluates the validity of a general oral proficiency test commonly used in second language acquisition (SLA) research called an Elicited Imitation Test (EIT). On the EIT, learners listen to a sentence, wait for a short time, and then repeat the sentence. Their repetitions are given a score from 0-4 based on how accurately the original sentence was repeated. EITs are used to measure the oral proficiency of participants to ensure fair comparisons within and across research studies and better understand how proficiency is relevant to learner language use and acquisition. We investigated the validity of the Korean EIT, combining data from three different groups. We found that the Korean EIT was reliable, measured the proficiency of different learner groups fairly, and that scores on EIT items had strong connections to the linguistic features of those items. We also provide guidance for interpreting Korean EIT scores based on our large, combined sample. 
+What the researchers did
+ 
+● We combined Korean EIT data from 3 separate studies, including 318 learners from diverse backgrounds. 
+● We examined how reliably 5 different researchers scored the EIT responses. 
+● We checked whether there were differences in how the items worked for heritage learners, second language learners, and foreign language learners. 
+● We explored how linguistic features of EIT items, like vocabulary sophistication, affected how hard it was to earn high scores. 
+What the researchers found
+ 
+● We found that the 5 researchers scored EIT items very similarly. 
+● Although we found that some items were easier or harder for some learners than others (heritage learners were the most different), the overall impact on EIT total scores was minimal. 
+● We found that the number of inflectional morphemes (grammatical affixes like subject markers and verb endings) and level of vocabulary sophistication made EIT items more difficult. 
+● We present a table of raw EIT scores and percentile ranks that can be used to help interpret scores (e.g., a score of 80 out of 120 puts a learner above 70% of L2 Korean learners in our study). 
+Things to consider
+ 
+● Korean EIT scores are reliable across scorers, which is helpful as this test is scored by different people in different research studies. 
+● Korean EIT scores appear to mean the same thing across commonly-studied types of L2 learners. 
+● Knowing that inflectional morphemes and vocabulary sophistication determine the difficulty of EIT items can be helpful for developing new items. 
+● We hope that researchers will continue to use EITs to measure oral proficiency and now they can make comparisons to our large, combined sample. 
+● Combining raw data from many studies is a promising approach for researching how well SLA instruments work. 

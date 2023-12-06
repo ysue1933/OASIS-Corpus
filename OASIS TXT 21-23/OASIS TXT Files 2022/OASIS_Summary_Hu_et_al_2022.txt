@@ -1,0 +1,22 @@
+
+What this research was about and why it is important 
+ The priority of teaching English should be to maximize the mutual understanding between English language learners (ELLs) and native English speakers (NESs), and between ELLs from different origins. These two related but independent meta-analytic review studies examined how effective instruction or tasks could help to improve the intelligibility (i.e., the extent to which a speaker’s message is actually understood by a listener) and comprehensibility (i.e., how easy or difficult the listener perceives the speaker’s message is to understand) of ELLs’ speech perceived by NESs. A meta-analytic review is a way to use statistics to assess effectiveness across many different studies. Results showed that both studies focusing on ELLs and those aimed at NESs were effective for improving ELLs’ speech intelligibility and comprehensibility. 
+What the researchers did
+ 
+● The first meta-analysis reviewed 18 intelligibility and comprehensibility of the speech from ELLs most of whom were at the university level through pronunciation instruction or tasks. independent studies focusing on improving 
+● The second meta-analysis included 10 independent studies focusing on improving intelligibility and comprehensibility of ELLs’ speech by improving either attitudes of adult NESs towards ELLs’ accented speech or their familiarity with ELLs’ accented speech. Included studies in both reviews were collected from peer-reviewed journals, conference proceedings, and dissertations from 1992 to 2021 by searching databases such as ERIC, PsycINFO, ProQuest Dissertations & Theses Global, Linguistics and Language Behavior Abstracts, and Education Source. 
+● 
+● A statistical procedure called robust variance estimation (RVE) was used to calculate the effectiveness of included studies and analyze factors affecting the effectiveness. 
+What the researchers found
+ 
+● Instruction or tasks focusing on both ELLs and NESs were helpful for improving intelligibility and comprehensibility of ELLs speech as perceived by NESs. Instruction or tasks aiming to change NESs’ attitudes towards ELLs’ speech, rather than those aiming to improve NESs’ familiarity with ELLs’ accented English, were helpful for improving intelligibility and comprehensibility of ELLs’ speech as perceived by NESs. In both analytic reviews, instruction or tasks were found to make ELLs’ speech easier to understand by NESs, though the NESs were no more accurate in their understanding of the ELLs’ speech. In both analytic reviews, ELLs’ speech produced from controlled activities, such as words or sentence reading, rather than from spontaneous tasks, such as picture description, were found to be understandable by NESs. 
+● 
+● 
+● 
+● However, the effectiveness of instruction or tasks was not affected by whether they were implemented in classrooms or laboratories. 
+Things to consider
+ 
+● Successful communication is jointly constructed by both speakers and listeners; thus, both speakers and listeners should be targeted to increase intelligibility and comprehensibility. 
+● Some segmental and suprasegmental elements of pronunciation which were found to be essential to the intelligibility and comprehensibility of communication should be included in pronunciation instruction for L2 speakers. Instruction or tasks aimed at improving L1 speakers’ attitudes towards or perceptions of target language spoken by L2 speakers should also be implemented, for example as part of university orientation and/or diversity/inclusion programs. 
+● 
+● Future studies should further identify linguistic elements that are closely associated with intelligibility and comprehensibility of speech in communication. 

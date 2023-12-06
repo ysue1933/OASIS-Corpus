@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+ Reading plays an important role in the development of vocabulary knowledge, especially when it comes to learning a new language. Previous studies have reported the benefit of reading for learning second / foreign language (L2) words. However, few studies have investigated the impact of lexical characteristics and reading time on vocabulary knowledge acquired from reading. Most Chinese words are compounds, which can be semantically transparent (you-deng, oil-lamp, oil lamp) or opaque (shui-mu, water-mother, jellyfish), depending on whether the meaning of compounds can be predicted by the characters that constitute them. This study had L2 learners of Chinese read stories in which unfamiliar transparent or opaque compounds were embedded. Whilst reading, their eye movements were recorded using an eye tracker. Results showed that transparent compounds were easier to acquire than opaque compounds. Moreover, reading time spent on the novel compounds was positively associated with vocabulary knowledge gained from reading.   
+What the researchers did
+ 
+● Participants were 61 college students. They were intermediate-level Chinese learners. They were not heritage speakers of Mandarin Chinese or Chinese dialects, and they did not speak Korean, Japanese, or Vietnamese as their L1 or L2. 
+● Twelve compounds unfamiliar to the participants were selected and randomly embedded in twelve stories created by the researchers.  
+● Each story contained three transparent compounds and three opaque compounds. In total, each compound word occurred six times across six stories.  
+● Immediately after the reading task, L2 learners received three vocabulary tests, in which they were asked to identify the correct word form, choose the correct word meaning, and explain the meaning of the compounds.  
+● To measure the amount of time spent on reading each compound word, researchers recorded L2 learners’ eye movements using an eye tracker and summed their reading time over six occurrences of the compounds. 
+What the researchers found
+ 
+● L2 learners were better capable of identifying the correct word form and describing the word meaning for transparent compounds than for opaque compounds.  
+● For both transparent and opaque compounds, longer reading time led to better performance when L2 learners were asked to identify the correct word form and word meaning.   
+Things to consider
+ 
+● This study showed that different types of vocabulary knowledge developed at different rates, and such a learning sequence may vary especially when lexical characteristics (such as semantic transparency) are considered.  
+● Transparent and opaque compounds in this study did not differ in the amount of reading time. Consequently, the authors believe that the acquisition advantage of transparent compounds over opaque compounds largely results from semantic transparency (that is, one could guess the meaning of transparent compounds based the meaning of the constituent characters, yet such could not be achieved for opaque compounds).   
+● It is worth noting that L2 learners in this study read the stories in a natural way. They focused on understanding the stories, rather than detecting and inducing the meaning of words unfamiliar to them. 

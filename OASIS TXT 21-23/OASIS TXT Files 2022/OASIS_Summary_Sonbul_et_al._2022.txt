@@ -1,0 +1,22 @@
+
+What this research was about and why it is important 
+ English speakers say that things go together like bread and butter, not like butter and bread. Phrases like these are referred to as binomials, which are two words from the same part of speech conjoined by a conjunction. Binomials are one type of formulaic sequences (fixed lexical patterns) with two important properties: co-occurrence restrictions (words cannot be swapped out for others with a similar meaning) and word order preferences (binomials have a much more common order, with the reversed order often sounding odd or unnatural). An earlier study showed that first-language (L1) users can extract such direction preferences for novel (invented) binomials after as few as four encounters as evidenced by slower reading of the reversed form relative to the forward form after four encounters. But what about second language (L2) speakers? This line of enquiry can help evaluate the conditions under which L2 learners develop sensitivity to lexical patterns like black and white (over white and black). The present study attempts to answer this question by extending earlier findings to L2 speakers. 
+What the researchers did
+ 
+● Thirty-nine L2 speakers of English (L1 Arabic) read three short stories that contained 12 existing binomials (black and white) and 20 novel binomials (bags and coats). 
+● The existing binomials appeared once in their forward (conventional) form (black and white) and once in their reversed form (white and black). 
+● The novel binomials appeared in their experimentally defined forward form in different frequency conditions (two versus four encounters). 
+● After all encounters with the forward form, the novel binomial was presented in its reversed form to examine sensitivity to direction. 
+● We analyzed eye-movement patterns using mixed-effects modelling. 
+What the researchers found
+ 
+● Results showed no advantage for existing binomials (black and white) over their reversed forms (white and black) for the L2 speakers. 
+● As for the novel binomials, L2 speakers read subsequent encounters significantly faster than initial ones for both frequency conditions. 
+● More importantly, the final reversed form also led to a processing advantage (i.e., there was no ‘penalty’ for the reversed form); suggesting that L2 speakers process the reversed form of a novel binomial as another encounter, ignoring the direction preference. 
+Things to consider
+ 
+● Results suggest that not all aspects of binomial knowledge are learned at the same pace. 
+● Sensitivity to co-occurrence of words can develop quickly. 
+● Sensitivity to the preferred word order does not develop even after several exposures. 
+● However, the study only included two frequency conditions (two vs. four) and did not include a post-exposure measure of knowledge. 
+● Future research should explore the effect of increased frequency on the acquisition process by measuring post-exposure gains. Material, data, open access article: 

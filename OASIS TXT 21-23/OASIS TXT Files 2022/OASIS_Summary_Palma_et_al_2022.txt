@@ -1,0 +1,18 @@
+
+What this research was about and why it is important 
+ People learn new words throughout their lives. However, it is unclear if novel word learning occurs in bilingual adults in the same way as it occurs in monolingual individuals. In monolingual adults, some studies have found that time/sleep allow novel words to be integrated into our “mental dictionary.” Importantly, this process may be influenced by the words present in their environment, as well as linguistic experience—two factors that vary widely across monolingual and bilingual individuals. Understanding how bilingual adults learn novel words has implications for understanding the dynamics of language development throughout adulthood, and for designing vocabulary teaching strategies. This study investigated bilingual adults’ learning of new words, with a particular focus on the changes in novel word knowledge across a period of “consolidation” (a time interval including sleep). We were especially interested in the effects of 1) how many similar words exist in the language environment that the learners experience and 2) prior language experience in terms of vocabulary-level similarity between the known languages. 
+What the researchers did
+ 
+● 33 adult first language English speakers, with French as their second or third language, participated. 
+● Each participant learned 120 novel neighbor words to actual English words (for instance, torato, which is 1 letter different from tomato), presented on a computer screen. 
+● To understand the effect of the learning environment, some English words had only one novel neighbor (a “small” learning environment), while others had five (a “large” learning environment). To investigate the impact of prior language experience (of knowing French), some of the English words resembled their French translations (for instance, tomato–tomate), others did not (e.g., cradle–berceau). 
+● After exposure to the novel neighbor words, participants were asked to distinguish between those to which they had been exposed vs. those they had not been exposed in the experiment. They were also presented with the original English words and with made-up words (other than the neighbors) and were asked to quickly determine which words were actual words. 
+What the researchers found
+ 
+● Bilingual adults performed better at recognizing a novel neighbor word when 1) the learning environment was small, and 2) the English word was similar to its French translation. 
+● Learning novel words changed how participants processed the original English words—learning torato changed how 
+● participants reacted to tomato. Immediately after learning, participants reacted more quickly to the original English words when novel neighbors to these words had been learned. After consolidation, they reacted more slowly to the original English words when novel neighbors to these words had been learned. Importantly, this was true only when the original English words resembled their French translations. For instance, if torato had been learned, participants reacted more quickly to tomato immediately after learning, but more slowly after consolidation. 
+Things to consider
+ 
+● The size of the learning environment is important for the early steps of novel word learning, with small learning environments being associated with better learning. 
+● Long-term retention of novel words by bilingual individuals benefits when individual vocabulary items are similar between the two known languages—capitalizing on the similarities between the two known languages may therefore be an interesting strategy to investigate for vocabulary teaching in bilingual contexts. 

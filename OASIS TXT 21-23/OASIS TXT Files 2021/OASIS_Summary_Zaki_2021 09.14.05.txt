@@ -1,0 +1,15 @@
+
+What this research was about and why it is important 
+ Most foreign language students say they want their teacher to correct their errors. But figuring out how to self-correct one’s own second language (L2) errors is also useful. To do this, students can be trained to look up explanations or solutions in a target language corpus, something that is called data driven learning (DDL) in the field of second language acquisition. In this study, corpus-based tasks were found to foster self-correction of L2 errors in writing among intermediate-level college students of Modern Standard Arabic (MSA). What the researcher did 
+● College foreign-language students of MSA participated in the study (N=32). All had studied Arabic for at least three semesters and had high (one class) and low (2 classes) intermediate proficiency. None had worked with language corpora before. 
+● The teacher underlined errors in weekly written assignments and created DDL tasks using arabiCorpus, a 173-million-word untagged open-access corpus of Arabic. 
+● Over weeks 4–14, after some practice tasks, the students carried out 10 DDL tasks—searching the corpus online, or working offline with printed corpus searches previously prepared by the teacher. 
+● Their written assignments, quizzes, and exams were evaluated for successful error correction. What the researcher found 
+● The corpus-based tasks were found to be helpful in providing explicit knowledge about word combinations in Arabic, called collocation (e.g., learning which verbs go well with “opportunity,” ةصرف or fursa; or finding out that there are two adjectives for “heavy” in Arabic, and only one can be used with “traffic”). Students were also found to correct errors of grammar successfully (e.g., after noticing in corpus searches that a verbal noun and not a verb is needed in Arabic for the phrase “it is imperative that”). 
+● Successful corrections were high (60% or higher depending on the class). Incorrect changes to errors were minimal (10% at worst) and the number of instances when no change attempted was more variable (between 10% and 40%). The high-intermediate level class benefited the most, with highest number of successful corrections (90%) and 0% unsuccessful corrections. 
+● On a pre-task survey, students preferred teacher-led correction overall, but the high-intermediate level students selected both teacher-led and self-led error correction. This may suggest they are more confident in their linguistic knowledge of Arabic and less dependent on teachers. 
+Things to consider
+ 
+● The study supports previous research on the usefulness of self-driven error correction, particularly for higher-level intermediate learners. 
+● Corpus-based tasks are a cognitively engaging complementary strategy for error correction. 
+● More corpora of Arabic are required to expand empirical research on error correction and DDL in classrooms of Arabic as a foreign language. 

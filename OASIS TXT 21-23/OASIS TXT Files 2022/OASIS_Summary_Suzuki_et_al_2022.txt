@@ -1,0 +1,22 @@
+
+What this research was about and why it is important 
+ Task repetition or repeating the same speaking task is an effective teaching strategy to improve second language (L2) fluency. In particular, when specific linguistic expressions are re-used during repeated task performance, L2 fluency may develop most. We examined whether it would be possible to increase the recycling of specific linguistic expressions by repeating the same task in a “block” rather than mixing up (“interleave”) different tasks to spread out the repetition. Findings suggest that blocked task repetition (the same narrative speaking task three times a day) was more effective in inducing re-use of linguistic expressions than interleaved task repetition (the same task was distributed over three consecutive days). The findings suggest that teachers can manipulate the task-repetition schedule to increase the reuse of linguistic constructions to promote learners’ fluency. 
+What the researchers did
+ 
+● Participants were 50 Japanese university students. They had at least 6 years of experience in studying English. 
+● Participants were assigned to either a blocked or an interleaved practice group and engaged in speaking training outside of their regular classes. 
+● They performed oral narrative tasks with six-frame cartoon stories three times a day for three consecutive days. 
+● In the blocked practice group, participants performed the same narrative three times a day. For instance, they narrated Cartoon A three times on the first day, followed by Cartoon B three times on the next day, and finally Cartoon C three times (Day 1: A-A-A, Day 2: B-B-B, Day 3: C-C-C). 
+● In the interleaved practice group, participants performed three different narratives on each of the three days (Day 1: A-B-C, Day 2: A-B-C, Day 3: A-B-C). 
+● The reuse of linguistic expressions across the same prompt was examined at both concrete (lexical unigram [e.g., “bicycle”] and trigram [e.g., “behind the bicycle”]) and abstract (parts of speech trigram [e.g., “preposition determiner noun”]) level. 
+● Fluency development was measured by a pretest and a posttest consisting of a six-frame cartoon story new to the participants. The posttest was administered one day after the final speaking training session. 
+What the researchers found
+ 
+● Blocked task repetition led to higher reuse of both concrete and abstract linguistic expressions than interleaved task repetition. 
+● The higher reuse of linguistic expressions was related to during-training and pretest−posttest fluency changes. Particularly, greater reuse of lexical and abstract trigrams during interleaved practice led to improvements in speed and breakdown fluency (i.e., shorter mean syllable duration and fewer mid-clause pauses) after the intervention, albeit with higher effort (indicated by longer mid-clause and clause-final pauses). 
+Things to consider
+ 
+● Immediately repeating the task (blocked practice) was beneficial in promoting speaking fluency and underlying mechanisms for using linguistic expressions as well as more abstract trigrams (e.g., “determiner-adjective-noun”). 
+● Some learners repeated the same trigrams incorrectly in all three performances (e.g., *“tiger was unconscioused”, *“glared to him [the]”). If the recycled expressions are inaccurate, their reuse may be counterproductive. It is thus premature to make strong practical recommendations solely based on the current results. 
+● Accuracy enhancement techniques (e.g., provision of narration models and corrective feedback) might be beneficial for promoting the reuse of target-like linguistic expressions. 
+● In this study, the L2 learners performed the task with a broad aim of improving their speaking proficiency. Teachers could provide more specific instructions (e.g., describe the story in more detail, direct learners’ attention to linguistic accuracy) and corrective feedback (e.g., pointing out common errors among learners) to fine-tune speaking skills. 

@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+ During online language learning interactions, learners need to manage or regulate their negative emotions and sustain positive emotions, such as enjoyment, to ensure successful group interactions and construction of knowledge. Using software to self-rate emotions, interviews, and video recordings, the present study explored how the enjoyment, a typical positive emotion, of Chinese learners of English as a Foreign Language (EFL) evolved and was realized via emotion regulation in an online collaborative language learning activity. The findings identified three emotion regulation types (i.e., self-, co-, and socially shared regulation), and their relations with each other in constructing enjoyment during online collaboration. 
+What the researchers did
+ 
+● Six Chinese undergraduate EFL learners in two 3-member groups who completed EFL writing tasks online participated in interviews and self-rated their emotions. 
+● Anion Variable Tester Software, a computer program, was used for participants to self-rate their moment-by-moment enjoyment levels while watching the recording of their group work. 
+● The participants were interviewed one-on-one, face-to-face about the reasons for the high levels and spikes in their self-ratings. 
+● The video recordings of the group work in both groups were coded and analyzed to identify the types of emotion regulation. 
+What the researchers found
+ 
+● The self-ratings of participants’ enjoyment highlighted the dynamic evolution of six Chinese EFL learners’ enjoyment at the individual and group level during online collaborative learning. The dynamic existence of group-level enjoyment in both groups reflected their multiple collective efforts to create a social and enjoyable atmosphere during their collaboration. 
+● The interview results revealed that participants employed different types of emotion regulation (i.e., self-, co-, and socially shared regulation) to sustain their group-level enjoyment. Among them, participants reported slightly more use of socially shared regulation in collaboration. 
+● The group chat log analysis revealed more about the mutual support, coordination, and interplay of these three regulation types. Furthermore, the results showed that emojis, along with words, worked as a means of emotion regulation for participants in online collaborative learning. 
+Things to consider
+ 
+● This study uncovers the individual and group processes that underlie enjoyment and emotion regulation during online collaborative language learning. 
+● In collaborative activities, teachers should not only focus on students’ construction of knowledge, such as correcting errors in their ideas, but should also pay attention to their students’ emotional experiences, especially any changes in their enjoyment experience. 
+● Some regulation strategies adopted by the participants could be a good choice for teachers to promote student agency for enjoyment regulation, such as the adoption of different emojis and intentional guidance in planning, monitoring, and evaluating. 

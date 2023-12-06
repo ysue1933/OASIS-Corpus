@@ -1,0 +1,18 @@
+
+What this research was about and why it is important 
+ The umbrella term of ‘academic perseverance’ encompasses several psychological factors, including grit and conscientiousness. Language learners who possess academic perseverance are known for pursuing their academic objectives with an increased focus and determination. This study examined the extent to which academic perseverance predicts future academic achievement of students studying either Spanish or French as foreign languages during the COVID-19 pandemic. The study found that the consistency of interest facet of grit was, in fact, a superior predictor of language-related academic performance compared to the perseverance of effort facet. 
+What the researchers did
+ 
+● The researchers surveyed 360 Spanish (72%) and French (28%) foreign language learners at a U.S. university. 
+● The participants completed a self-report questionnaire that included questions about language-learning grit and three related psychological characteristics (conscientiousness, intended effort, and buoyancy). At the end of the semester, the researchers obtained participants’ foreign language exam scores and final grades that served as indicators of students’ achievement in the target language. 
+What the researchers found
+ 
+● The results of statistical analyses revealed that the survey instruments were both valid and reliable measures of the four psychological factors examined in the study. 
+● However, there was found to be an overlap between intended effort and the perseverance of effort facet of foreign language grit. 
+● Contrary to the researchers’ expectations, the relationship between foreign language grit and conscientiousness was not as pronounced as originally hypothesized. 
+● The most unexpected finding, however, was that the perseverance of effort facet of foreign language grit did not emerge as a strong predictor of academic performance, whereas the consistency of interest facet of grit did. To put it differently, students with higher levels of self-perceived consistency of interest in a foreign language tended to have higher final exam scores at the end of the semester. 
+Things to consider
+ 
+● The overlap between intended effort and the perseverance of effort facet of foreign language grit might be due to both theoretical and measurement-related issues, which should be investigated in future research. 
+● A weaker-than-anticipated relationship between foreign language grit and conscientiousness might be due to the nature of the instrument employed in the study. Specifically, the questionnaire was designed to measure situation-specific grit rather than grit in general as was often the case in other empirical studies. 
+● The puzzling finding concerning the consistency of interest facet of grit might be explained by the shift to online instruction in the middle of the semester due to the spread of COVID-19. 

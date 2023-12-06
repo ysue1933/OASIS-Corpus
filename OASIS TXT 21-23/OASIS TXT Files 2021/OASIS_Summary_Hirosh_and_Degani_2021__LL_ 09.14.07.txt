@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+ Bilingual speakers can learn foreign vocabulary through translations in their first-language, or through translations in their second-language, but which is better? To test this, adult native Hebrew speakers, with English as their second-language, learned words in German either with Hebrew (native language) translations, or with English translations (a second-language, that is more similar to German). Some of the learned German words were similar to English in sound and meaning (for instance Maus in German translates as ‘mouse’ to English), some were similar to English in sound but differed in meaning (Gift in German means ‘poison’ in English), and some were dissimilar (Saft in German means ‘juice’). We found that generally bilinguals learned the words better with translations in their first-language, especially when words were dissimilar across the second and third languages. Similar words (like Maus) were the easiest to learn. Similar words with a different meaning (Gift) tended to be easier to learn with the English translation. Overall, learning with translations in the native language, in which speakers are more proficient and experienced, resulted in better learning. 
+What the researchers did
+ 
+● 59 adult native Hebrew speakers, who have learned English in school as their second-language, participated. 
+● Each participant learned 55 German words, presented via headphones, so learners never saw the German spelling. 
+● Half of the participants learned German words with their Hebrew translations, and half with English translations.  
+● The German words to be learnt could be similar to English in sound and meaning, in sound but not meaning, or dissimilar. All German words did not sound like words in Hebrew. 
+● After learning, participants were asked to (a) recognize which of the four translations (in Hebrew or in English, in line with their learning condition) were the correct translation of the German word, and (b) to say the German word out loud when seeing its translation (in Hebrew or English, as per their learning condition). 
+What the researchers found
+ 
+● Bilinguals learned the German words (especially dissimilar ones) better with their first-language (Hebrew) translations than their second-language (English) translations, even though English is more similar to German. 
+● Words that were similar in sound and meaning were easiest to learn, regardless of the language of instruction. 
+● Words that were similar in sound but not meaning tended to be easier to learn, especially through English. 
+Things to consider
+ 
+● Learning through the first-language was generally better, perhaps because processing the first-language is easier, freeing up cognitive resources to learn the novel words, and because bilinguals may be more experienced in ‘ignoring’ their first-language in order to process information in other languages. 
+● To the extent that bilingual learners can choose the language through which to learn an additional language, the current findings favor the more proficient firstly acquired language as the language of instruction. 

@@ -1,0 +1,21 @@
+
+What this research was about and why it is important 
+ In second language (L2) acquisition research, it is considered important that learners understand the input they receive to learn new language. However, not all the input to which learners are exposed gets taken in and learned by them. It is generally held that only that part of the input that learners pay attention to can potentially facilitate L2 development. In the context of reading, textual enhancement has been proposed as a possible way to draw learners’ attention to language. Textual enhancement techniques aim to make linguistic features salient, and thereby draw learners’ attention to L2 features that they may otherwise fail to attend to and thus learn. Enhancing written input typically involves some kind of textual modification, such as underlining, highlighting, or boldfacing. In this study, we aimed to investigate the extent to which highlighting, implemented through a digital reader application (Amigo), can facilitate development in the knowledge of two L2 derivational suffixes, the -ion (as in connection) and -ment (as in payment) morphemes. We focused on child language learners. To allow sufficient time for any effects of highlighting to emerge, the participants received exposure to the -ion and -ment suffixes in six instructional sessions. We conducted the study in two L2 settings with learners from different first language (L1) backgrounds (Romanian, Swedish), allowing for testing the generalisability of our findings across different L1 groups. We found a small advantage of highlighting for the acquisition of the –ion morpheme by Swedish learners, but Romanian learners showed no benefits from highlighting. 
+What the researchers did
+ 
+● The researchers conducted the experiment over 9 weeks; it took place during the same regularly scheduled English class every week in both the Romanian and Swedish contexts. 
+● The Romanian children fell into the 11-12 age range, whereas the Swedish children were all 10-12 years old. 
+● In the first session, participants were administered the reading section of a practice Cambridge English Preliminary test (PET) to determine their reading proficiency. 
+● In the second session and last session, participants completed two tests to assess their learning: (1) a multiple-choice test, which asked learners to select a correct non-word with an English suffix to complete a sentence e.g., They had a nice ____ a. tweaged, b. tweagish, c. tweagable, d. tweagment (correct response: tweagment) (2) a decomposition task, which required breaking down words into base and suffixes to complete sentences e.g., bancement, She is teaching to _____ (correct response: bance) 
+● During each session from weeks 3-8, participants read one text using the Amigo reader application. For half of the learners, the -ion and -ment suffixes were highlighted (e.g., instruction) in the texts. For the other half, the suffixes were not highlighted. Children also completed comprehension questions. Each session lasted about 30 minutes. 
+What the researchers found
+ 
+● We found an advantage for highlighting for only one of the suffixes (-ion) on the multiple-choice test by the Swedish children. 
+● Highlighting did not seem to benefit the Romanian learners. 
+● Highlighting did not facilitate knowledge of the -ment morpheme by either the Romanian or Swedish learners. 
+Things to consider
+ 
+● Our results imply that highlighting may promote the knowledge of some suffixes. However, even if highlighting is used repeatedly, it may not be effective in promoting knowledge of all L2 suffixes for all types of learner groups. 
+● Two types of suffixes were highlighted in each text, this might have made it more challenging for learners to notice them. 
+● We did not assess the possible longer-term benefits of highlighting. 
+● In future research, it would be interesting to explore whether more frequent sessions over a shorter period would lead to more learning. 

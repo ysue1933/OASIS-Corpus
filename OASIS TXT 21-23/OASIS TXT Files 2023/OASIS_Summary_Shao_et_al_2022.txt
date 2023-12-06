@@ -1,0 +1,25 @@
+
+What this research was about and why it is important 
+ Variation between individuals features prominently in the learning of a second language (L2). One factor of such variation could be, as in first language (L1) acquisition, the extent to which learners have a ‘good ear’, namely the ability (a) to hear very subtle acoustic details of sounds (i.e., auditory acuity) and (b) to convert auditory input into motor action (i.e., audio-motor integration). The current longitudinal study set out to examine whether, to what extent, and how different constructs of auditory processing (i.e., acuity, integration) could predict the improvement of L2 speech in comprehensibility and nativelikeness. 5 advanced L2 English users rated the overall comprehensibility and accentedness of 47 Chinese English-as-a-foreign-language (EFL) learners’ controlled and spontaneous speech samples. The findings showed that audio-motor integration, rather than auditory acuity, linked to the speech improvement. Additionally, it’s worthy of note that the aptitude-acquisition link identified in the study mainly concerned foreign accentedness reduction at a spontaneous level. 
+What the researchers did
+ 
+● We recruited 47 Chinese high school EFL learners (experiment group: n = 37; control group: n = 10) aged between 17 to 18 without any formal English pronunciation training and immersion experience. 
+● We elicited their controlled and spontaneous L2 English speech via a read-aloud task and a picture-description task. 
+● We tested two types of auditory processing abilities: (a) auditory acuity and (b) audio-motor integration. 
+● We provided a total of 12 shadowing training sessions over the course of two weeks (30 minutes × 12 sessions = 6 hours) via a popular application called English Fun Dubbing (EFD) on iPads for the experimental group. 
+● We elicited their controlled and spontaneous L2 English speech again immediately after the shadowing treatment via the same read-aloud task and the same picture-description task. 
+● We recruited 5 linguistically-trained Chinese coders (ages 23 - 27) as speech raters and assessed all speech samples using a 9-point scale for the two constructs of L2 (i.e., comprehensibility and accentedness). 
+● We examined the extent to which mobile-assisted repetition training could facilitate improvement on comprehensibility and accentedness and the extent to which auditory processing was associated with these two L2 speech constructs. 
+What the researchers found
+ 
+● The shadowing training led to considerable gains in comprehensibility and some reduction in foreign accentedness. 
+● The degree of speech improvement appeared to be correlated with certain auditory processing abilities, that is, audio-motor integration ability for accentedness reduction rather than auditory acuity. 
+● No significant predictive power for auditory acuity was found in any context. 
+Things to consider
+ 
+● The current study provides additional support for the pedagogical potential of mobile-assisted language learning, especially in EFL classrooms. 
+● The significant effect of audio-integration over auditory acuity can be explained by the nature of repetition training, i.e., to track auditory patterns and rapidly reproduce them. 
+● Since the aptitude-acquisition link mainly concerned accentedness reduction at a spontaneous level, which is considered as the most difficult aspect of L2 speech learning, we argue that aptitude is a necessary condition for advanced L2 speech acquisition. 
+● The relationship between the acuity scores and accentedness was considered small-to-medium, indicating that different types of aptitude matter when outcome measures concern the relatively difficult aspects of L2 speech learning. 
+● The sustainability of the link between auditory processing and shadowing should be further measured via not only immediate but also delayed post-tests and with a larger sample size and an equal number of participants in each group. 
+● To develop a more fine-grained framework of auditory processing, future studies are suggested to assess how different types of auditory processing can be uniquely linked to L2 speech learning with different types of auditory input. 

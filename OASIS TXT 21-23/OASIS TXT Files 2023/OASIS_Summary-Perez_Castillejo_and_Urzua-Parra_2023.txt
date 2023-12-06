@@ -1,0 +1,21 @@
+
+What this research was about and why it is important 
+ We often judge how fluent someone sounds in a second language (L2) based on how fast they speak or how much they hesitate while speaking in this language. However, these behaviors can be related to how we speak our first language (L1). That is, they can be part of our personal speaking style rather than a reflection of how well we know the target language. For teachers assessing target language proficiency, it is important to understand the extent to which L2 fluency reflects speaking style rather than L2 ability. This knowledge is also relevant for researchers of L2 fluency development. This paper conceptually replicated previous research by Huensch & Tracy-Ventura’s (2017) on the relationship between L1 and L2 fluency. It found that, when learners spoke in the L2, their speed, their use of fillers like um and uh, and their frequency of repetitions were more related to how they used these features in their L1 than to L2 proficiency. It also found that the L1-L2 fluency relationships observed in the previous study for speed, silent pause duration, repetitions, and corrections were maintained with less proficiency learners and with a different task. 
+What the researchers did
+ 
+● Learners were 88 native speakers of English (average age 20) learning Spanish in a non-immersion instructional setting. Their Spanish proficiency was equivalent to one-year of university level instruction. 
+● Learners completed two oral tasks, one in English and one in Spanish, and a sentence imitation task to measure Spanish proficiency. 
+● Two changes from Huensch & Tracy-Ventura’s (2017) study were learners’ Spanish proficiency (lower here) and the oral tasks. 
+● Researchers measured several characteristics of learners’ performances in English and Spanish: syllable duration (speed), silent pauses, fillers um and uh, repetitions, and corrections. 
+What the researchers found
+ In both studies, 
+● Spanish proficiency contributed more to silent pause duration in Spanish than the corresponding English measure. 
+● syllable duration in English contributed more than Spanish proficiency to syllable duration in Spanish. 
+● the frequency of corrections in Spanish was not predicted by either Spanish proficiency or corrections in English. Only in the current study, 
+● fillers and repetitions in Spanish were better predicted by fillers and repetitions in English. 
+● silent pause frequency in Spanish was predicted by Spanish proficiency, not by the same measure in English. 
+Things to consider
+ 
+● Findings suggest that while silent pauses (a measure of breakdown fluency) are a good indicator of proficiency in the target language, syllable duration (a measure of speed) is related to our speaking style. 
+● Some moderate to strong L1-L2 fluency associations are revealed early when learning a second language and persist across proficiency levels, task type, and learning contexts. 
+● The findings that differed from the original study could be related to the differences in learners’ proficiency, the use of different tasks, or both. More replication is needed to clarify this. 

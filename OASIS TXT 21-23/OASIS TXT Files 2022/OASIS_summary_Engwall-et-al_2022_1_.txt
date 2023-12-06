@@ -1,0 +1,23 @@
+
+What this research was about and why it is important 
+ Social robots, which have the aim of letting users talk with them as they would with a human, are becoming more and more advanced and more and more common, also in second language learning applications. This study investigated how adult learners and teachers think that such robots should behave when they are employed as conversation partners to practice a second language (L2). Learners and teachers gave their opinions, through interviews or questionnaires, before and after either interacting with the robot (learners) or watching such an interaction (teachers). Video recordings of the interactions were also analysed to identify common problems and potential improvements. The learners and teachers requested that the robot should focus the conversations on topics that are meaningful in the learners’ everyday lives; that it should contribute to these conversations with its own (made up) experiences and opinions; that it should build the continued conversation upon what the learners tell it; and that it should help them with important language errors, but without interrupting the flow of the conversation. They also judged that the robot must speak slower and sound more human-like than it currently does to reach its full potential as an L2 conversation partner. 
+What the researchers did
+ 
+● 27 L2 teachers answered a questionnaire about their expectations on conversation robots, and then, after watching an interaction with such a robot, their impressions of it. 
+● 2 academic experts were interviewed about important aspects in conversation practice in a second language. 
+● 13 L2 learners were interviewed about conversation practice and their expectations of a conversation robot. 
+● 24 L2 learners interacted in pairs with a robot and were interviewed afterwards about their opinions of the robot. 
+● The L2 robot-learner interactions were video recorded and analysed to identify communication problems. 
+What the researchers found
+ 
+● Learners and teachers agreed that social robots hold great potential as conversation partners. 
+● Both learners and teachers were in general positive towards the tested conversation robot’s capabilities: the practice was deemed positive for learning, the topics were varied, and the robot mostly acted as a real conversation partner by answering the learners’ questions and involving both learners in the conversation. 
+● Requested improvements concerned in particular that the robot must speak slower and be able to explain when the learners do not understand it, that its face should show human-like emotions and that it should make eye contact. 
+● The analysis of the conversations showed that the fact that learners were interacting in pairs was beneficial – as learners could help each other with language problems – but that it could also be problematic – as the robot needs to ensure that both learners get the opportunity to practice, rather than one of them dominating the conversation. 
+● The set of recommendations for second language conversation practice with robots included that adaptation to the learners’ proficiency level is essential; that the conversations should be focused on social topics that the learners find directly relevant; and that developers must consider fallback solutions in L2 conversation practice, since speech recognition still makes errors in determining what language learners are saying and since synthetic speech may lack the ability to automatically adapt speed and emphasis for language learners. 
+Things to consider
+ 
+● The results showed that it is clearly worthwhile to develop conversation robots for second language practice, but that technological improvements are still required before they could be deployed on a larger scale. 
+● The interaction with the robot was partly controlled by a hidden human operator (known as a Wizard-of-Oz setting) to avoid problems related to automatic speech recognition errors. The robot hence had a better understanding of what the learners said than what could normally be expected. 
+● The study focused on a short interaction with the robot and further research is required to determine if the learners would find conversation practice with a robot to be interesting over longer periods of time and if they would improve in proficiency through continued practice with the robot. 
+● The study focused on robots, but many of the resulting recommendations are relevant also for intelligent tutoring systems with computer-animated characters, and, even for human teachers facilitating conversation practice in a second language.

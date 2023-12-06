@@ -1,0 +1,18 @@
+
+What this research was about and why it is important 
+  Peer interaction (i.e., partner and group work) is widely used in today’s world language classrooms. Previous research has shown that peer interaction benefits learners in various ways (e.g., fluency development). However, peer interaction often does not help learners improve in terms of grammatical accuracy. This study investigated whether instructors can make peer interaction more effective by teaching learners to pay attention to grammatical forms while talking and listening to their peers. 
+What the researchers did
+ 
+● Learners were 87 third-semester students of German as a foreign language at a US university. 
+● Learners were split into three groups: A PFT (peer feedback training) group, an FFI (form-focused instruction) group, and a PI (peer interaction only) group. 
+● The PFT group received instruction on a grammatical structure prior to the peer interaction activities, and this group was also trained to correct peers’ mistakes during peer interaction activities. The FFI group received the same instruction on the grammatical structure but was not trained to correct peers’ mistakes during peer interaction activities. The PI group received no instruction on the grammatical structure and was not trained to correct peers’ errors during peer interaction. 
+● The grammatical structure was the German present perfect tense, which is used to describe events in the past. It consists of an auxiliary verb and a past participle. 
+● To test which group improved the most in terms of grammatical accuracy, learners completed an oral production task, in which they were asked to describe pictures using the present perfect tense. They also completed an error correction task, that is, they were given a text that contained present perfect tense errors and they were asked to find them and correct them. 
+What the researchers found
+ 
+● After the study, learners in the PFT group performed slightly better on the two tests than learners in the FFI group. In addition, learners in the PFT group performed clearly better than learners in the PI group. 
+● Learners in the FFI group also performed better than learners in the PI group, but the difference between those two groups was not as large as the difference between the PFT group and the PI group. 
+Things to consider
+ 
+● This study showed that peer interaction alone did not promote the development of grammatical accuracy, whereas providing instruction on a grammatical structure prior to peer interaction activities did. 
+● Training learners to correct each other’s errors during peer interaction in addition to providing instruction on a grammatical structure resulted in the best learning outcomes. This seems like a safe pedagogical option, but it may be best to focus on only one or maybe two grammatical structures at a time, in order not to overwhelm learners. 

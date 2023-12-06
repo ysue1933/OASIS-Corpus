@@ -1,0 +1,18 @@
+
+What this research was about and why it is important 
+ English is quickly becoming one of the most widely spoken languages in the world, and there are many countries that require English as a second language in their education system. The ability of a second-language (L2) learner of English to become proficient is important since it relates to their success in school, work, and even in their functioning in society if they are living in an English-speaking country. Determining how L2 learners can quickly and proficiently learn English is an important area of study for learners, teachers, and researchers alike. There are many variables that can influence the success of an individual learning an L2. Our main question in this study was how a learner’s first-language (L1) background could either assist or hinder their ability to learn English as an L2. 
+What the researchers did
+  Experiment: 
+● Participants included 33 Canadian first-language (L1) speakers of English, 33 Finnish second-language (L2) English speakers, and 28 German L2 speakers of English. All were highly proficient English speakers. 
+● All 3 groups completed an eye-tracking task (in which their eye-movements were recorded as they read sentences), a vocabulary test, a spelling test, and a test of familiarity with English authors.  Statistical Method: 
+● The goals in this study were methodological in nature. We proposed a statistical technique that allowed us to manipulate the skills of English learners with different language backgrounds to see which skills are integral to increasing their L2 proficiency. 
+● Using the data we collected, we built a model that allowed extrapolation to create hypothetical readers with skills in spelling and vocabulary beyond what is seen in the real dataset. For example, even if we didn’t have any participants that got 100% in all of our tests, we could look at a hypothetical participant that did to make assumptions about how these skills relate to reading ability. 
+What the researchers found
+  Comparison of groups: 
+● We found that the first language of the participant impacted their reading speed: Finnish readers were slower than German readers, and both were slower than Canadian readers. 
+● The Canadian group generally outperformed the Finnish and German groups in terms of reading-related skills (e.g., spelling, vocabulary). However, some L2 speakers obtained higher scores (similar to L1 speakers).  Hypothetical participants: 
+● Using our statistical method, we were able to create ‘fake’ participants based off the data we collected from real participants to see if we could manipulate the performance of L2 speakers to reach L1-like ability. 
+● We assigned the maximum scores in all our tests to these participants, and found that our hypothetical German readers could reach L1-like performance, but the hypothetical Finnish readers could not. 
+● We also used this method to see which skills benefited the hypothetical readers the most. We found that the greatest benefit for German L2 readers came by assigning maximum vocabulary scores; and Finnish L2 readers benefitted most from assigning maximum spelling scores. 
+Things to consider
+ Differences between German and Finnish hypothetical speakers point to differences in their linguistic distance to English. In other words, German has more similarities linguistically than Finnish, which may contribute to their ability to reach higher levels of proficiency in English. This study also opens the possibility of looking at a wider range of language backgrounds with different L1 and L2 languages of interest. In addition, it will be important to include a wider range of reading tests and measures of fluency. 

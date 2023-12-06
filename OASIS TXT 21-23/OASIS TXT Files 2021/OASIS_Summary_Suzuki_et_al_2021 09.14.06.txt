@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ Research has shown that for successful spoken communication, a certain level of fluency is essential, and hence oral fluency is often regarded as an important learning objective. To maximize second language (L2) fluency, language teachers and learners may ask the question—which temporal features of speech contribute most to listeners’ perception of fluency? To answer this question, previous studies have examined the relationship between various temporal features of L2 speech (e.g., speed of delivery, frequency of pauses) and listeners’ perception of fluency. However, these studies showed inconsistent findings possibly due to various methodological differences, such as how the speech sample was elicited from L2 learners, who evaluated fluency, and how the fluency judgements were made. Therefore, in this study, the researchers conducted a meta-analysis of 22 previous studies to clarify which temporal features are closely related to listeners’ perception of fluency and what differences in research and evaluation procedures influence this relationship. 
+What the researchers did
+ 
+● Using a systematic and thorough literature search, the researchers identified 22 relevant studies that examined the relationship between temporal features of speech and listener-based judgements of fluency. 
+● The researchers carefully analyzed 263 separate findings across the selected 22 studies and calculated the average strength of association between several major temporal features and listeners’ perception of fluency. 
+● The researchers also explored how methodological differences may affect the strength of the association, including characteristics of speech (e.g., target language, task type), listeners’ background (first language [L1] speakers vs. L2 users, laypersons vs. expert raters), rating procedures (e.g., the definition of fluency, use of rubrics), and methods for analyzing temporal features (e.g., manual vs. automated annotation, the definition of pauses). 
+What the researchers found
+ 
+● Listener-based judgements of fluency were strongly associated with the speed of delivery and the frequency of pauses, moderately with the mean duration of pauses, and weakly with the frequency of repetitions and self-corrections. 
+● The most important feature contributing to listeners’ perception of fluency was the duration and frequency of pauses in the middle of sentences. 
+● The link between fluency judgements and temporal features of L2 speech was similar regardless of the raters’ language status (L1 vs. L2 raters), but if the raters had experience of assessment-related training, the association between ratings and temporal features was stronger, compared to laypersons’ ratings. 
+● The strength of association between temporal features of speech and listeners’ perception varied across target languages. 
+Things to consider
+ 
+● Three major criteria can be used to evaluate students’ oral fluency in the following order of priority: (a) How often and long do speakers stop in the middle of utterances? (b) How quickly do speakers produce speech? (c) How often do speakers self-correct their speech or repeat the same utterances? 
+● Both L1 and L2 raters can reliably evaluate L2 oral fluency, and the validity of the assessment can be enhanced with training. 
+● Detailed rubrics or descriptors from high-stakes tests may help teachers to assess students’ oral fluency. However, when adopting assessment tools, teachers should be aware of the phonological characteristics of languages (e.g., syllable structure and rhythm) that the assessment tools were originally developed for. 
+● Further research particularly with learners of L2 other than English is needed to examine the role of temporal features in L2 fluency ratings and the influence of methodological and assessment-related factors. 

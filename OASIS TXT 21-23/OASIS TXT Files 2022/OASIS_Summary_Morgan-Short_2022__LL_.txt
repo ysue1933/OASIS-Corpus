@@ -1,0 +1,21 @@
+
+What this research was about and why it is important 
+ An important question in second language (L2) research is the extent to which learners develop explicit or implicit L2 knowledge (i.e., knowledge of which they are or are not aware) as well as the extent to which they process their L2 explicitly or implicitly (i.e., with or without awareness of how they process the L2, moment by moment, when listening or reading). Prior research suggests that L2 learners can develop both explicit and implicit L2 knowledge; but not much is known about explicit and implicit L2 processing. Researchers are still trying to find reliable ways to best measure these types of knowledge and processes. In this study, the researchers explored a way to potentially measure explicit and implicit L2 grammar processing by recording brain activity while participants judged the grammaticality of written L2 sentences. Participants also reported the type of knowledge (explicit vs. implicit) that they thought they had used to judge each sentence. When the brain activity recorded during the judgment task was analyzed based on the reported type of knowledge, the results revealed that the brain may process L2 grammar differently for sentences that are reportedly judged using explicit versus implicit knowledge. 
+What the researchers did
+ 
+● Participants were 23 American English-speaking university students learning Spanish at a low-intermediate proficiency. 
+● Participants read L2 sentences that were either grammatical or ungrammatical (based on prescriptive standard Spanish grammar) for subject-verb agreement and for word order; they judged each sentence’s grammaticality as good or bad. 
+● Participants also gave a source attribution by reporting what type of knowledge they thought they had used when judging each sentence: explicit (i.e., choosing ‘memory’ or ‘rule’) versus implicit (i.e., choosing ‘intuition’ or ‘guess’). 
+● Brain activity was recorded using electroencephalography (EEG) while participants were judging the sentences. 
+● The researchers analyzed performance on the grammaticality judgment task and the recorded brain activity to examine how these may have differed for the distinct reported source attributions. 
+What the researchers found
+ 
+● The participants’ judgments of the sentences showed that they had acquired both explicit and implicit knowledge of L2 Spanish subject-verb agreement and word order. 
+● The EEG showed that participants’ brain activity was different for grammatical and ungrammatical sentences, suggesting that participants were able to process L2 subject-verb agreement and word order. 
+● Participants’ brain activity also differed based on whether they reported using explicit or implicit knowledge to judge the sentence. For subject-verb agreement, brain activity differed over all (both grammatical and ungrammatical) sentences depending on whether participants reported using explicit or implicit types of knowledge. For word order, brain activity differed based on the reported explicit or implicit knowledge particularly for ungrammatical sentences. 
+Things to consider
+ 
+● The key finding of this study was that differences in brain activity patterns were found based on the type of reported knowledge for grammatical L2 structures. 
+● Learners may engage different processes when willfully and consciously thinking about grammar. 
+● Not all participants might have had the same understanding of the different source attribution categories, that is, what constitutes using a rule versus a memory versus an intuition versus guessing. 
+● Confidence in the statistical analysis is tempered because the source attribution sample sizes were imbalanced due to different numbers of reported uses of explicit versus implicit knowledge. 

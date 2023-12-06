@@ -1,0 +1,24 @@
+
+What this research was about and why it is important 
+ While repeating the same speaking task is an effective strategy to improve fluency, we do not know whether timing of repetition impacts the effectiveness of speaking task repetition. In this English-as-a-foreign-language classroom study, Japanese university students narrated the same six-picture frame cartoon six times under three different schedules in their regular 90-minute English class(es) as follows: (a) Massed: Task (one class): Task XXXXXX (b) Short-spaced (one class): Task XXX---45 min---Task XXX (c) Long-spaced (two classes): Task XXX------------------------7 days------------------------Task XXX Results show advantages and disadvantages of massed practice immediately after the training, but not a week later. 
+What the researchers did
+ 
+● Participants were 79 first-year Japanese university students in four classes. They had at least 6 years of experience in studying English. 
+● Participants were assigned to the massed, the short-spaced, the long-spaced, or the control group. They engaged in speaking training in their regular classes, performing the monologue narration of the same story involving a six-frame cartoon six times under three different schedules. 
+● A control group participated only in the pretest-posttest sessions. 
+● In the massed condition, participants narrated the same story six times in a row in a 90-minute class. 
+● In the short-spaced group, participants narrated the same story three times at the beginning and at the end of the class. In between, participants engaged in other class activities that were not relevant to the training task. 
+● In the long-spaced condition, participants narrated the same story three times each across two weeks. 
+● Fluency development was measured by a test before the training, a test immediately after the training, and a test one week after the training. These tests used different cartoon stories than the training. 
+● The test a week after the training also included a narration of the training cartoon to see if any training effect remained. 
+What the researchers found
+ 
+● At the end of training (sixth narration performance), no meaningful difference among the three types of practice. One-week later, when they narrated the same cartoon, massed practice led to more verbatim repetition than long-spaced practice. 
+● On the test immediately after the training using a different cartoon story, massed practice had advantages (fewer mid-clause and clause-final pauses) and disadvantages (slower articulation and more verbatim repetition) relative to short-spaced or long-spaced practice. 
+● On the test a week later using a different cartoon story, there was no meaningful difference among the three types of practice. 
+Things to consider
+ 
+● Massed task repetition—repeating the same narration six times in one class—is a double-edged sword for fluency training, the effectiveness of which needs to be considered carefully. While it was effective in reducing disfluent pauses, it led to slower articulation rate and more verbatim repetition with potentially reduced motivation. 
+● Inserting other activities for periods as short as 45 minutes (i.e., spaced task repetition) can reduce the drawbacks of massed repetition. 
+● Although the current study showed no significant differences among the three different repetition groups on the test a week later, it does not mean spacing is unrelated to fluency development. If the duration of fluency training is extended (e.g., over one semester), the delayed effects of spacing may be observed. 
+● Because the current study used a monologue narration task, future research needs to explore how we can make task repetition more engaging. First, providing feedback and models of narration in between the task repetition may promote more accurate use. Second, a different pair-work speaking task with interactive feature may also yield a different pattern from current findings. 

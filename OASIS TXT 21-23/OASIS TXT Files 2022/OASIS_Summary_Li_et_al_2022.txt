@@ -1,0 +1,23 @@
+
+What this research was about and why it is important 
+  Promoting English as a Foreign Language (EFL) students' reading comprehension, improving their reading motivation, and reducing their anxiety have always been a focus of EFL researchers. Previous studies have found that board games are an innovative and effective teaching method for English learning. Moreover, researchers emphasize the importance of scaffolding for EFL reading. This study developed a dual-hierarchical scaffolding board game activity framework integrating game-based learning and scaffolding strategies and used a board game as teaching material to promote EFL students' reading comprehension. The experimental results showed that the proposed framework not only promoted the EFL students' reading comprehension and learning motivation, but also decreased their learning anxiety. 
+What the researchers did
+ 
+● The participants were two classes of 67 third graders of a high school in Taiwan, aged between 17-18. All students were learning English as a foreign language. They were taking an EFL course on reading English stories in school which aimed to develop their reading comprehension skills in the target language. 
+● We selected an English story text and compared a board game-based learning activity with a lecture-based instructional approach. 
+● The board game-based instruction was a dual-hierarchy scaffolding learning activity, meaning to utilize board game components to build two types of scaffolding with sequential hierarchies (named “the understanding of characters’ feature scaffolding” and “the understanding of plot structure scaffolding”). 
+● The understanding of characters’ feature scaffolding is to support students’ understanding of the text’s characters and characters’ features. The understanding of plot structure scaffolding is to help students deduce the plot development of the text, establish the cognition of the text’s discourse structure, and then understand the text content. 
+● One class used the dual-hierarchy scaffolding board game-based learning activity, another one class learned via didactic teaching. 
+● For understanding the effect of the proposed method, students took reading comprehension texts of text structure before and after the instruction, and completed a questionnaire of learning motivation and learning anxiety. 
+What the researchers found
+ 
+● For learning achievement, students who learned with the dual-hierarchy scaffolding board game-based learning activity showed better reading comprehension than those who learned with the lecture-based instructional approach. 
+● For learning motivation, students who learned with the dual-hierarchy scaffolding board game-based learning activity showed better learning motivation than those who learned with the lecture-based instructional approach. 
+● For learning anxiety, students who learned with the dual-hierarchy scaffolding board game-based learning activity had lower learning anxiety than those who learned with the lecture-based instructional approach. 
+● The dual-hierarchy scaffolding board game-based learning activity can help students maintain a high level of learning motivation in the learning activity. At the same time, it let students have a certain degree of anticipation for participating in the next board game-based learning activity. 
+● Most students still had some learning difficulties in reading new English stories alone after the instruction. 
+Things to consider
+ 
+● The hierarchy-scaffolding strategy associated with text concepts may help EFL students find the relevant information which could facilitate their reading comprehension. 
+● The game features and collaborative mechanism of board games may construct a fun and relaxing learning ambience and collaborative discussion environment that can increase motivation and reduce anxiety for EFL learners. 
+● Reading acquisition is a continuous process, and EFL reading comprehension is a skill that takes a long time to improve. Therefore, it is difficult for a short-term reading teaching intervention to cultivate students’ independent reading ability. Long-term and continuous teaching research can further verify the effectiveness of board game-based learning activities. 

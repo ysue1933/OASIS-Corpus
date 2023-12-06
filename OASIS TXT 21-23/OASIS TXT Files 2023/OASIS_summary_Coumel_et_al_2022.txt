@@ -1,0 +1,21 @@
+
+What this research was about and why it is important 
+ The researchers investigated how one can boost learners’ usage of complex second language (L2) grammatical structures. They examined whether repeatedly exposing L2 learners to passive sentences (The swimmer is being followed by the soldier) would increase their production of this structure, even without providing instruction (i.e., implicitly). They also explored the effect of input modality (reading or listening) and learner motivation and attention. Exposure to both written and spoken passives boosted production, regardless of learners’ motivation and attention levels. 
+What the researchers did
+ 
+● The researchers tested 123 native English speakers and 122 native French speakers (all L2 learners of English) studying at a university in France. 
+● In an online task, these participants either heard or read English passive sentences and then described pictures by providing a written sentence. 
+● The researchers measured participants’ spontaneous production of passives before the exposure (baseline phase), their written production of passive sentences when exposed to the structure, and their production of passives in a posttest delayed by one week. 
+● The researchers also measured participants’ motivation to learn the language and do the task, and how attentive they were to the task and to grammar, and whether they noticed the passive structures. 
+What the researchers found
+ 
+● The L2 learners and the native speakers produced more passives both immediately after exposure to passives and in the delayed posttest than in the baseline phase. 
+● Participants produced more passives following spoken passive sentences than written passive sentences during the exposure phase. 
+● This did not transfer to the delayed posttest: Speakers produced more passives here than in the baseline, regardless of what modality they experienced them in. 
+● Attention and motivation did not influence the results. 
+Things to consider
+ 
+● Repeated exposure to a complex grammatical structure can implicitly boost its production by L2 learners. 
+● This effect is both immediate and long-lasting, suggesting such activities are useful as language-learning tasks. 
+● Spoken input may lead to better immediate recall of the structure, but future studies should test this with other grammatical structures before drawing firm conclusions. 
+● It was surprising that motivation and attention did not influence the results; future research may need to use different measures of these variables or different groups of participants to further substantiate this finding. 

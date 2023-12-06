@@ -1,0 +1,23 @@
+
+What this research was about and why it is important 
+ Formulaic sequences like on the other hand, it is well known, and pay attention to, can be stored in long-term memory and function as single (lexical) words. They occur often in language and are useful for appropriate and fluent language communication. The same holds true for written academic discourses. Formulaic sequences might provide evidence of learner language progression and serve as a meaningful indicator of the developmental stages of learners’ writing competence at different levels. Previous studies have shown that second language (L2) formulaic sequence development happens, by nature, in small steps and is full of progress and regression. In other words, learning does not follow a straight line. So far, most studies have explored these features from a single, static perspective, which may not fully reflect the (nonlinear) complex changes over time. Complex Dynamic Systems Theory (CDST), fundamentally a theory of ‘change’, provides a framework that can address the dynamicity of formulaic sequence learning. This study used CDST to investigate which factors influence nonlinear features of L2 formulaic sequence development and unraveled the underlying complex relationships in longitudinal studies. 
+What the researchers did
+ 
+● The study was longitudinal (2.5 years or 5 semesters) and had 5 data collection points, with one each semester. 
+● We built a small longitudinal learner corpus that included writing samples from a group of Chinese EFL learners enrolled in the English major program of a university over the span of 5 consecutive semesters. 
+● Based on the corpus, we identified the formulaic sequences used by English majors with automated corpus tools. 
+● To identify the factors influencing formulaic sequence development over time, we collected the corresponding data based on the individual formulaic sequences used by 11 randomly selected participants out of the student cohort. The data included o the structure – is the formulaic sequence a verb phrase (VP; pay attention to), noun phrase (NP), or prepositional phrase (PP; on the other hand)? function of the formulas o semantic transparency – how easy is it to guess the meaning of the formulaic sequence? o o proficiency o first language – second language (L1-L2) congruence (i.e., how similar are the L1 and L2?) 
+● Based on the data, we ran statistical models to map learners’ development of formulaic sequences. 
+● The interactions of potential factors were also explored in depth using statistical models. 
+What the researchers found
+ 
+● The developmental trajectory of formulaic sequences tends to be nonlinear. That is, learning does not happen in a straight line. 
+● Semantic transparency, structure of the formulaic sequence, proficiency, and the interaction between these factors influenced the development of L2 formulaic sequence, whereas function and congruency had no effect. 
+● As proficiency increased, learners used slightly fewer formulaic sequences, but noun and preposition types tended to be higher in learners of higher proficiency. 
+● L2 formulaic sequence use was similar across functions and L1–L2 congruency over time. 
+● The influence of semantic transparency on formulaic sequence development varied with learners’ proficiency and structure types: NP-based type and PP-based type. The effects of VP-based structure on formulaic sequence development were similar across different degrees of semantic transparency. 
+Things to consider
+ 
+● Within the CDST framework, the nonlinearity of formulaic sequence development could be considered as the result of the interactions between these potential factors such as lexical factors, cognitive factors, and social contexts. 
+● CDST offers a fresh perspective to look at individual variation and nonlinearity of long-term L2 development. 
+● To generalize research results, future longitudinal studies should call for more participants and an increase in the number of the data collection points within the timespan. 

@@ -1,0 +1,23 @@
+
+What this research was about and why it is important 
+ In second / foreign language (L2) classrooms, there may be students whose proficiency in the target language is virtually nil, and who are, nevertheless, put into the same classroom as with peers who already possess a higher proficiency. The crucial issue posed here is whether and to what extent those learners can benefit through recasts (a type of oral corrective feedback, which reformulates errors) given to other learners in such a context. This study sought to examine what characteristics of recasts facilitate accurate perception among true beginners when they overhear them given to other more proficient learners. Participants watched 48 video clips of recasts on phonological and lexical errors in Portuguese, a language with which they were unfamiliar, judged whether or not they thought the teacher provided recasts in each of them, and stated reasons for their judgements. The results showed that recasts given in a whole sentence and pointing at the erroneous word facilitated accurate perception for both phonological and lexical errors. 
+What the researchers did
+ 
+● Participants were 118 native speakers of Japanese learning English as a foreign language in Japanese schools, aged between 12-22. 
+● Participants watched 48 video clips containing a student-teacher dialog: (a) the teacher asks a question, (b) the student answers it but with a single phonological or lexical error on a word, and (c) the teacher recasts it. 
+● Six characteristics of recasts were manipulated: its length, whether recasts were given in a single word or in a whole sentence, whether the erroneous word was stressed or not, whether recasts had rising or falling intonation, whether the teacher nodded or shook her head, and what kind of gestures she performed (moving hands synchronized with the word stress, pointing at the erroneous word, or spreading both arms horizontally with the palms held upward). 
+● Participants judged whether or not they thought the teacher had corrected errors and stated the reasons for their decisions. 
+What the researchers found
+ 
+● Recasts were more likely to be accurately perceived as correction when they were provided in sentence-length discourse along with pointing gestures for both phonological and lexical errors. 
+● Head-shaking and rhythmical gestures also contributed to improved accuracy of phonological errors. 
+● Participants extensively used nonverbal cues (head movements and gestures) for their judgments. 
+● Participants actively compared errors with recasts when judging the presence of recasts. 
+● When recasts were given in a single word, which sounded similar to the preceding errors, participants wrongly judged that the teacher was simply repeating what the students said verbatim. This is because they had difficulty in distinguishing the erroneous and corrected sounds. 
+● In contrast, when single-word recasts sounded different from the preceding error, participants wrongly judged that the teacher was saying something totally different from what the student said. This is because they could not recognize word boundaries. 
+Things to consider
+ 
+● This study indicates that, when true beginners overhear single-word recasts given to other learners whose proficiency is higher than theirs, there is less chance that they can perceive them as correction because they are yet incapable of discriminating sounds or recognizing word boundaries in the input. 
+● Also, in this study, participants were unable to understand the meaning of the input, which freed up their working memory. This prevented them from overburdening their working memory by longer recasts given in a whole sentence. 
+● Past studies showed that recasts given in a single word are more likely to be perceived as correction by novice learners when they are the ones who made the errors. 
+● Therefore, in a classroom where learners with a variety of proficiencies coexist, including true beginners, it may be advisable for teachers to give recasts in a whole sentence when the sentence is short. However, when the sentence is long, they may as well give recasts in a single word while pointing at the erroneous word. 

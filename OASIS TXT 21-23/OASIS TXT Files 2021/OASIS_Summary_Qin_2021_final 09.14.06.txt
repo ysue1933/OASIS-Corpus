@@ -1,0 +1,22 @@
+
+What this research was about and why it is important 
+  Fluency, accuracy, and complexity are often used to examine second language (L2) learners’ oral production. This study took a different approach, by analyzing learners’ capabilities of producing coherent and cohesive narratives using the Systemic Functional Linguistics (SFL) framework, a functional school of linguistics that views language as a variety of meaning-making resources. In addition, the factor of pre-task planning, that is, the provision of preparation time before a task is performed, was also taken into investigation. By analyzing the oral productions of Chinese EFL learners in either planned or unplanned condition when performing a narrative task, this study showed that planning played a limited and variable role in promoting the cohesion and coherence of L2 oral production. SFL was found to be an alternative lens for understanding and evaluating L2 production and learning trajectory. 
+What the researchers did
+ 
+● Learners were 56 Chinese learners of English. Of them, 27 retold the Modern Times episode and had 10 minutes to prepare before retelling (the SP group). The rest of the learners retold the same story without any preparation time (the NP group). 
+● The learners’ oral narratives were analyzed following a genre-based, theme-rheme analysis within the SFL framework. 
+● First, each participant’s narrative was divided into clauses, which were then coded as themes (i.e., the departure point for a clause) and rhemes (i.e., the rest of the clause in which the theme is developed). 
+● Then, those themes were further categorized into different types. 
+● Finally, patterns of thematic development (i.e., how a theme is connected with themes and rhemes in the subsequent clauses) were also analyzed. 
+● A comparison of choices of theme types and thematic patterns was made between the SP and NP groups. 
+What the researchers found
+ Qualitative SFL-based analysis showed that 
+● learners in the SP group deployed more diverse linguistic resources, such as appropriate use of referential strategies, use of references to non-human entities, than the NP group did. 
+● They also demonstrated a more logical pattern of thematic development than the non-planners. Comparisons of theme types and thematic patterns showed that 
+● qualitative results were not supported by the comparisons. 
+● Learners in the SP group used slightly more diverse theme types than the NP learners did, but such advantages were accompanied with greater within-group variance.  
+● Both groups of learners preferred to use unmarked themes rather than marked themes or syntactically complex themes. 
+Things to consider
+ 
+● Planning time has marginal effects on L2 learners’ selection of linguistic resources that help achieve textual coherence and cohesion, with variations among L2 learners in terms of theme selection and thematic development. 
+● This study is an extension of the current literature that examines the value of SFL conceptualization in evaluating task-based L2 performance. On the one hand, it explores the internal cohesion of learners’ narratives in the process of meaningful communication. On the other hand, it extends from L2 writing to speaking tasks. 

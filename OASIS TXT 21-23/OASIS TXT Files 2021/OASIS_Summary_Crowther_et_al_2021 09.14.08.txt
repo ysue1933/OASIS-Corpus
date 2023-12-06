@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ This study provided a review of second language (L2) researchers’ use of cluster analysis, an advanced statistical method still uncommon but increasingly used to identify groups or patterns in a dataset and to examine group differences. After describing key methodological considerations in conducting cluster analysis, the study presented a methodological synthesis of 65 studies published between 1989-2018 that employed cluster analysis. Specifically, this synthesis critically reviewed the use of cluster analysis and reporting practices. Following the methodological synthesis, a sample cluster analysis that used openly available data was presented to highlight key methodological practices for future use in second language research. 
+What the researchers did
+ 
+● We retrieved 65 journal articles that used cluster analyses and were published across 17 key L2 journals between 1989-2018. We identified 76 separate cluster analyses within these studies. 
+● Two researchers coded each cluster analysis in terms of the (1) objects that were clustered, for example, participants (such as learners or teachers) or variables (such as items in a questionnaire); (2) predictor variables; (3) cluster analysis techniques (e.g., hierarchical cluster analysis, K-means analysis); (4) cluster evaluation; and (5) cluster interpretation. The purpose was to critically review the use of cluster analysis in terms of reporting and methodological practices. 
+● We provided an illustrative cluster analysis using data collected by Dabrowska available from IRIS. 
+What the researchers found
+ 
+● There has been an increased usage of cluster analysis in L2 research over the past 30 years, and it was most evident in research into individual differences and assessment. 
+● Clustering of L2 learners was the most frequent ‘object’ that was clustered (known as ‘case’ clustering). 
+● Hierarchical cluster analysis and K-means cluster analysis were the most common clustering method, but the widespread use of these two methods tended not to be accompanied by sound reporting practices, particularly about how authors justified their cluster solutions. 
+● Methodological practices could be improved by using bigger sample sizes, and by justifying decisions regarding data preparation, variable selection, identification of number of clusters, and cluster evaluation. 
+Things to consider
+ 
+● There are several key methodological decisions that should be more thoroughly considered and/or reported. 
+● Researchers should take care to use a number of predictor variables that is appropriate for the total number of objects to be clustered (i.e., using a larger sample can allow for a larger number of predictor variables). 
+● When using hierarchical cluster analysis, it is recommended that L2 researchers clearly report which ‘linkage method’ 
+● and ‘distance measure’ they used (as these decisions greatly impact the results).  In any type of cluster analysis, it is important to discuss cluster evaluation methods and, when possible, to clearly interpret the cluster solutions using variables that were not included in the cluster analysis itself. Materials and data: Materials and data are publicly available at https://www.iris-database.org. 

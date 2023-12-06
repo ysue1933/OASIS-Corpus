@@ -1,0 +1,18 @@
+
+What this research was about and why it is important 
+ Despite the fact that reading and writing appeared much later in human history compared to speech, we currently obtain a lot of the information needed to function in different spheres of life through various types of written texts. However, learning to read is not an easy task, as readers have to master many abilities, the majority of which have to be learned at school. One of these abilities is to notice how speech is made up of combined sounds that can be split up. In reading, these sounds correspond to letters and, when we read, we transform each letter into its sound. In addition, readers are also able to distinguish syllables and its different parts, called onset and rhyme. Most previous research on the relationship between reading and the recognition of sounds has been undertaken with English speaking children, a language in which the sounds and the letters do not match transparently. The current study investigated relationships between knowledge of sounds and reading (including reading real words, invented words and reading comprehension) in studies that have focused on Spanish, a language in which the sounds and letters do match, that is, it is a transparent language. 
+What the researchers did
+ 
+● The researchers searched in Spanish and English databases for scientific articles, book chapters, conference papers and other types of publications that were written between January 1970 and January 2020 and that studied the relationship between sound recognition and reading in Spanish-speaking children. 
+● After removing the articles that were not relevant to their study (such as those that included participants with disabilities or who were older than 14, or studies that not use appropriate analyses), the researchers ended up with a total of 47 studies that comprised a total sample of 7,956 children. 
+● The researchers recorded a range of characteristics of the studies, to see if these characteristics affected the results: (1) the type of sound studied (sound, rhyme or syllable); (2) the reading task performed (real word reading, invented word reading, or reading comprehension); (3) whether the participants were monolingual or bilingual. 
+What the researchers found
+ 
+● Spanish-speaking children’s reading abilities are related to their knowledge of Spanish sounds, at least in the early stages of reading. There were too few studies to examine whether this relationship changes as they get older/better at reading. 
+● One of the strongest associations was between syllable recognition and reading. 
+● The relationship between onset and rhyme recognition and reading is important for Spanish-speaking children, and (according to findings from previous studies) also in English-speaking children. 
+● Whether the participant was bilingual or monolingual did not affect the relationship between sound recognition and word reading or reading comprehension. However, the relationship between the awareness of sounds and reading invented words out loud was stronger for bilingual children relative to children who speak one language. 
+Things to consider
+ 
+● Knowledge of sounds was important for reading regardless of the reading task used. This might suggest that teachers could help reading by improving their students’ recognition of sounds. However, experimental studies are needed. 
+● The majority of studies so far have focused on the connection between sound recognition and reading, rather on awareness of rhymes and syllables. Therefore, more research is needed regarding rhyme and syllable recognition, especially in languages with a clear correspondence between sounds and letters. 

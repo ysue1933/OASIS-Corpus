@@ -1,0 +1,21 @@
+
+What this research was about and why it is important 
+ Word knowledge is crucial for understanding text and speech. Many components are included in knowing a word, one being its derivations: for example, that user is derived from the baseword use. But how well do second language (L2) learners know derived words they meet? The answer has important ramifications for L2 teachers for text choice and whether deliberate teaching of morphology is required. We tested how well Swedish high school learners of English understand the meaning of derived words. Research with learners in Asia has found that their derivational knowledge is limited but, unlike our participants, they have little exposure to English in society and their first languages (L1s) have limited shared vocabulary with English as they are non-Germanic. Our participants knew derived words very well: for example, when the advanced learners knew a baseword, they knew its derived word in 91% of the cases.  
+What the researchers did
+ 
+● The participants were 88 Swedish learners of English at two proficiency levels: 49 intermediate and 39 advanced learners. 
+● Two tests were administered to measure receptive derived word knowledge: one test of basewords (e.g., restore) and one test of corresponding derived words (e.g., restoration). 
+● The tests tapped test-takers’ ability to recognize the meaning of test words in a multiple-choice format. 
+● The test words differed in frequency based on occurrence in a large corpus and according to a predicted hierarchy of affix difficulty (affixes are added to basewords to form derived words, for example adding -r to use to create user). 
+● The test scores were compared using different statistical analyses. 
+What the researchers found
+ 
+● Participants had considerable receptive knowledge of derived words: when the intermediate learners knew a baseword, they knew the derived word in 84% of the cases, and the corresponding percentage for the advanced learners was 91%. 
+● Knowledge of derived words was determined by the frequency of the word family (which is a lexical unit that counts basewords and its derived and inflected words as the same word) and not the frequency of the derived words themselves. 
+● Little support was found for the predicted hierarchy of affix difficulty. 
+Things to consider
+ 
+● The results imply that adolescent English learners with a Germanic first language such as our Swedish participants and who receive extensive exposure to English can be expected to understand lexically sophisticated texts and speech well. 
+● L2 vocabulary tests that use the word family as counting unit are unlikely to overestimate the word knowledge of test-takers with similar backgrounds as our participants. 
+● L2 teachers may not need to teach affixes deliberately to learners with similar backgrounds as our participants. 
+● Future investigations could test other similar participants to corroborate our findings and use other test formats (e.g., tests of productive knowledge).  

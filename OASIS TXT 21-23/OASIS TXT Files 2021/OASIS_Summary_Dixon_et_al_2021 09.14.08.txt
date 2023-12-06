@@ -1,0 +1,22 @@
+
+What this research was about and why it is important 
+ Hybrid instruction is a course delivery format in which a portion of the seat time in traditional face-to-face (f2f) classes is replaced with online instruction. The goal of this meta-analysis was to synthesize the quantitative findings of previous research to estimate (a) how effective hybrid instruction is for language courses, and (b) what factors can make it more or less effective. Generally, the results indicate that hybrid language instruction can be as effective as traditional f2f instruction, but this effectiveness varies based on several design features of hybrid courses. 
+What the researchers did
+ 
+● We screened 90 studies examining an aspect of hybrid language instruction, but we could use only 11 of these studies in the synthesis as they were the only ones that measured the language gains of students in hybrid courses and/or compared language gains in hybrid courses to those in traditional f2f courses. 
+● These 11 studies had 1,005 participants. Three of them examined the effectiveness of hybrid instruction for teaching English; the remaining eight were conducted in foreign language courses (e.g., Chinese, French) in the United States. 
+● An effect size was calculated for each study to quantify the magnitude of differences between the language gains of students in hybrid courses vs. the language gains of those in traditional f2f courses. These effect sizes were then averaged across the 11 studies to estimate the overall effectiveness of hybrid language instruction. 
+● We also examined a number of factors that can make hybrid instruction more or less effective: o which of the language skills were targeted in the course (e.g., writing, speaking, listening); o how much of the f2f instruction time was replaced with online instruction; o whether the course textbook offered online activities for students to complete during the online days; o whether a learning management system (e.g., Blackboard, Canvas, Edmodo) was used; o whether the data in the study came from initial or subsequent iterations of a hybrid course; and o whether the advances in technology improved the effectiveness of hybrid language courses (this was measured by considering the year in which the 11 studies were published). 
+What the researchers found
+ 
+● In general, hybrid language instruction was found to be as effective as traditional f2f instruction. Students in hybrid courses improved their various language skills (e.g., speaking, listening) as much as those in f2f courses. Regarding writing skills, larger gains were found in hybrid courses, but the margin of error for this estimate was too wide for any conclusive generalizations to be made. 
+● An increase in reduced f2f instruction was associated with a decrease in students’ language gains. However, this association was not strong enough for conclusive generalizations to be made. 
+● Hybrid courses that used readily available online activities provided by textbook publishers during online instruction were not found to have an advantage over courses that did not have such readily available activities. 
+● Larger language gains were found in hybrid courses that had been previously taught in a hybrid format. 
+● Larger language gains were found in hybrid courses that used a learning management system. 
+● The effectiveness of hybrid courses moderately increased over time, which may be due to advances in technology. 
+Things to consider
+ 
+● That hybrid language courses can be as effective as f2f courses is good news for language institutions wanting to offer hybrid instruction. 
+● More empirical studies are needed to calculate more precise estimates of the effectiveness of hybrid instruction for writing skills as well as the association between the amount of reduced f2f time and language gains. 
+● Our extensive search of the literature did not find experimental studies conducted in K-12 settings; thus, little is known about the effectiveness of hybrid instruction for K-12 populations. We argue for future research to address these gaps. 

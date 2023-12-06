@@ -1,0 +1,18 @@
+
+What this research was about and why it is important 
+ It is well established that native speakers of English decompose derived words (e.g. disagree) into their stem and affix when reading (e.g., dis + agree). The present study extends on previous research that suggests that non-native speakers are more focused on the individual letters of such words when reading them. The experiment uses a technique called the masked priming paradigm in which the speed of recognizing a target word is measured. Before the target word another letter-string (a "prime") is shown, but this letter string is shown only very briefly, so the reader is not consciously aware of it (masked). People are often faster at recognizing the target word when the prime shares letters with it than when it does not, and masked priming research examines the type of letter overlap that leads to such facilitated responding. Results showed that English-Chinese bilinguals focus on smaller units of processing while native speakers are more sensitive to the meaningful internal structure of complex words. 
+What the researchers did
+ 
+● The experiment adopts the masked priming paradigm. 
+● Participants were native English speakers and Chinese-English bilinguals. 
+● All primes were nonwords that ended in a real word, with the other letters not forming a prefix (e.g., sabagree, plerough). 
+● Two types of targets were examined: Prefixed words (e.g., DISAGREE as the target for the prime sabagree) and non-prefixed words (e.g., THOROUGH as the target for the prime plerough). 
+● Each type of prime-target pair was compared to a baseline where the prime had no letter overlap with the target.  
+What the researchers found
+ 
+● Primes helped native speakers recognize the target words with prefixes (e.g., sabagree-DISAGREE) faster, but it did not help them recognize non-prefixed words (e.g., plerough-THOROUGH) faster. 
+● The primes helped Chinese-English bilinguals recognize both types of target words faster. This suggests they analyse words differently to native speakers. 
+Things to consider
+  
+● While native English speakers are sensitive to the prefix-stem structure of words, Chinese speakers of English do not appear to be. 
+● The fact that recognition of the words by the non-native speakers was facilitated regardless of whether the word embedded in the prime was meaningfully related to the target implies that they focus more on the individual letters of the word than its meaningful internal components.

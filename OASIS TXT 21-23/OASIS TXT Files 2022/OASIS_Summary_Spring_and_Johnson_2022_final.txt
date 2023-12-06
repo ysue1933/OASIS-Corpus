@@ -1,0 +1,26 @@
+
+What this research was about and why it is important 
+ We compared new technologies that can be used to calculate measures of vocabulary usage and recommend a new program that provides the measures most associated with second language (L2) writing proficiency. We tested the programs on paragraphs written by Japanese English as a Foreign Language (EFL) university students and compared the measurements to human-rater and standardized test scores. Based on our results, we recommend using SpaCy technology if using our program and the measures for objectively assessing EFL vocabulary usage given below. 
+What the researchers did
+ 
+● Created a program to create measurements of vocabulary usage with different technologies, and then compared three of them: LCA, NLTK, and SpaCy. 
+● Changed the way the program calculated some measurements from previous versions by (1) including an additional measure of word type ratios, (2) allowing the verbs “be” and “have” to be considered lexical verbs, and (3) using an updated list of the 2,000 most common words in the English language. 
+● Used data from 135 Japanese University students who wrote paragraphs which were rated by 5 EFL experts. 
+● Compared the similarity of the measurements provided by the three technologies for each student paragraph. 
+● Compared the correlation between the various measurements calculated by the three technologies, human rater scores of student paragraphs, and students’ TOEFL® ITP scores. 
+What the researchers found
+ 
+● Both the new program and the LCA program calculated most measures similarly when using both NLTK and SpaCy. 
+● The largest differences between LCA, NLTK, and SpaCy were measures of verb usage and sophisticated words. 
+● The combination of technology that provided measures the most associated with both human rater scores and TOEFL® ITP scores was SpaCy used with the new program. 
+● The measures that were most associated with human rater and TOEFL® ITP scores for all three technologies were: the number of different words (NDW, NDW-ER50), the ratio of types of words (CTTR, RTTR), and the number of different verbs used (SVV1, CVV1). 
+● The measures that were only associated with human rater or TOEFL® ITP scores when calculated by SpaCy included those associated with the number of sophisticated verbs (VS1, VS2, CVS1), and those of lexical sophistication (LS1). 
+Things to consider
+ 
+● The results of this study might vary for different types of tasks and for learners with different first languages and proficiency levels. Further testing with different learners and task types is required. 
+● The six measures that we found to be associated with both human rater and TOEFL® ITP scores for all three technologies were also found to be associated with higher rater scores in other studies. 
+● The additional measures that were associated with human rater and TOEFL® ITP scores when based on SpaCy technology were not found to be associated with higher rater scores when run on the LCA technology in this study or other studies. 
+● Similar studies should also be conducted with new natural language processing technologies as they become available, because the ability of advanced technology to calculate these measures may improve in the future. 
+● The program could also be further modified in the future to check for other measures, such as grammatical complexity, based on SpaCy technology. 
+● The measures provided by the new program can be used by teachers and researchers to help objectively assess writing, evaluate the impact of teaching materials, and potentially to help grade students’ writing. 
+● The program will be continually updated in the future to become increasingly useful to a wide range of teachers and researchers. 

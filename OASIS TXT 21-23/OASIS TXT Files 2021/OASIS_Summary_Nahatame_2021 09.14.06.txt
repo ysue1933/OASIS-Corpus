@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ Measuring text readability, which is how easily written texts can be read and understood, has been an important issue among researchers, educators, material writers, and publishers. Many formulas have been developed to assess English text readability. Although most are traditional formulas relying on simple linguistic features such as word and sentence length, recent studies have proposed newer formulas employing computational techniques to include more cognitively relevant text variables. However, most readability studies have focused on comprehension of the text rather than the effort required to process the text, despite the fact that text processing is included in the definitions of readability. This article presents studies that examined the ability of readability formulas, both traditional and newer, to predict the processing effort required to read second language (L2) texts. These studies found that the newer readability formulas can be more accurate measures of the processing effort as evidenced by eye movements during reading. 
+What the researchers did
+ 
+● Data about eye movements during the reading of several English texts were collected from a group of Japanese learners of English (Study 1) and an eye-tracking corpus of L2 English reading (Study 2). 
+● The texts were assessed for their readability using different formulas, including both traditional and new. 
+● The readability scores were used to develop statistical models that predict specific eye movement measures, such as how long readers fixate on a word, the distance they read before making an eye movement, and how often they skip a word. 
+● Participants’ L2 proficiency was considered as an additional variable in the analysis. 
+What the researchers found
+ 
+● Readability formulas have the ability, to some extent, to predict the processing effort required for reading L2 texts, as reflected by eye movements. That is, more difficult texts, as assessed by the readability formulas, resulted in: longer mean fixations on words; eye movements with longer distances; and less word skipping. 
+● Newer readability formulas outperformed traditional formulas for predicting several eye movement measures. 
+● Nevertheless, no formulas made very strong and consistent predictions for the eye movement data. 
+Things to consider
+ 
+● The findings suggest that the newer readability formulas are more theoretically valid and accurate measures of the processing effort involved during L2 reading, compared to traditional formulas. 
+● However, given the difficulty of providing very strong and consistent predictions about text processing effort, it is likely to be most helpful to consider the results of various readability measures, and it is important to develop formulas specifically designed for estimating the effort required for L2 text processing. 
+● Differences in text characteristics (e.g., text length and type) and reader profiles (e.g., L1 background) were not considered, and should be examined in future investigations. 
+● It remains unclear whether specific linguistic features (e.g., word, sentence, and discourse features) are more closely related to processing patterns relative to holistic scales of readability. 

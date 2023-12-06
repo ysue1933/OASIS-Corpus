@@ -1,0 +1,18 @@
+
+What this research was about and why it is important 
+ Syntactic priming, an implicit process where exposure to certain syntactic structures can produce a tendency to reuse that structure, has recently been extended to cross-domain priming, where exposure to information in nonlinguistic domains (e.g., music or math) can prime people’s production of specific language. However, whether these cross-domain priming effects come from implicit (without awareness) or more explicit (with awareness) sources of knowledge is unclear. Our work takes steps to assess whether cross domain priming relies on explicit knowledge. Our findings suggest that, even though participants were able to learn implicitly, in the absence of explicit knowledge, from a nonlinguistic task (in which they were exposed to an image that, unbeknownst to them, was presented in predictable patterns), there was no cross-domain priming to language. 
+What the researchers did
+ 
+● Seventy-two native English speakers completed three tasks: A finger sequence task; a sentence completion task; and an explicit knowledge assessment task. In the finger sequence task, participants had to press a key to indicate which position on the screen, out of four positions, an image of a dog appeared. Half the participants were exposed to one type of pattern, and the other half to another type of pattern. In the sentence completion task, participants had to complete a written sentence, by typing the end of a fragment such as ‘John meets the doctor [first noun] of the supermodels [second noun] who …’. Participants were free to go on to describe either ‘the doctor’ or ‘the supermodels’ – a choice which would reflect one of the two patterns that were in the finger sequence task. 
+● The explicit knowledge task assessed participants’ explicit knowledge of the sequences that had appeared in the finger sequence task, as they were asked to predict where the image would appear. 
+● The accuracy and the speed of the key presses in the finger sequence task were measured. 
+● Whether participants produced a relative clause (who…) that described the first or second noun was recorded. 
+What the researchers found
+ 
+● Participants showed successful implicit learning in the finger sequence task but acquired no explicit knowledge of the patterns. 
+● Following the finger sequence task, participants showed no syntactic priming in the sentence-completion tasks: how they completed the sentences was not associated with the patterns they had experienced in the finger task. 
+Things to consider
+ 
+● There is a growing body of work on cross-domain priming. However, the nature of this nonlinguistic knowledge (whether it is explicit or implicit) has not been directly examined. 
+● The present research found that in the absence of explicit knowledge, there was no cross-domain priming. 
+● Future research on cross domain priming needs to examine whether some amount of explicit knowledge is necessary to lead to priming effects, and whether the kind of tasks used can influence the extent to which priming is observed.  

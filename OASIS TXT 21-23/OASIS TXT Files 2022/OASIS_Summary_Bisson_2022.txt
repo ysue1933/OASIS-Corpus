@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+ It is easier to learn some foreign language words than others, and prior research has discovered many word-related features explaining this effect. One of these features is cross-linguistic orthographic familiarity, that is the similarity in spelling patterns between the foreign language and the native language of the learner. The current study focused on investigating the mechanisms that assist the acquisition of vocabulary with similar and dissimilar orthographies. Previous findings have suggested that individual differences in cognitive abilities play a crucial role in the learning of a foreign language. Therefore, this research aimed to investigate the relationship between cross-linguistic orthographic familiarity and individual cognitive mechanisms. This was achieved through a series of learning, recalling, and cognitive tasks. 
+What the researchers did
+ 
+● 132 native English speakers with no knowledge of Welsh completed all tasks over two days. 
+● The study started with informal exposure - a letter-search task - in which participants saw a written foreign word, a picture illustrating the meaning, and heard an auditory form, following the demonstration of a letter, and had to decide whether the letter was presented in the word. During this task, participants were not asked to learn the words in any way. 
+● Subsequently, participants were asked to learn Welsh words through exactly the same presentation, but without letters to search, in an intentional learning task. 
+● The next day, the meaning recall task required them to provide English translations for the words that were presented to them in both learning sessions the day before. 
+● Cognitive abilities were tested in short-term memory, phonological, and acoustic tasks during the first day, as well as in working memory tasks on the second day. 
+● Cross-linguistic orthographic similarity for each Welsh word was assessed by another group of participants. What the researcher found 
+● Cross-linguistic orthographic similarity, or how similar a word looks compared to native language words, is an important predictor of learning foreign language words at the level of meaning recall. Individual differences in cognitive abilities also impact language learning. 
+● Importantly, there was no interaction found between individual differences in cognitive abilities and cross-linguistic orthographic similarity. This indicates that the impact of cross-linguistic orthographic similarity remained the same for learners with a range of cognitive abilities. 
+
+Things to consider
+ 
+● It is harder for learners to acquire new words or link them to known meaning representations when the words’ orthography is dissimilar to the one they know. Therefore, learners may need more support or direct instruction to help learn those words. 
+● On the other hand, when native and foreign languages words share high cross-linguistic orthographic similarities, it is remarkably easier to learn new vocabulary. 
+● The influence of individual differences on foreign language learning remains to be investigated for languages with greater or weaker cross-linguistic orthographic similarity. 

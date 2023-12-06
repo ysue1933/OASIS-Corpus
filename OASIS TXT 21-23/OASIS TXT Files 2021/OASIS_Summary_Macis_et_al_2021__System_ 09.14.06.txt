@@ -1,0 +1,21 @@
+
+What this research was about and why it is important 
+ Knowledge of multiword phrases such as collocations is crucial for successful language use. Therefore, it is essential to identify techniques that can help second language learners acquire collocations. One technique that remains unexplored is ‘spacing’, i.e., how collocations should be best presented and practiced in both incidental and explicit learning situations in order to accelerate their learning. To address this gap, this study examined the impact of spacing (massed versus spaced) and the learning condition (incidental versus explicit) on the long-term retention of twenty-five collocations. Results show that both massed and distributed practice are relevant for the learning of collocations depending on whether they need to be learned incidentally or explicitly. 
+What the researchers did
+ 
+● The researchers conducted two 10-week-long experiments with 105 Arabic learners of English (55 in Experiment 1 and 50 in Experiment 2). They investigated whether it was better to space or mass the repetitions of the same collocation in both incidental and explicit learning situations. 
+● In each experiment, there were two experimental groups and one control group. 
+● A fill-in-the-blanks test was created to measure the participants’ knowledge of 25 collocations. This test was used before the main treatment started and two weeks after it finished. 
+● During the treatment, the spaced experimental groups encountered each collocation five times in total, once every week. On the other hand, the massed experimental groups encountered the five repetitions of each collocation all at once, within the same text. 
+● In the incidental learning contexts, the participants were asked to read different texts and answer comprehension questions. In the deliberate learning situations, the participants were asked to deliberately learn the collocations inserted in short sentences and do a few exercises afterwards. 
+● The control groups did not participate in the main treatment; they only completed the fill-in-the-blanks tests. 
+What the researchers found
+ 
+● When compared to the control groups, all experimental groups led to collocation learning. 
+● When the collocations were learned explicitly in a spaced manner, the learning gains were the highest. 
+● On the other hand, in the incidental learning contexts, there was more learning when the participants encountered all the collocations within the same text. 
+Things to consider
+ 
+● The study found that the best results are achieved when learners engaged in explicit learning and were exposed to collocations in a spaced manner. Therefore, deliberate learning should be part of any vocabulary programme. 
+● This study also found that both spaced and massed practice can lead to durable learning and be valuable techniques in the language classroom. However, their use and effectiveness will depend on the learning context, i.e., whether the focus is on incidental or explicit learning of collocations. 
+● Massed exposure can be achieved through text manipulation. However, creating appropriate texts can be very time consuming and teachers should be aware of this when they plan their classes. 

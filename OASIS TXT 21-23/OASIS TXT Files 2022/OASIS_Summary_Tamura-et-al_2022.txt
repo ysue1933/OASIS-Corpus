@@ -1,0 +1,20 @@
+
+What this study was about and why it is important  When resolving number agreement between the auxiliary verb be and the conjoined noun phrases in there constructions (e.g., there is/are a pen and an eraser), native speakers of English tend to form number agreement with the first singular noun, thereby preferring singular agreement (e.g., There is a pen and an eraser). In a previous study we found that Japanese second language (L2) learners of English prefer plural agreement in error-correction tasks (e.g., There are a pen and eraser). This study investigated whether such learners also show this tendency in online reading experiments. The results of two reading experiments implied that L2 learners of English prefer singular agreement, similar to native speakers. Nevertheless, repeated exposure to plural agreement sentences (e.g., there are a pen and an eraser) triggered learners’ knowledge of conjoined noun phrases being plural and their preference for singular agreement disappeared as the experiment continued. This result implies that L2 learners’ metalinguistic knowledge (i.e., knowledge about language) can uniquely affect how they process sentences. 
+What the researchers did
+ 
+● We ran two reading experiments, Experiment 1 and Experiment 2. Twenty-two Japanese graduate or undergraduate students took part in Experiment 1 and 32 Japanese graduate or undergraduate students in Experiment 2. 
+● We were interested in number agreement between be verbs and conjoined noun phrases (e.g., dog and cat) in SVX (Subject +Verb + X) sentences (e.g., a dog and a cat is/are behind the sofa) and there constructions (e.g., there is/are a dog and a cat behind the sofa). 
+● In Experiment 1, the participants were engaged in a self-paced reading task with word-by-word (A| pen| and| an| eraser| is/are|…) and segment-by-segment (There is/are | a pen and an eraser | on the desk) versions. In a self-paced reading task, participants press a button to make the next word or segment in the sentence appear on the screen. We measured how quickly participants pressed the button. 
+● In Experiment 2, the participants were also engaged in a self-paced reading task. However, both sentence structures were presented in a word-by-word manner. 
+● In both experiments, we compared the reading times when number mismatches arose between be verbs and conjoined noun phrases. 
+● We also analyzed whether the reading time differed between the beginning and end of the experiments. 
+What the researchers found
+ 
+● In Experiment 1, it was found that the participants read plural agreement sentences faster in there constructions, whereas no reading time differences were found in SVX sentences. 
+● In Experiment 1, the reading pattern did not change throughout the experiment. 
+● In Experiment 2, the participants read singular agreement sentences at the first agreement point (there is a pen…), although this tendency gradually disappeared toward the end of the experiment. 
+● In contrast, as the experiment continued, the participants read the plural agreement faster at the point where they processed the second noun (there are a pen and an eraser…). 
+Things to consider
+ 
+● It is possible for L2 learners to resolve number agreement between be verbs and conjoined noun phrases at the first opportunity in there constructions, similar to native speakers of English. 
+● However, it is unique for L2 learners to consider the second noun of the conjoined noun phrase after making a singular agreement at the first location. This unique phenomenon could possibly be caused by the repeated input of conjoined noun phrases embedded in there constructions, which activate L2 learners’ explicit metalinguistic knowledge that “conjoined nouns phrases are always plural.”  

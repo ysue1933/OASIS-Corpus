@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ When we use a second language, we may or may not be aware of how much we know, because there are different types of linguistic knowledge. One is explicit knowledge, which we are consciously aware of, and which we can describe in the form of declarative rules. Another is implicit knowledge, which accounts for abilities we have that we are not even aware of. Explicit knowledge develops when we consciously analyze language in terms of its forms, meanings, and rules that determine their use. When we learn a language in a classroom, we typically interact a lot with textbooks and teachers, and much of the knowledge we gain, therefore, is explicit. Many researchers argue that when L2 learners are tasked with analyzing linguistic structures in input, and then coming up with their own explicit grammatical rules, without having a teacher or textbook simply provide them, the learners will more profoundly engage with the learning process, and therefore learn and remember the material more successfully. This is a method known as (guided) inductive teaching. The present study provides a research design that allows us to study how different features of explicit knowledge interact with the inductive learning process; it elicits rules in purposeful tasks controlled for uniformity across multiple participants, thus establishing a framework to analyze explicit knowledge according to information structure and its relationship with language processing. 
+What the researchers did
+ 
+● Learners were 20 L2 Spanish students enrolled in a third-semester basic language course, between 18 and 21 years old.  
+● Learners completed a moving-window self-paced reading task. They saw active Spanish sentences first, one word at a time, and then selected between one of two pictures that best represented who did what to whom, as described in the sentence. They received positive or negative feedback after each selection. Then, working alone, they wrote down rules regarding how we know who did what to whom in the sentence. Next, they repeated the same procedure, but with passive sentences, which was a novel structure. 
+● The researchers analyzed the active- and passive-sentence rules the learners wrote down, and identified different types of rules, based on how complete the rule was, how many linguistic features were incorporated into the rule, the order in which the features were mentioned.  
+● The researchers analyzed the reading times (in milliseconds) of each word in the sentence and of each sentence as a whole, as the participants read their sentences one word at a time.  
+What the researchers found
+ 
+● The researchers found that L2 explicit knowledge is learnable from guided induction, presented as input processing and feedback, along with guiding prompts. 
+● L2 explicit knowledge, developed through guided induction, can be analyzed for its information structure. 
+● There is a relationship between how deeply L2 learners process language and a rule’s information structure. 
+● L2 explicit knowledge shows individual variation in its written information structure based on rule completeness, linguistic features included, and the order in which linguistic features are mentioned. 
+Things to consider
+ 
+● Results of the present study could have pedagogical implications in so far as they demonstrate how the information structure of a rule might affect a learner’s processing of language, and whether a rule should be provided to the learner, or if the learner should be tasked with forming it on their own. 
+● Rule formation and its relationship with language processing in guided-inductive contexts might depend on the specific linguistic structure being learned, as well as the proficiency level of the learner. Further research should draw comparisons across different structures and different proficiency levels. 
+● More research examining the relationship between information structure and language processing would allow us to further substantiate the findings of the present study. 

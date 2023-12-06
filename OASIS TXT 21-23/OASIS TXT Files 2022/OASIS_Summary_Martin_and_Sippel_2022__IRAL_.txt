@@ -1,0 +1,21 @@
+
+What this research was about and why it is important 
+ Recently, peer feedback has become increasingly popular in language classrooms. It can be used alongside or instead of teacher feedback, and several studies have shown that it can be as effective as teacher feedback under the right circumstances. But where do the learning gains in peer feedback come from? Do they come from providing or from receiving peer feedback? And does one of these modalities (that is, providing or receiving peer feedback, but also receiving feedback) lead to longer retention of learning gains? These questions were investigated by looking at perception skills of learners of German. Results show that providing peer feedback led to learning gains, but receiving peer feedback did not. 
+What the researchers did
+ 
+● They recruited 106 first-year learners of German at three different universities in the U.S. 
+● They assigned the learners to one of four groups (1) providing peer feedback, (2) receiving peer feedback (3) receiving feedback, or (4) part of a control group. 
+● All learners did a perception test, in which they had to identify which syllable in a German word was stressed.  
+● After the peer feedback providers, peer feedback receivers, and feedback receivers did a short pronunciation training focusing on both production and perception skills, all learners submitted a recording of 24 German sentences. Each of the peer feedback providers was assigned a partner in the peer feedback receiver group. o Day 1: the peer feedback providers listened to their partner’s recording and gave them oral feedback on their pronunciation. o Day 2a: the peer feedback receivers used the feedback they had received from their partner to re-record the original 24 sentences. o Day 2b: the feedback receivers received oral feedback from a teacher rather than from a peer and then completed the same step as the peer feedback receivers. 
+● After two rounds of this intervention, all learners took the perception test again. Then, they took it again 8 weeks later without having received any additional pronunciation or perception training in the meantime. 
+What the researchers found
+ 
+● The peer feedback providers and the feedback receivers improved after receiving the training and they still showed these learning gains until at least eight weeks after the intervention. 
+● There were no differences between the peer feedback providers and the feedback receivers immediately after the intervention, but eight weeks later, the peer feedback providers were even better than the feedback receivers. 
+● The peer feedback receivers and the control group did not improve. 
+Things to consider
+ 
+● Providing peer feedback seems to help learners as much in their learning as when they receive feedback from a teacher, but it seems to be even more impactful for long-term learning. A possible explanation for this is that even though peer feedback might be less accurate and focused than feedback, learners take a more active role when they provide feedback rather than just receive it. 
+● When comparing the two peer feedback modalities (providing vs. receiving), it appears that learning gains stem from providing peer feedback, not from receiving it. This is important to keep in mind when designing peer feedback activities for the classroom. 
+● Teachers might be well-advised to design activities that focus on the dimension of providing feedback, e.g., by having all students provide feedback on one sample pronunciation recording. 
+● This study only looked at a rather narrow skill, that is, the ability to perceive stress placement in different syllables in German words. It is important to investigate if these findings apply to pronunciation skills more generally. Materials available from: https://www.iris-database.org/iris/app/home/detail?id=york%3a938128&ref=search 

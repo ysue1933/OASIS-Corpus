@@ -1,0 +1,18 @@
+
+What this research was about and why it is important 
+  Syntactic complexity, i.e., the degree of variation and sophistication of the syntactic structures used, plays an important role in second language (L2) writing quality. Recent research on L2 English writing syntactic complexity has paid increasing attention to phrasal complexity measures and have reported stronger predictive power of these measures for L2 English writing quality than measures based on larger syntactic units. How can phrasal complexity be measured in Chinese? Do phrasal complexity measures better predict L2 Chinese writing quality than those based on larger syntactic units? This study proposed nine measures for assessing noun phrase (NP) complexity of L2 Chinese writing and compared their predictive power for L2 Chinese writing quality against that of a set of measures based on the topic-comment (TC) unit, a large syntactic unit that is specific to Chinese. A TC unit is a chain of two or more clauses that share a common topic, with the topic occurring explicitly only in one clause in the chain and implicitly referred to with an empty category in the other clauses in the chain. The results showed that the NP complexity measures better predicted the holistic scores of Chinese narratives written by Korean learners of Chinese. These results have important implications for how syntactic complexity should be conceptualized and operationalized in L2 Chinese writing syntactic complexity research. They also offer insights into the types of complex structures that are useful for L2 Chinese writing instructors and learners to pay attention to. 
+What the researchers did
+ 
+● The dataset included 101 narratives written by 33 beginning–intermediate, 37 intermediate–advanced, and 31 advanced Korean Chinese-as-a-second-language (CSL) learners and rated by 2 trained CSL teachers. 
+● Each narrative was manually analyzed for three TC-unit-based measures and nine NP complexity measures. 
+● A series of analyses were conducted to determine the extent to which the TC-unit-based measures and NP complexity measures can predict the holistic scores of the narratives. 
+What the researchers found
+ 
+● One TC-unit-based measure that assesses the number of empty categories in TC units per 1,000 words and two NP complexity measures that assess the ratio of complex NPs and the mean length of complex premodifiers significantly predicted the holistic scores of the narratives. 
+● The NP complexity measures were stronger predictors of the holistic scores than TC-unit-based measures. 
+● Combining the TC-unit-based measures and complexity measures resulted in stronger predictive power than using either TC-unit-based measures or NP complexity measures alone. 
+Things to consider
+ 
+● It is important for L2 Chinese writing researchers to adopt a multidimensional instead of selective approach to conceptualizing syntactic complexity and to use theoretically motivated measures that reflect language-specific structural features of Chinese to operationalize syntactic complexity. 
+● It is necessary to remedy the lack of research on NP complexity in L2 Chinese writing syntactic complexity and to derive and evaluate a more comprehensive set of measures that tap into the full range of structural variations of Chinese NPs. 
+● It is useful for L2 Chinese writing instructors to help CSL learners improve their repertoire of complex structures, including, in particular, complex topic chains and complex NP premodifiers, to achieve not only syntactic variety and complexity but more importantly progression, coherence, and expressive and descriptive richness.  

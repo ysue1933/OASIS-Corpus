@@ -1,0 +1,25 @@
+
+What this research was about and why it is important 
+ When reading empirical research articles in applied linguistics, we assume that the findings are reported in good faith and the underlying data were not tampered with. Unfortunately, this is not always the case. In this study, we surveyed applied linguistics researchers on various practices related to handling quantitative data and reporting quantitative analyses. We found that roughly 1 in 6 researchers admitted to inventing or altering data, though they did so rarely. Overall, nearly all researchers had room to improve their quantitative research practices. These findings should motivate efforts to improve quantitative research practices. 
+What the researchers did
+ 
+● We created a survey about fraud (inventing or altering data) and questionable research practices (e.g., not reporting unfavorable findings) in quantitative applied linguistics research. 
+● We sent the survey to 2,230 applied linguistics researchers as well as several relevant email lists and social media groups. 
+● 362 researchers completed the survey, but we excluded 11 who reported not engaging in quantitative research. 
+● We analyzed the survey responses and associations with researcher background variables (e.g., years since earning a PhD). 
+What the researchers found
+ 
+● 17% of participants admitted to fraud, but those who did reported doing so very rarely. 
+● Researchers who admitted to fraud tended to be early in their careers and had experienced having their work rejected for lack of statistical significance. 
+● 94% of researchers admitted to at least one questionable research practice. 
+● Researchers with more quantitative training reported less frequent engagement in questionable research practices. 
+● Researchers who published articles more frequently and who had experienced rejection for lack of statistical significance reported more frequently engaging in some questionable research practices. 
+Things to consider
+ 
+● Unlike previous studies on research methods and study quality in applied linguistics, we asked researchers what they did to get a ‘behind the scenes’ perspective, as no one admits in a published article that they committed fraud. 
+● This study relied on self-report data, which may result in underestimating the prevalence of fraud and questionable research practices. 
+● This study only covers quantitative research. The results are not relevant to qualitative applied linguistics research. 
+● The proportion of applied linguistics researchers admitting to fraud is higher than several other academic disciplines. 
+● We roughly estimate that around 1%-2% of quantitative applied linguistics research is based (in part) on fraudulent data. 
+● Most applied linguistics researchers have room to improve their quantitative research practices. 
+● We suggest improving/expanding quantitative research training, adopting open science practices, and incentivizing desirable research practices in journals (e.g., in determining what studies get published) and professional organizations (e.g., creating strong field-specific guidelines). 

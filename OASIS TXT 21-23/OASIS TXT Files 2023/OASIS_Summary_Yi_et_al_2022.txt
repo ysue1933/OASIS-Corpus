@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+ Teachers must decide whether a phrase is worth teaching in second language classrooms based on their intuitive knowledge about its usage patterns in a language community, including how often the phrase is used and how probable two words co-occur in it. Previous research has reported mixed findings for the reliability of such intuitive knowledge. Whether second language speakers are as capable as native speakers when making intuitive judgments about the usage patterns of phrases remains unknown. We investigated these questions by asking native and second language speakers to evaluate how often 180 phrases are used in English and how predictably one word follows another word in a phrase. Neither native nor second language speakers seemed to demonstrate accurate intuitions of the usage patterns of phrases. 
+What the researchers did
+ 
+● Native speakers were 113 US residents, who earned at least a bachelor’s degree. Second language speakers (intermediate-to-advanced English learners) were 81 Chinese international students at US universities. 
+● 180 English adjective–noun phrases (such as financial services) were selected from a large text database, and frequency of occurrence and probability of word co-occurrence were retrieved for each phrase. 
+● Using a questionnaire, participants estimated (a) how often each phrase is used in English and (b) how likely the adjective (e.g., financial) can be predicted after seeing the noun (e.g., services), or vice versa. 
+● To examine the reliability of intuitive knowledge of phrases, participants’ responses were compared against the patterns of usage retrieved from the database. 
+What the researchers found
+ 
+● Participants’ intuitions of the usage patterns of adjective–noun phrases were inaccurate, both for how frequently these phrases are used and how predictably the adjectives and nouns occur together. 
+● There was little difference between the performance of native and second language speakers. 
+● Participants relied on various types of linguistic knowledge when providing their estimates. For example, they drew on their knowledge of individual words and also on their experience with each phrase as a whole. 
+Things to consider
+ 
+● These findings did not support teachers’ practice of relying on their intuition to select phrases for teaching, given that such judgments may not be reliable especially if the goal is to select many target expressions. 
+● Native and second language speakers’ knowledge about how often a phrase is used and how predictably two words co-occur in a given phrase may not be separable. 
+● These findings do not necessarily mean that language speakers are unable to track the usage patterns of phrases. The inaccuracy of their judgments might be due to the questionnaire judgment task used in this study. 

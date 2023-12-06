@@ -1,0 +1,26 @@
+
+What this research was about and why it is important 
+ This study provided a systematic review of second language (L2) researchers’ use of self-report questionnaires that measure L2 anxiety and motivation. These two psychological characteristics are commonly examined via questionnaires. However, the research instruments need to be valid and reliable to produce meaningful data. Having summarized the main aspects of study and scale quality in survey research, this review covered publications in five leading L2 journals and spanned the time from 2009 to 2019 (including articles that were published online at the time of data collection). The study findings revealed multiple areas in need of methodological enhancement. The article concluded by providing recommendations for future studies in this domain. 
+What the researchers did
+ 
+● The author systematically described and evaluated the quality of studies and questionnaires in research into L2 anxiety and motivation. 
+● The author developed a comprehensive coding scheme comprising 84 features to record the choices that L2 researchers make when designing a survey study and questionnaire(s), selecting participants, and ensuring that the instruments used are valid and reliable. 
+● The author also examined researchers’ reporting practices about the scales (questionnaires) and in the studies more generally. 
+● The author retrieved a total of 104 peer-reviewed articles (113 independent samples) that had used 340 L2 anxiety (k = 83) and motivation (k = 257) scales and had recruited a total of 58,438 participants (learners = 95%, teachers = 5%). 
+What the researchers found
+ (a) Study Quality: 
+● The study designs were more often observational rather than (quasi)-experimental and more often cross-sectional rather than longitudinal. 
+● Convenience sampling was most commonly employed. 
+● English was the most commonly investigated target language. 
+● The majority of studies were conducted at college/university and in a foreign language context. 
+● Few studies were conducted with children. 
+● Survey response rates were rarely reported. 
+● Modern missing data techniques were rarely applied. 
+● Questionnaires were not always made available. (b) Scale Quality: 
+● Neither content nor construct validity of questionnaires was thoroughly demonstrated. 
+● For one-item questionnaires, reliability was never reported. 
+Things to consider
+ 
+● The quality of L2 anxiety and motivation self-report questionnaires would improve if some methodological issues were addressed. 
+● These include (a) providing more evidence for scale content and construct validity, (b) conducting more tests of measurement invariance (to check that results do not differ in an unintended way due to certain participant characteristics), (c) reporting response rates more thoroughly, and (d) employing recent missing data handling techniques. 
+● The article provides detailed recommendations for future studies that make use of questionnaires in L2 research. 

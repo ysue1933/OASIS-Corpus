@@ -1,0 +1,26 @@
+
+What this research was about and why it is important 
+ This study is a systematic review of self-report questionnaires that measure second-language (L2) anxiety and willingness to communicate. Ensuring questionnaire quality is a crucial aspect of survey research because data collection instruments must be valid and reliable in order for study results to be meaningful. Having reviewed the main characteristics of questionnaire quality, this study examined articles that were published in 22 leading L2 journals in 2000–2020, excluding studies in advance online publication. The findings revealed multiple areas of questionnaire quality that would benefit from methodological improvement. The article concluded by providing recommendations for future questionnaire studies. 
+What the researchers did
+ 
+● The author systematically described and assessed the quality of questionnaires in research into L2 anxiety and willingness to communicate. 
+● Several research channels were used to locate eligible studies. These channels included journal websites, a corpus of scholarly articles, and two major research databases. 
+● The author retrieved a total of 232 peer-reviewed articles (248 independent studies or samples) that had used a total of 385 L2 scales (anxiety = 321; willingness to communicate = 64). 
+● The author then adapted a comprehensive coding scheme to record the choices that L2 researchers make when designing, adopting, or adapting questionnaires and ensuring that the instruments used are valid and reliable. 
+● The author also examined researchers’ reporting practices about the questionnaires. 
+What the researchers found
+ 
+● The majority of questionnaires consisted of more than one item (good practice compared to several other disciplines). 
+● The average reliability of questionnaires in the present study was slightly higher than in other L2 studies. 
+● However, reliability of one-item questionnaires was never reported; reliability of two-item questionnaires was not reported properly. 
+● There was a high number of adapted questionnaires which did not always have sufficient validity evidence. 
+● Invariance tests were rarely performed (on existing scales only); no new scales in this sample were checked for measurement invariance. 
+● Neither convergent nor divergent/discriminant validity of questionnaires was thoroughly demonstrated. 
+● Some studies combined several questionnaires measuring different constructs to form a new questionnaire arguably measuring yet another construct. 
+● Many characteristics of questionnaire quality were underreported (e.g., how response options were labeled, how content validity was established). 
+● Overall, questionnaire quality in L2 anxiety and willingness to communicate research needs improvement. 
+Things to consider
+ 
+● The quality of L2 anxiety and willingness to communicate questionnaires would improve if some methodological issues were addressed. 
+● These include (a) providing more evidence for scale validity and reliability, especially for newly developed scales and scales with major modifications, (b) conducting more tests of measurement invariance (to check that results do not differ in an unintended way due to certain participant characteristics), (c) reporting validity reference for existing scales more thoroughly, and (d) avoiding the creation of so-called blended scales. 
+● The article provides detailed recommendations for future studies that make use of questionnaires in L2 research. 

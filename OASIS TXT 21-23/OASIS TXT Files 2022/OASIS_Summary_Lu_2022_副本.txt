@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+  Second language researchers and instructors often want to know about the ability of students to use formulaic sequences (e.g., collocations: hard work and idioms: break the ice) when learning to understand and speak a second language and how various factors influence this ability. This study investigated the performance of second language learners of Chinese on a type of discontinuous formulaic sequences—correlative connectives (e.g., búdàn…érqiě not only…but also) on two tasks. It also investigated how frequency (how often a pair of connectives occurs in a specific text), contingency (how strongly the two connectives in a pair are associated with each other), semantic transparency (how easy it is to understand a pair of connectives), and first language congruency (whether a pair of connectives has an equivalent in English) affect the learners’ performance. The study showed that learners’ competence was driven jointly by multiple factors and that learners were sensitive to factors at both the level of the pair and the level of the individual connective. 
+What the researchers did
+ 
+● Participants were 190 second language learners of Chinese who enrolled in Chinese language programs at eleven universities in North America and two study-abroad programs in China. All learners had finished at least one semester of Chinese language instruction at the university level when they participated in the study. 
+● Learners were required to complete a gap fill test and a multiple-choice test. In the gap fill test, they were asked to insert an omitted clause in a three-clause sentence in which one of the two connectives in a target pair was embedded in one of two given clauses. In the multiple-choice test, they were required to select a target pair of connectives from a choice bank to connect two given clauses in a sentence. 
+● Second language learners’ responses were coded against criteria established by native Chinese speakers’ data for the gap fill test and a preset answer key for the multiple-choice test, respectively. 
+What the researchers found
+ For pair-level factors: 
+● In general, highly frequent, cognitively simple Chinese correlative connectives that have equivalents in English were easier for second language learners to recognize and produce. In contrast, closely associated connectives posed a challenge to second language learners, especially the use of obligatorily paired connectives without equivalents in English. 
+● The performance of second language learners may be negatively affected by the highly frequent, cognitively simple connective pairs due to confusion caused by similarities among these pairs. 
+● The degree to which two paired connectives are associated had little influence on the positive frequency effect if the connective pairs have equivalents in English; however, a high degree of association reversed the positive effect of frequency for connective pairs that have no equivalents in English. For individual connective-level factors: 
+● Second language learners were also sensitive to the frequency of individual connectives and their conditional probability (the probability of a connective also occurring when the other connective in a pair has appeared). 
+Things to consider
+ 
+● This study showed that it was easier for second language learners to recognize and produce frequent, cognitively simple Chinese connectives that have equivalents in English, but hard to use paired connectives that are highly associated and do not have equivalents in English. 
+● Factors related to correlative connectives (i.e., frequency, contingency, semantic transparency, first language congruency) did not function in isolation, but interacted to influence the performance of second language learners. 
+● More research is needed to explore the interactions of different factors that affect second language learning for different categories of connectives or other formulaic sequences. 
+● Future research on discontinuous formulaic sequences may consider using individual word-level measures, such as word frequency and conditional probability. 

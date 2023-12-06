@@ -1,0 +1,21 @@
+
+What this research was about and why it is important 
+ Researchers have developed many English word and phrase lists intended to help language learners develop their vocabulary knowledge. However, there is little evidence that such lists are being used by students or teachers, even though research has shown that learners might benefit from using them. This study presents an automated online vocabulary notebook system that references eight word and phrase lists and allows learners to immediately know if the vocabulary items they study appear on any of the lists. Twenty-nine first language (L1) Japanese university English learners recorded their self-selected vocabulary on the notebooks over 14 weeks. They chose vocabulary from reading self-selected texts inside and outside of classes. Results showed that vocabulary chosen by learners often appeared on proficiency-test-related vocabulary lists. Surveys and interviews with learners revealed that the system moderately influenced learners’ choice of which English vocabulary items to study. 
+What the researchers did
+ 
+● I developed individual online vocabulary notebooks that automatically referenced eight different word and phrase lists each time a vocabulary item was added by a learner, showing how many lists and which lists contained the item. 
+● Twenty-nine L1 Japanese university English language learners added their self-selected vocabulary items from self-selected reading to the notebooks over a period of 14 weeks. 
+● I analyzed which lists contained the most learner vocabulary items. 
+● I conducted open-ended surveys with all learners about the vocabulary notebook system’s influence on their reading and vocabulary selection. 
+● I conducted interviews with six learners to learn more detailed information about the system’s influence on their reading and vocabulary selection. 
+What the researchers found
+ 
+● Proficiency-test-related reference lists (e.g., TOEFL, TOEIC) contained relatively higher percentages of learner vocabulary than other reference lists 
+● Learners were much more likely to select individual vocabulary words for their notebooks than multiword expressions. 
+● Learners often studied vocabulary even when it did not appear on any reference lists. 
+● Surveys and interviews showed that half of the learners changed their self-selection of vocabulary as a direct or indirect influence of using the online vocabulary notebook system. 
+Things to consider
+ 
+● The structure of the vocabulary notebooks is flexible and scalable: a teacher or researcher could use any chosen reference lists for use with the system and the system can work for large groups of students 
+● The system allowed learners to benefit from corpus-informed English language vocabulary research that has been underused pedagogically 
+● Multiword expressions might deserve special focus by teachers so that students choose to study them along with individual words 

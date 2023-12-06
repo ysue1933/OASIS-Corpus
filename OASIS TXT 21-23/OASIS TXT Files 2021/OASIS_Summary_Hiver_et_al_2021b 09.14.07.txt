@@ -1,0 +1,21 @@
+
+What this research was about and why it is important 
+ In the early 1990s complex dynamic systems theory (CDST) was proposed in the field of second language acquisition, and in applied linguistics more broadly, as a new way to think about and study interrelated processes that develop and change through time. Since then, a variety of conceptual and data-based papers using CDST were published to help further understanding of language development, multilingualism, language policy and planning, and language pedagogy. This study looked back at the past 25 years of CDST research in the field, using a technique called a scoping review. We used this technique to look at what research our field has done with this framework and to summarize the available evidence from that research. We looked in detail at the methods and designs in these research studies to highlight trends and tendencies. Our scoping review also tried to summarize the contributions of substance that these studies made. We found that study quality varied across studies, and that a number of strong contributions had been made to the field. 
+What the researchers did
+ 
+● The researchers searched in electronic databases for all relevant studies published over a 25-year period and then screened the abstracts, titles, and keywords of all peer-reviewed articles, book chapters, conference papers or proceedings, and doctoral dissertations found. 
+● The pool of studies from this screening step (396 studies) was then examined using specific inclusion criteria (e.g., the manuscript must report an actual research study). Studies that did not correspond to all inclusion criteria were dropped. 
+● A final pool of 158 studies that met all the inclusion criteria was coded by teams of coders using a descriptive rubric. Codes included details about the study design and methods as well as descriptors about the study’s contribution and any limitations. 
+What the researchers found
+ 
+● The researchers found that sample sizes were modest in this report pool (40% of studies had a sample size of 10 or less), and the most studied sample was university or adult language L2 learners (over 70% of studies). 
+● Many different language learning contexts and instructional settings were studied in the report pool, with foreign and second language learning contexts the most common research setting (over 80% of the total). 
+● The majority of study designs looked at language development over periods of time—rather than at one snapshot in time—including over months or years (over 80 studies), and data were collected from groups versus from an individual level in a roughly even split.  
+● Widely used, conventional techniques for data collection and analysis as well as newer more innovative methods were present in these reviewed studies. 
+● Novel contributions to thinking and practice in the field were clear from this pool of studies, and these contributions are related to observation of evidence or data supporting researchers’ conclusions or to practical ideas and applications of the research, rather than theory. 
+● Finally, some design limitations in the report pool led us to propose areas for improving CDST study design in the future. 
+Things to consider
+ 
+● CDST research has allowed researchers to investigate dynamic change and systems of relations and to understand how these are a central part of underlying patterns of language development. 
+● The first 25 years of CDST research supports theoretical claims that language itself, language use, and language development are all complex and dynamic. 
+● More work is needed to understand how to intervene in and intentionally generate change in systems of language learning and use. 

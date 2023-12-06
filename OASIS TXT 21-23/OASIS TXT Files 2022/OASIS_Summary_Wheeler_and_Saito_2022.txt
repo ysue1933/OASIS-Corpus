@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+ Intelligibility is defined as the degree to which a speaker is understood. Most scholars agree that the primary goal of second language (L2) speaking instruction should be intelligibility rather than “native-likeness.” Instead of trying to correct all “errors” that deviate from standard speech, priority should be given to language errors which are the most likely to impede effective communication. A number of linguistic factors have been examined in L2 intelligibility research, but almost all of this research is based on listeners’ understanding of speech presented in an audio-only format. Little is known about the effect of visual information. How does gesture and visual speech (the movements of the lips, mouth, tongue, and teeth) affect the intelligibility of foreign-accented speakers? This study examined how access to visual cues affects the intelligibility of words containing vowel errors as well as the intelligibility of accurately pronounced words. Such an investigation can shed light on speaker behaviors (both verbal and non-verbal) that facilitate or hinder effective communication, with subsequent implications for teaching and assessment. Two listener groups (L1 and L2) were investigated. We found that gesture greatly increased the intelligibility of speech containing vowel errors for all listeners; when speech did not contain errors, gesture increased intelligibility for L2 listeners, but not L1 listeners. 
+What the researchers did
+ 
+● Participants were 10 L1 listeners and 22 L2 (Mandarin L1) listeners. L2 listeners were highly proficient in English, scoring a minimum of 7 out of 9 on the IELTS or 100 out of 120 on the TOEFL. 
+● In the experiment, listeners watched a series of 60 2-second video clips of a speaker saying a common action verb (e.g., “give,” “cut,” “put”) and were asked to transcribe the words they heard. Transcription accuracy was used as a measurement of speech intelligibility. 
+● Words were presented in six different conditions. Half of the words contained a vowel error (e.g., “give” pronounced “gev”), while the other half were pronounced accurately. Words within each of these two groups were presented in three different modalities: audio-only, audio + visual speech, and audio + visual speech + gesture. In the visual speech condition, the speaker’s mouth was visible. In the gesture condition, the speaker performed an iconic gesture (e.g., making a scissor motion while saying “cut”). 
+● The accuracy scores of transcriptions in all conditions were compared. 
+What the researchers found
+ 
+● Iconic gesture greatly increased intelligibility when speech contained vowel errors and/or when the listener was an L2 user of the language. The only situation in which iconic gesture did not facilitate intelligibility was when L1 listeners perceived speech in standard pronunciation. 
+● Visual speech had no effect on intelligibility in either listener group. 
+● Vowel error reduced intelligibility by approximately 20–30% for both L1 and L2 listeners. 
+Things to consider
+ 
+● Findings suggest that visual cues, especially gestures, have the potential to greatly affect the intelligibility of speech that contains vowel errors (as foreign-accented speech often does). 
+● Given this finding, it might be useful for L2 teachers to raise awareness of the potential power of gesture in communication. The results also raise the question of whether gesture should be included in the assessment of speaking proficiency. 
+● More research that focuses on other types of gestures and pronunciation errors is needed, as well as research that investigates extended speech rather than single words. 

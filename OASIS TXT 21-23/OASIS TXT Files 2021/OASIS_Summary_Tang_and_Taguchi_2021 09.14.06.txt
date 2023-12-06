@@ -1,0 +1,17 @@
+
+What this research was about and why it is important 
+ Many foreign language teachers try to use digital games to motivate their students’ learning. But it is not clear if digital games are really effective as instructional tools. Less is known about the effectiveness of digital games compared to regular online lessons. This study investigated the instructional and motivational effects of a digital game on learning daily expressions in Chinese. We developed two digital learning environments: a scenario-based digital game (Questaurant) and an interactive online lesson. Second language learners of Chinese were randomly assigned to the game group and the online lesson group. Results showed that both groups equally improved their knowledge of daily expressions after the respective learning session. However, students in the game group showed a significantly higher level of motivation compared to the online lesson group. 
+What the researchers did
+  
+● They developed two digital environments: a game and an online lesson, to teach daily expressions in Chinese. 
+● They recruited participants who were enrolled in Chinese classes from two U.S. universities. Participants were university students between the ages of 17 and 27. Most participants were native speakers of English. 
+● Researchers randomly assigned participants in two groups: a game group (25 students) and an online lesson group (24 students). Participants learned daily expressions in Chinese in their respective learning environment for about an hour. 
+● They assessed participants’ knowledge of daily expressions in Chinese before and after the learning session through production and recognition tests. They also measured participants’ engagement levels through a motivation questionnaire. 
+What the researchers found
+  According to the tests and the motivation questionnaire: 
+● Participants in both the game and online lesson groups significantly improved their knowledge of daily expressions in Chinese after the learning session. 
+● Survey results showed that the game condition generated higher motivation ratings than the online lesson counterpart. Compared to the online lesson, participants in the game group felt more engaged and motivated through game-based learning. 
+Things to consider
+ 
+● Participants in this study were university students. This group of participants cannot represent learners of different age groups with different learning styles. Future research can investigate the effects of games across different age groups especially with younger learners. 
+● This study was conducted in a controlled laboratory setting in a university. But in real life, students often play games at home. Although using a controlled setting ensured the comparability of the two conditions, the laboratory setting might not be ideal for assessing the real benefits of games, due to the lack of authenticity in game playing. Future studies can examine the effects of game-based learning in an authentic setting. 

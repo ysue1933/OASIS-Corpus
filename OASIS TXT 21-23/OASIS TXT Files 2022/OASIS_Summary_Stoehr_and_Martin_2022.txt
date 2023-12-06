@@ -1,0 +1,23 @@
+
+What this research was about and why it is important 
+ Learning the sounds of a foreign language is an especially demanding task for language learners. One factor that may contribute to the difficulty of sound learning is related to orthography (i.e., how a sound is written). When children or adults learn a foreign language in the classroom, they typically start reading and writing in that language from early on. Oftentimes, the letters used in a foreign language and in the native language are the same. For example, the same letters of the Latin alphabet are used in both Spanish and French. However, these same letters often correspond to different sounds between languages, such as the letter <u>, which corresponds to two distinct vowels in Spanish and French. This study investigated the effect of such mismatched sound-letter correspondences in Spanish learners of French vowels. Specifically, the researchers tested the production and perception of French vowels that were written with letters linked to different vowels in Spanish. People who learned the vowels without seeing their written forms produced and perceived them better than people who learned them paired with Latin letters. 
+What the researchers did
+ 
+● They recruited 75 Spanish-speaking young adults without prior knowledge of French. 
+● They randomly assigned the Spanish-speakers to one of three learning groups: (1) learning with Latin letters that exist in Spanish (e.g., <u>); (2) learning with new (invented) letters (e.g., <ф>); (3) learning without any letters. 
+● On three days, they had people in all three groups listen to French vowels hundreds of times and repeat them. During these learning phases, the researchers showed the participants in the first two groups how the vowels were spelled. 
+● After the third day, they tested how these participants produced and perceived these vowels. 
+● They invited the 25 people from the third group who learned the vowels without seeing letters to a fourth session in which they showed them the letters corresponding to the vowels. 
+● After a short learning phase of approximately 30 minutes, they tested these people again on their vowel production and perception. 
+What the researchers found
+ 
+● People in all three groups learned the new vowels but with different success. 
+● People who learned the French vowels with a Latin letter that also existed in their native language (group 1) were worse at producing and perceiving the French vowels compared to those who learned without any letters (group 3). 
+● People who learned the French vowels with new (invented) letters (group 2) were better at perceiving but not producing the vowels compared to those who learned without any letters (group 3). 
+● People who learned the French vowels without any letters during the first three days (group 3) produced and perceived the vowels less accurately after the 30-minutes learning phase with letter information on the fourth testing day. 
+Things to consider
+ 
+● Seeing a letter seems to automatically activate the sound linked to it in the native language, which makes learning new sounds in a foreign language more difficult. 
+● This orthographic influence appears to be strong enough to retroactively modify sounds that were initially learned without seeing letters. 
+● Learning new sounds paired with new (invented) letters may facilitate learning: linking a new sound to a new letter-like symbol may make it more concrete, which may help people store more precise information about the sound in the mind. However, in the context of this study, there was only evidence that the link to a new letter improved sound perception. It is possible that there are also advantages to sound production, which were not detected in the study, possibly due to the limited learning time. 
+● Not all people were similarly affected by the presence of letters, and future research should investigate what makes certain people more prone to rely on orthographic information in their speech production and perception. 

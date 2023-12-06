@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+ With ever-increasing use of technology in education, there is a need to examine how language use in technology-mediated learning environments (TMLE) may be similar or different from non-TMLE environments. This is particularly important in language assessment contexts, as assessment tasks should include language features that adequately represent the target language use domain (e.g., university language). This study adopts a corpus-based approach to investigate register variation in TMLE and non-TMLE environments. The two corpora used were the TMLE corpus (Kyle et al., 2021) and the TOEFL 2000 Spoken and Written Academic Language (T2K-SWAL) (Biber et al., 2004), which represent technology-mediated (TMLE) and non-technology-mediated learning (non-TMLE) environments, respectively. The findings show that while many similarities in language use exist across TMLE and non-TMLE, substantive, potentially impactful differences also exist. 
+What the researchers did
+ 
+● The researchers compiled a corpus of language use that was representative of TMLE in American higher education, including educational materials collected from public universities and Massive Open Online Courses (MOOCs). 
+● The TMLE corpus (4.5 million words) contains written text (e.g., digital announcements/discussions, assignment descriptions, tutorials, and other instructional readings) and spoken texts (i.e., classroom management talk via digital learning platforms and instructional videos). 
+● The T2K-SWAL corpus (2.8 million words; Biber et al., 2004) contains written texts (e.g., course management, coursepacks, textbooks) and spoken texts (e.g., lecture, office hours, lab). 
+● The researchers analyzed a variety of language features across the two corpora and extracted 6 important dimensions of language features (i.e., oral vs. literate discourse, lexical and phrasal complexity, procedural discourse, elaborated discourse - complement clauses, narrative orientation, and elaborated discourse - relative clauses). Subsequently, they compared the characteristics of language use across different situational contexts. 
+What the researchers found
+ 
+● Spoken TMLE registers (classroom management talk, instructional videos) showed fewer oral language features (e.g., coordinated clauses, contractions, be as a main verb) than spoken non-TMLE registers, but they still exhibited more oral language features than the written registers from both environments (e.g., slides, textbooks). 
+● Spoken non-TMLE registers were less complex in terms of lexical and phrasal features (such as shorter word lengths, fewer nominalizations) while spoken TMLE registers were closer to the written registers in terms of the same features. 
+● Written TMLE registers (e.g., slides, quiz) were less complex in terms of lexis and phrases (e.g., word lengths, coordinated phrases) than non-TMLE written registers (e.g., textbooks, other institutional writing). 
+Things to consider
+ 
+● The study highlighted a range of differences across TMLE and non-TMLE discourse. 
+● The differences between TMLE and non-TMLE discourse suggest that spoken TMLE, which includes pre-recorded instructional videos, may be more demanding. This information may be used to further inform language assessment tasks. 
+● It is important to note that a good deal of TMLE texts were video transcripts from MOOCs. So their characteristics may not perfectly represent the TMLE during synchronous communication (such as via Zoom conferences). Material, data, open access article: 

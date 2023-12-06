@@ -1,0 +1,22 @@
+
+What this research was about and why it is important 
+  Effective proficiency assessment can inform researchers about learners’ current language abilities and reveal how their proficiency levels may influence a research intervention. An established short-cut measure of global proficiency in second language (L2) is the elicited imitation task (EIT), which typically requires participants to listen to sentences and repeat them as closely as possible. This study investigated the reliability and validity of two versions of a 10-minute EIT that measures English proficiency. One version was originally developed by Ortega et al. (2002), and the other was created by the present researchers. The results show that both forms effectively distinguished learners of different proficiency levels and aligned well with other external proficiency measures, but the new form was about 8% more difficulty than the original form. The evidence also suggests that EIT is reconstructive, integrative, modality independent, and with some linkages to communicative abilities. 
+What the researchers did
+ 
+● They recruited 82 participants who had Mandarin as their first language and represented a wide range of English abilities and experiences to complete the original and new EITs, an oral narrative task, and a self-diagnostic survey. 
+● They compared participants’ performance across the two EIT forms to determine how similar the two forms were. 
+● They explored how well the EIT forms distinguished among four proficiency levels and how well the EIT results aligned with learners’ performance on the oral narrative task and their self-assessment of speaking and listening abilities in carrying out everyday communicative tasks of varying difficulty. 
+● They asked for participants’ feedback on self-evaluation of their EIT performance and factors they believed affected their EI performance. 
+What the researchers found
+ 
+● Both EIT forms exhibited excellent reliability, aligned equally well with the narrative performances and self-reported speaking and listening abilities, and effectively distinguished four proficiency levels. 
+● Participants across the four proficiency levels consistently scored about 8% lower on the new EIT form than on the original form. 
+● Listening abilities and sentence comprehension were of great importance in explaining EIT performance. 
+● Participants’ ratings on their abilities in carrying out daily communicative tasks aligned well with their EIT scores, suggesting some linkages between EIT and the kinds of mundane, everyday communicative abilities measured in Can-Do self-assessments. 
+● Participants’ perception of EIT difficulty also aligned well with their actual EIT scores. 
+Things to consider
+ 
+● While both EITs can serve as an effective tool for proficiency assessment, they should not be used without modification in L2 studies that require measuring proficiency several times by the same participants, such as in longitudinal studies, pre- and post-test designs, or crosslinguistic studies that require evaluation of bi- or multilingual speakers’ knowledge in more than one language. Instead, for these purposes researchers may use the revised parallel forms, in which the odd and even number sentences from each set of the EITs are mixed. The researchers recommend that they be re-recorded by the same speaker. 
+● Listening and comprehension were strong predictors of EI performance, especially for participants with lower proficiency and more foreign-language-like learning experience. 
+● Further research on the contribution of vocabulary knowledge to EI performance is warranted. The two English EITs and the parallel EITs in Chinese, French, German, Japanese, Korean, and Spanish are available on the IRIS database: https://www.iris-database.org/iris. 
+● It is hoped that other researchers will feel motivated to further refine the equivalence of the two forms for L2 English in future studies as well as to develop parallel forms for the remaining six L2s available in the Ortega et al. (2002) EIT suite and make them available to the research community. 

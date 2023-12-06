@@ -1,0 +1,21 @@
+
+What this research was about and why it is important 
+ Laufer and Hulstijn’s (2001) Involvement Load Hypothesis (ILH) is a framework that predicts the relative effectiveness of activities for incidental vocabulary learning. The ILH suggests that retention of words depends on three factors (i.e., need, search, and evaluation) and claims that language activities involving greater degrees of these factors lead to greater vocabulary learning gains than activities involving lesser degrees of thereof. Many studies have tested the prediction of the ILH. Based on the reported results of the ILH studies, the current study aimed to improve on the ILH by incorporating it into a broader framework that predicts incidental vocabulary learning. We used a model-selection approach to determine the optimal statistical model including a set of predictor variables that best predicts learning gains. Based on the resulting models, we created Incidental Vocabulary Learning (IVL) formulas. Using these formulas, one can calculate the effectiveness of activities to more accurately predict their relative effectiveness on incidental vocabulary learning. 
+What the researchers did
+ 
+● Studies testing the ILH were collected, and 42 studies were coded for ILH factors and other factors that potentially influence vocabulary learning. 
+● Using an information-theoretic model selection, we identified the optimal statistical model including a set of predictor variables that best predicts learning gains. This process included three steps: (1) identifying the best operationalization of the ILH, (2) identifying the best grouping of test formats, and (3) determining the optimal combination of variables that best predicts learning gains. 
+What the researchers found
+ 
+● The resulting statistical models showed greater predictive ability, as indicated by the larger explained variance than the model only including the ILH’s involvement load index as a predictor variable. 
+● Examining the contributions of the ILH components on their own (accounting separately for each level of each component) improved the prediction of learning gains. 
+● Modifying the evaluation component by distinguishing between different types of strong evaluation (relabeled as sentence-level varied use and composition-level varied use) also enhanced the prediction. 
+● The analysis of the other empirically motivated variables indicated that spoken activities (listening and speaking) tended to lead to lower learning gains than written activities (e.g., reading, writing, gap-filling) on immediate posttests. 
+● Frequency positively contributed to learning gains on immediate posttests. 
+● When search was present, learning gains tended to be lower on delayed posttests. 
+● Based on the resulting statistical models, we created two formulas to calculate the effectiveness of activities. These formulas include seven variables: need, search, evaluation, sentence-level varied use, composition-level varied use, frequency, and mode. 
+● Based on the proposed formulas, we propose an ILH Plus as a falsifiable hypothesis. 
+Things to consider
+ 
+● ILH Plus and the incidental vocabulary learning (IVL) formulas were created based on the results of the ILH studies analyzed; thus, there is a need for carrying out further research to assess the predictive ability of ILH Plus. 
+● ILH Plus and the IVL formulas are simple predictive models. Future studies need to investigate the predictive ability of ILH Plus with a greater variety of learning conditions to develop more complex models that include other variables. 

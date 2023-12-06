@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ Speech researchers often recruit native listeners to evaluate second language speech samples for comprehensibility (how easy the speech is to understand), fluency (how smooth the speech is and how well it flows), and accentedness (the extent to which the speech deviates from native speech patterns). Collectively, these listener-based ratings can provide insight into second language speakers’ oral communicative competence. However, in many research and teaching contexts, native listeners can be difficult to find, and even if native listeners can be recruited locally, they may not be the most suitable rater group. Locating and recruiting appropriate raters for classroom language learners (e.g., students in the United States who are learning a second language through classroom instruction) can prove especially challenging. For one, classroom learners have been exposed to many different varieties of the target language through their instructors. They also have diverse reasons for learning the language, which means that they may end up interacting with a range of native and non-native speakers of the language in the future. These facts lead to two questions: Who should evaluate classroom learners? And how can such individuals be recruited when they cannot be recruited locally? Platforms such as Amazon Mechanical Turk offer researchers a viable alternative to in-person rater recruitment, as long as online data proves reliable. The goal of this study was therefore to assess the feasibility and reliability of various approaches to online rater recruitment in Amazon Mechanical Turk.   
+What the researchers did
+ 
+● We recruited three groups of native Spanish listeners: local listeners who were at the same university as the speakers, online listeners from Argentina, Mexico, and Spain (the three broad dialects of Spanish that learners reported their former and current teachers spoke), and online listeners from any Spanish-speaking country. 
+● We designed two tasks for online listeners: a short screening task that allowed us to collect demographic information and introduce listeners to the rating interface and an experimental rating task. Both tasks included playback and evaluation timers to control how listeners moved through the tasks. 
+● Listeners evaluated speech samples provided by English speakers who were learning Spanish. They heard each file once and rated it for comprehensibility, fluency, and foreign accent using separate 7-point scales. 
+● We used data from the screening task to screen and approve listeners for the experimental task. 
+● We compared the reliability of the experimental ratings that the three listener groups provided. 
+What the researchers found
+ 
+● Ratings showed good to excellent reliability, though reliability for the accentedness scale was lower than for the other scales. 
+● The ratings that the online listeners from Argentina, Mexico, and Spain (regions selected based on the dialects learners had been exposed to through their instructors) provided were slightly more reliable. 
+● The mean ratings from the three groups were not significantly different, which indicates that all three listener groups evaluated the speakers similarly. 
+Things to consider
+ 
+● Ratings collected remotely using an online crowdsourcing platform such as Amazon Mechanical Turk can be as reliable as those collected in person if reasonable quality control measures are implemented. 
+● Sampling listeners from a narrower range of dialects, especially the dialects to which speakers have been exposed, bolsters the reliability of listener-based ratings. 
+● Researchers must take care to ensure ethical standards are met in online research. Online workers should be paid a fair wage, should be made aware of their rights as research participants, and should have an opportunity to provide feedback on the research experience. 

@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+ When students experience negative emotions, such as nervousness or anxiety, they may feel unwilling to communicate in their second language or may perform below their actual ability level. However, it can be difficult to identify if students are feeling anxious or what topics make them experience anxiety. Researchers typically measure anxiety using questionnaires or retrospective reports, but anxiety can fluctuate throughout a conversation. This study therefore measured second language English speakers’ emotional responses moment-by-moment during a conversation by using sensors to record skin conductance (palm sweating), which is an established physiological measure of anxiety. Using this dynamic approach, students’ high and low anxiety episodes (referred to as arousals) were identified and then linked to their nonverbal behavior and the topic of conversation. The researchers found that high arousals (high anxiety levels) were characterized by more blinks, glances away, and nervous gestures, such as hair-twisting, a trend for more speech disfluencies, and talk about personal challenges, while low arousals (low anxiety levels) involved more nods and moments of listening to their partner’s experiences. 
+What the researchers did
+ 
+● The study took place at an English-medium university in Montréal (Québec, Canada). 
+● Participants were 60 English second language university students from 21 different language backgrounds. The students were between 18 and 44 and had lived in Canada from 2 weeks to 22 years. 
+● Two students were seated at a table across from each other. In between them, an eye-tracking system recorded their eye gaze, and webcams recorded their field of vision. Sensors were attached to two fingers on their non-dominant hand to record their skin conductance (sweating). 
+● The students engaged in a 10-minute conversational task where they discussed challenges that international students face when coming to Canada. Afterwards, they self-rated their anxiety during the task and filled out an English anxiety questionnaire. 
+● The video recordings were linked with the skin conductance data. After identifying points in the conversation when students were experiencing high and low arousal, the content, nonverbal and linguistic features of the conversation during those periods were analyzed. 
+What the researchers found
+ 
+● When students experienced high arousals (i.e., high anxiety), they glanced away, blinked, and touched their hair or face, tended to speak more disfluently (e.g., producing fillers uh and um or silent pauses), and were often talking about their own personal challenges in Montréal. 
+● When they experienced low arousals (i.e., low anxiety), students nodded more frequently and were often listening to their partner sharing personal experiences. 
+● There was no relationship between the students’ arousals and their ratings of how much anxiety they experienced during the task or their ratings of how anxious they feel during general English use. 
+Things to consider
+ 
+● If you recognize that your interlocutor is blinking excessively, breaking eye contact continuously, or repeatedly touching their face or hair during interaction, this may be a sign they are feeling anxious. Consider whether changing your behavior, such as speaking more slowly or switching topics, might help reduce their anxiety. 
+● Because high arousals tended to occur when discussing negative topics, teachers may find it helpful to provide scaffolding, coping, or exit strategies when asking students to engage in conversations about personal challenges or difficulties. 

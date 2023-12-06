@@ -1,0 +1,11 @@
+Background
+Language is foundational for neurodevelopment and quality of life, but an estimated 10% of children have a language disorder at age 5. Many children shift between classifications of typical and low language if assessed at multiple times in the early years, making it difficult to identify which children will have persisting difficulties and benefit most from support. This study aims to identify a parsimonious set of preschool indicators that predict language outcomes in late childhood, using data from the population-based Early Language in Victoria Study (n = 839).
+
+Methods
+Parents completed surveys about their children at ages 8, 12, 24, and 36 months. At 11 years, children were assessed using the Clinical Evaluation of Language Fundamentals 4th Edition (CELF-4). We used random forests to identify which of the 1990 parent-reported questions best predict children's 11-year language outcome (CELF-4 score ≤81 representing low language) and used SuperLearner to estimate the accuracy of the constrained sets of questions.
+
+Results
+At 24 months, seven predictors relating to vocabulary, symbolic play, pragmatics and motor skills yielded 73% sensitivity (95% CI: 57, 85) and 77% specificity (95% CI: 74, 80) for predicting low language at 11 years. At 36 months, 7 predictors relating to morphosyntax, vocabulary, parent–child interactions, and parental stress yielded 75% sensitivity (95% CI: 58, 88) and 85% specificity (95% CI: 81, 87). Measures at 8 and 12 months yielded unsatisfactory accuracy.
+
+Conclusions
+We identified two short sets of questions that predict language outcomes at age 11 with fair accuracy. Future research should seek to replicate results in a separate cohort.

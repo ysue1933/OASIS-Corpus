@@ -1,0 +1,17 @@
+
+What this research was about and why it is important 
+ This article provides an example workflow for conducting linguistic experiments online, with a focus on the presentation of complex stimuli and the measurement of reaction times. This method allows researchers to flexibly collect large amounts of data in short periods of time. The workflow is centered around three tools: OpenSesame/OSWeb (open source) provides a user-friendly graphical interface for developing experiments; JATOS (open source) is server software for hosting experiments; and Prolific (commercial) is a platform for recruiting participants. These three tools integrate well with each other and together provide a workflow that requires little technical expertise. A semantic congruency paradigm is used to demonstrate the outlined workflow, illustrating how to deal with challenges associated with running experiments online. These include the implementation of counterbalancing and data quality concerns regarding temporal precision and performance. Finally, the authors discuss privacy and ethical considerations. 
+What the researchers did
+ 
+● The researchers provide a workflow for conducting linguistic experiments online: o The experiment is built with OpenSesame/OSWeb. o The experiment is exported from OpenSesame/OSWeb and imported into a JATOS server. o Prolific is used to recruit participants and direct them to the experiment on JATOS. o The data from the participants are stored on JATOS and can be downloaded and converted to a spreadsheet format (using a conversion tool provided with OpenSesame/OSWeb) that is convenient for data analysis. 
+What the researchers found
+ 
+● A semantic congruency paradigm using the outlined workflow illustrates how the presentation of complex stimuli and the collection of reaction time data can be implemented online. 
+● Even though temporal accuracy (whether the measurement of reaction times is valid) and precision (whether the measurements of reactions times are stable over time) are imperfect in online experiments, this does not necessarily pose a threat to a study’s validity. 
+● Even though dropout rates in online experiments are higher than in traditional laboratory experiments, data quality of participants is reasonable and recruitment easier. 
+Things to consider
+ 
+● Some experiments cannot be implemented online (for example, experiments in which participants are small children, additional measures such as eye-tracking are being collected, or temporal precision is crucial). 
+● Counterbalancing can be implemented online, but this requires careful planning. 
+● Online experiments rely on a complex digital infrastructure, and privacy and ethics policies differ between countries and institutes. Therefore, researchers should consult with their institutes before running experiments online. 
+● The outlined workflow is one of many options for running experiments online. 

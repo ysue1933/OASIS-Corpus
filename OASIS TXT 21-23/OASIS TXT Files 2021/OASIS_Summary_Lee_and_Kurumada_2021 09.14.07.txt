@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+ Everyday language use is heavily dependent on context and often considered “imprecise”. For example, one can label a cup that is only 80% full as “full” although it is false based on the literal sense of the word. Moreover, the same 80% full cup is not considered “full” when used for following a recipe. This imprecision and context-dependency present a major problem for word learners. How do adult learners of English come to know the precise meaning of words like “full” if objects described by these words can vary across contexts? We addressed this by constructing and teaching a novel adjective (pelty, meaning “tight-fitting”) in different contextual conditions. We showed a series of videos in which objects exhibited different degrees of tightness of fit, and were described by a speaker as pelty or not pelty. Just as in the cases of full or not full, this novel adjective applied to a given scene only sometimes. We predicted that adult learners would interpret distinct meanings depending on the availability of information about intention behind the word use (e.g., a mostly tight-fitting shoe is labeled as pelty when the speaker intends to wear it with a thick sock). Results showed that when learners received information relevant to a speaker’s intentions, they were more likely to interpret pelty to mean “completely tight-fitting”, despite varying degrees of fitness seen during exposure to the word. On the other hand, when learners did not receive information about the speaker’s intention, they interpreted pelty to mean “relatively tight-fitting”, even though the visual context was exactly the same (i.e., only the presence/absence of speaker’s intention was different). Our findings provide novel evidence that learners actively incorporate their understanding of the context, such as the intentions of others, when learning the meaning of a new adjective. This suggests that non-linguistic, contextual, information can help shape word learning in naturalistic contexts. 
+What the researchers did
+ 
+● In three studies, we taught adult participants a novel adjective intended to refer to tightness of fit between two objects. 
+● Participants were shown 24 examples of the novel adjective, depicting varying degrees of tight-ness with information about whether the scene can be described by the adjective or not. 
+● Participants were assigned to one of two conditions that either provided information about the speaker’s intentions or not. The participants provided their interpretations of the meaning of pelty. 
+● Types and numbers of scenes that participants were exposed to were systematically manipulated across three experiments. 
+What the researchers found
+ 
+● We found that participants who had access to a speaker’s intentions inferred a “completely tight-fitting” meaning for the adjective compared to those who did not (Experiment 1). 
+● This was also the case even when the visual variety of examples shown increased (Experiment 2). 
+● However, participants did not infer a “completely tight-fitting” interpretation (relative to Experiments 1 and 2) when given only imprecise visual examples (Experiment 3). 
+Things to consider
+ 
+● We concluded that learners use information from the context in which the language is used, including inferred intention of the speaker, to acquire a novel word meaning. 
+● The consideration of contextual information may be different depending on the individual (e.g., adults vs. children). 
+● Future research can extend this line of thinking to examine other types of linguistic constructions, such as verbs. Materials and data: Materials and data are publicly available at osf.io/b9mah. 

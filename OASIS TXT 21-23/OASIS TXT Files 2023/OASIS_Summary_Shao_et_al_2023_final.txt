@@ -1,0 +1,17 @@
+
+What this research was about and why it is important 
+ Emotions are crucial for learners’ successful acquisition of a second language (L2). Theoretically sound and empirically valid instruments for measuring multiple emotions in L2 learning are largely lacking, however. In response to the increasing interest and need for the use of valid instruments to examine multiple emotions in second language acquisition, the present study used Control-Value Theory (CVT) as a framework for adapting the Achievement Emotions Questionnaire (AEQ), an established instrument for measuring eight discrete emotions in education, specifically to the domain of L2 learning. The study showed that the L2 emotion scales enable reliable and valid measurement of university students’ diverse emotional experiences when acquiring a second language. 
+What the researchers did
+ 
+● They recruited two cohorts of undergraduate students (N = 1,021; age: 18-20) studying English as their major at a foreign language studies university in Southeastern China. Cohort 1 consisted of 471 students from 18 classes and cohort 2 consisted of 550 students from 20 classes. 
+● They developed a self-report questionnaire adapted from existing scales to measure students’ eight discrete emotions, together with their appraisals and motivation, in learning a second language. 
+● They assessed students’ appraisals and motivation in the sixth week of the semester, measured students’ emotions in the 17th week, and obtained students’ exam scores after the 18th week. 
+What the researchers found
+ 
+● Item and scale statistics showed that the adapted eight L2 emotion scales are psychometrically sound tools for measuring students’ enjoyment, hope, pride, anxiety, anger, shame, hopelessness, and boredom, respectively, in classroom language learning. 
+● Tests of structural validity of the AEQ supported the hypothesis that the eight L2 emotion scales have a hierarchical component structure comprising cognitive, affective, motivational, and physiological sub-components in and across the two student groups. Comparing four alternative statistical models showed that students’ language emotions are best represented by considering both the uniqueness and separability of the eight examined emotions and their four-component structure. 
+● Examination of external validity showed that learners with higher values on positive L2 emotions (enjoyment, hope, and pride) scored higher on control and value appraisals, intrinsic motivation, extrinsic motivation, self-regulated learning, and exam scores; while the opposite patterns of were generally observed for negative L2 emotions (anxiety, anger, shame, hopelessness, and, boredom), except that anxiety, anger, and shame were not related to extrinsic motivation. 
+Things to consider
+ 
+● Language teachers may apply this instrument as a diagnostic tool for assessing students’ diverse emotion profiles and adjusting their pedagogical design and teaching accordingly. 
+● As the AEQ was originally designed in the field of education, L2 researchers may develop emotion instruments considering the domain specificity of language learning in the future. Instruments specifically measuring students’ L2 emotions in listening, speaking, reading, or writing are needed.  

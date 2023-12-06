@@ -1,0 +1,16 @@
+
+What this research was about and why it is important 
+ Learning a second language (L2) in adolescence or later is often associated with difficulties in the perception and production of nonnative speech sounds, which can result in foreign-accented L2 speech. For instance, native Spanish speakers learning L2 English often assimilate the English vowel contrast /i/–/I/ to one Spanish vowel /i/ and produce the English words sheep [Sip] and ship [SIp] with the same middle vowel /i/, which can lead to confusion. Learners’ perception and production of L2 contrasts can improve as a function of L2 experience and/or exposure and training. However, the rate of improvement and the success can largely depend on learners’ ability to assess and track progress in their own L2 performance and judge how good it is as compared to the language spoken around them. Our study pursued three goals by examining: (a) how good novice language learners are in their ability to assess their own L2 perception and production skills, that is, how good their L2 metacognitive skills are; (b) whether there is a relationship between learners’ ability to perceive and produce L2 speech sounds; and (c) whether metacognitive skills in L2 production correlate with those in L2 perception. 
+What the researchers did
+ 
+● To address our goals, we exposed native speakers of Spanish to a novel vowel contrast /ø/–/œ/ that does not exist in Spanish, but exists in French, as in ceux /sø/ “those” and in soeur /sœr/ “sister.” Then, we taught them corresponding labels for these vowels. 
+● Once the participants had learned the sound–label correspondences, we presented them with a sound identification task where they had to identify whether the sound that they heard was /ø/ or /œ/ and with a consonant–vowel word production task where the vowel was either /ø/ or /œ/. 
+● After each trial, we asked the participants to indicate how confident they were in the accuracy of their answer on a scale from 1 (I answered completely at chance) to 6 (I am completely sure). 
+What the researchers found
+ 
+● Novice language learners were relatively good in their ability to assess their own L2 perception. 
+● However, their metacognitive skills seemed to operate at a relatively coarse representational level for L2 production: Confidence in production did not predict the learners’ accuracy for (a) distance to the productions by native French speakers or (b) whether their vowels were within or outside the native zone (productions by native French speakers). 
+● There were no associations between learners’ accuracy in L2 perception and production, nor between their metacognitive skills in these domains. 
+Things to consider
+ 
+● In sum, our study suggests that L2 novice learners have an accurate overall, gross estimation of their L2 sound perception that can guide their perceptual learning and pronunciation tuning in the learning process, but that they need more L2 experience to assess their L2 production more reliably. 

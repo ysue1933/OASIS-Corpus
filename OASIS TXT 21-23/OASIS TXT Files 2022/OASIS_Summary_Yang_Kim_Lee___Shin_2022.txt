@@ -1,0 +1,21 @@
+
+What this research was about and why it is important 
+ Artificial intelligent (AI) chatbot technology has gained growing interest in recent decades and relevant research has been witnessed in the field of language education. This study presented how an AI chatbot called “Ellie” could be utilized for English learners in South Korea. The researchers investigated English learners’ conversation with the chatbot conversation turns, speaking mission success rates, and their opinions about the chatbot while talking with the chatbot in their English classes. Results showed positive influence of the AI chatbot on the English learners’ English practices. The study found that the learners talked more in English with the chatbot, which they would be unlikely to experience with their peers in their English classrooms. The English learners used meaningful negotiation skills to successfully complete the speaking tasks given by the chatbot. The learners reported that the chatbot helped them improve their speaking skills and they felt more comfortable chatting with the chatbot in English. 
+What the researchers did
+ 
+● The researchers developed an AI voice chatbot named “Ellie” that supported English learners’ English conversation practices in Korea.  
+● 314 English learners in South Korea participated to use the AI chatbot for learning English. The learners consisted of 177 elementary school students (from 10 to 11 years old) and 137 high school students (15 years old). 
+● They talked to the chatbot over three weeks in their English classes, using their own laptops, table PCs or mobile phones. 
+● For speaking practice with the chatbot, the English learners completed the three real life tasks. The tasks were 1) taking orders at a restaurant, 2) shopping at a shoe store, and 3) reserving a party room. 
+● On the last day of their use of the chatbot, the English learners answered to the survey to share their opinions about the AI chatbot as an English conversation partner.  
+What the researchers found
+ 
+● Talking with the chatbot, the English learners talked more in English and used diverse vocabulary related to daily life situations. 
+● The English learners overall succeeded in completing the tasks, meaning that they could practice English speaking to accomplish something, as we often do in real life situations. 
+● The English learners’ inappropriate or offensive responses to the chatbot’s talk and technical errors (e.g., voice recognition of the chatbot) appeared to interrupt their successful task completion. 
+● The English learners thought that the AI chatbot helped them improve their English speaking skills, and they became more comfortable talking with it in English. 
+Things to consider
+ 
+● This study showed that the AI chatbot could provide positive learning environment for English learners because the learners continued to speak in English in classes and exchanged meaningful messages to complete the given task goals relevant to real life situations. 
+● The further development of the chatbot was required especially relevant to the capability of the voice recognition and the inclusion of more diverse real life related speaking tasks. 
+● Future research was needed to find out whether English learners at different English speaking levels could benefit from the chatbot for improving their English skills when they would use in longer period of time.  

@@ -1,0 +1,18 @@
+
+What this research was about and why it is important 
+ A variety of data collection methods have been adopted in pragmatics research. Among those methods, researcher-made tasks such as closed role-plays (Participants read a scenario and produce a one-turn response as if they were in the situation) have been criticized because they are artificial and do not often reflect real-life language use. On the other hand, although naturalistic data coming from real-life contexts are authentic, collecting a large amount of such data meets the challenge of practicality. To address this problem and advance the current research practice in pragmatics, this study explored the potential of immersive virtual reality (VR) as a tool for developing a data collection task. The study compared participants’ speech acts elicited through a VR-based task and a traditional computer-based closed role-play task. 
+What the researchers did
+ 
+● 62 native and nonnative speakers of English in U.S. universities completed a VR-based and computer-based closed 
+● 
+● role-play task eliciting speech acts (requests, refusals, opinions; 15 items total). In the computer-based task, participants read a scenario on the computer screen and spoke to the computer as if they were in the situation performing the assigned role. In the VR-based task, scenarios were displayed in 360° videos, which were viewed using a VR headset. A person in the video delivered a spoken prompt, and participants produced a spoken response to the person performing the assigned role. 
+● Participants’ speech acts were analyzed on oral fluency (speech rate) and use of speech act strategies (e.g., direct strategies such as “Do X” and indirect strategies such as “I wonder if you could do X; modification strategies such as providing a reason for a request, apologizing for the inconvenience, and thanking). 
+What the researchers found
+ 
+● Both native and nonnative speaker groups spoke more slowly and used more modification strategies in the VR-based 
+● speech acts, but the directness level of the speech act strategies was similar between the two tasks. In the speech act situations involving a large social distance, unequal power relationship and a high degree of imposition (e.g., asking a professor for an extension of an assignment), speech rates were slower and the use of modifications was greater than those involving a small social distance, equal power relationship and a low degree of imposition (e.g., asking a friend for a pen). 
+● While native speakers used fewer direct strategies in the former situation type in both tasks, nonnative speakers were less direct in the former situation type in the VR task only. 
+Things to consider
+ Future research in this area will want to consider the following: 
+● Does the interlocutor’s cultural background affect participants’ performance in the VR-task? 
+● The VR-task in this study elicited a one-turn response. How can we elicit a more extended, multi-turn exchange in a virtual space? 

@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+ When two speakers interact with each other, they (unconsciously) reuse each other’s linguistic choices, that is, they copy words, expressions, and also (morpho)syntactic structures of their interactional partner. For example, when someone describes a picture using passive voice (‘The glass was broken by the cat.’), their partner is likely to also use a passive instead of active voice to describe a similar situation (‘The purse was stolen by the burglar.’ vs. ‘The burglar stole the purse.’). This phenomenon is called alignment and is very frequent in natural conversations in the mother tongue (L1). Second language (L2) acquisition research is interested in whether alignment takes place in an L2 and whether it might support L2 learning. In this study, we examined lexical and syntactic alignment in mixed English-Spanish digitally mediated task-based tandem communication. More specifically, we investigated the extent to which alignment of vocabulary and language structures occurred in video-based online conversations between Spanish and English L1 speakers who were learners of each other’s languages. These tandem pairs did part of their tasks in Spanish and part in English, taking turns in being the expert (L1) and learner (L2). We also compared alignment in free conversation vs. spot-the-difference tasks. 
+What the researchers did
+ 
+● 62 adult L2 learners were paired up into 31 conversational pairs. Each pair consisted of an L1 speaker of English and an L1 speaker of Spanish learning each other’s languages. At time of participation, they were at B2 level (CEFR) in their target language. 
+● During a video call, pairs completed six tasks: two free conversations and four spot-the-difference tasks, taking turns in the 
+● language of conversation (half in English, half in Spanish). In the transcribed conversations, we coded for lexical (e.g., ‘in my picture’) and syntactic (e.g., ‘preposition-possessive-noun’) three-word strings for each speaker in each task. These were compared between interlocutors in real conversations (e.g., speaker A with B of pair 1; speaker C with D of pair 2) to identify overlapping or aligned language. 
+● We also compared the three-word strings between speakers who had not been in the same conversation, creating random ‘fake’ pairs (e.g., speaker A with C; B with D) to see whether there was coincidental overlap, for example, of structures needed for the task. 
+What the researchers found
+ 
+● Real pairs had a larger amount of aligned three-word strings than random pairs, which suggests that alignment occurs in (online) second language conversation. 
+● There was a higher syntactic alignment as compared to lexical alignment, indicating an increased repetition of structures as compared to specific vocabulary. 
+● Type of alignment differed according to task type: spot-the-difference tasks elicited higher lexical alignment (vs. syntactic), whereas free conversations resulted in higher syntactic alignment (vs. lexical). 
+Things to consider
+ 
+● This study showed that (a) alignment occurs in online video-based L2 conversations; (b) syntactic alignment is more prominent than exact lexical overlap; and (c) task type influences the type of alignment (more syntactic in free conversation, more lexical in spot-the-difference tasks). 
+● Our method of comparing real and random pairs is an effective method to identify alignment and discriminate it from coincidental overlap. 
+● Pedagogical implications: Alignment is an important factor to consider for task design in tandem conversations. More guided tasks (e.g., spot-the-difference) support lexical alignment and can thus be used for frequent reuse of vocabulary items. Open access article: open access article 

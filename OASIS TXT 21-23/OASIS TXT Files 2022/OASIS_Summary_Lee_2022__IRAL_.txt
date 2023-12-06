@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+  There have been hundreds of studies done relating to accented speech perception – how people react to and perform when listening to speakers with accents different from their own. These studies traditionally look at accentedness (how different the speaker’s accent is to the listener’s), comprehensibility (how easy or difficult the listener feels it is to understand the speaker), intelligibility (how much of the speech is actually understood, as measured by transcription exercises), and sometimes recollection (measured by a quiz on the speech’s contents). However, researchers have never measured how much the listeners are paying attention to the speech (engagement), and if this differs depending on the accent of the speakers. 
+What the researchers did
+ 
+● Participants were 430 Japanese university students, divided into two groups. 
+● Model speakers were a male speaker of British English (i.e., Received Pronunciation) and a male speaker of Chinese with advanced English ability, rated as C1 (highly advanced) in the CEFR (Common European Framework of Reference for Languages) system. 
+● The two groups of participants listened to a short recording (54 – 55 second) of their respective speaker talking about their summer vacation. 
+● Listeners rated the speakers on the likeability of their accents (i.e., aesthetics), comprehensibility, and perceived intelligibility (i.e., how much they felt they understood). The unique aspect of the study was that listeners reported how much they paid attention to the story on a scale of “I lost concentration immediately” to “I concentrated to the end”. 
+● Recollection was tested by asking participants to write down any and all words or phrases they remembered from the speeches. 
+What the researchers found
+ 
+● The two groups differed significantly in all variables – the listeners reporting liking the British English accent more, found it easier to understand, found they understood it more, paid attention longer, and remembered more of the contents. 
+● The only variable that seemed to be able to predict how much the listeners remembered was engagement. If the listeners paid more attention, they tended to remember more of the contents. 
+● HOWEVER, when engagement was used as a mediator, the other variables were also shown to have significant predicting power. In other words, if the listeners liked the accent, they tended to pay more attention, which resulted in them remembering more of the content. 
+Things to consider
+ 
+● Testing engagement was done by asking students to report honestly whether how much they paid attention. In the future, it is recommended to repeat the study and add eye-tracking and measurements of the size of listeners’ pupil dilation to be more objective. 
+● The results are not meant to imply that British English is in any way superior to Chinese English for teaching English. Ratings such as aesthetics are known to be highly variable depending on listeners’ familiarity and prior experience with a particular accent type. 
+● It is recommended that exposing learners to greater diversity of accent types will increase their receptive skills and increase their listening outcomes such as comprehensibility, intelligibility, and recollection. 

@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ Second language learners make speech errors with possessive pronouns like his or her. We investigated whether difficulties with possessives also happen when people hear sentences. Two experiments followed participants’ eyes around a screen while they listened to an instruction containing a possessive pronoun in German. The results demonstrated difficulties in two different groups of intermediate-to-advanced learners of German: first language speakers of Spanish and English. Spanish and English possessive pronouns behave in different ways. Thus, if a person’s first language influences how they process a second language, we would expect differences in the performance of Spanish and English speakers on the German task. However, both groups showed comparable difficulties, which suggests that difficulties with German possessives cannot be solely due to the influence of a person’s first language. Instead, we propose that possessive problems arise due to the way in which language and memory interact during sentence comprehension. 
+What the researchers did
+ 
+● We tested Spanish and English intermediate-to-advanced learners of German. 
+● Participants had to select an appropriate object—from several pictures on a computer screen—based on a spoken instruction including a possessive pronoun (e.g., Click on his blue button!). 
+● German possessives simultaneously mark two agreement relationships: one with the pronoun’s antecedent (e.g., his refers to a masculine owner) and one with the following noun (e.g., masculine in the example above because the German word for button is masculine). 
+● The owner of the object had either the same gender as the target object (match condition) or a different one (mismatch condition). 
+● The research question was whether participants could use the gender of the pronoun to anticipate (predict) the upcoming noun and whether these predictions were faster in the match than in the mismatch condition, as expected, if participants had an easier time when the two genders of the pronoun align. 
+What the researchers found
+ 
+● Experiment 1 suggested that predictions and match effects were absent in setups with complex visual displays (four pictures). 
+● Experiment 2 with simpler displays (two pictures) successfully elicited predictions and match effects. 
+● In Experiment 2, predictions and match effects were comparable between Spanish and English speakers. 
+Things to consider
+ 
+● Intermediate-to-advanced learners of German can use gender information to predict upcoming nouns. 
+● However, the absence of predictions in Experiment 1 suggests that learners might struggle to use gender predictively in experiments with complex visual displays. 
+● In contrast with previous studies on production, the results suggest that problems with possessives in a second language cannot be solely due to interference from learners’ first language. Instead, difficulties might arise due to the way in which language and working memory interact during sentence comprehension. 

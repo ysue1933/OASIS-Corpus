@@ -1,0 +1,23 @@
+
+What this research was about and why it is important 
+ LMOOCs (Language Massive Open Online Courses) offer an innovative language learning experience and create unlimited learning opportunities for a large number of language learners. To improve the effectiveness of LMOOCs, course designers want to know how learners perceive and evaluate LMOOCs. This study investigated learners’ evaluations of 10 popular English as a Second Language (ESL) MOOCs, aiming to identify the key factors that constitute a quality framework of LMOOCs. The study also identified the specific quality criteria for five types of ESL MOOCs, which suggests some common features related to course design of online language courses. The findings of the study lay a foundation for the establishment of a quality criteria framework for LMOOCs. 
+What the researchers did
+ 
+● They adopted the Grounded Theory Method in investigating learners’ perceptions of LMOOCs. 
+● They selected 10 popular ESL MOOCs and analysed 1000 evaluative comments from learners of these courses. 
+● The 10 LMOOCs include two ESL speaking courses, two ESL writing courses, two ESL reading courses, two cultural studies courses, and two ESL integrative skills courses. 
+● The 10 courses are all among the most popular LMOOCs in China, each with more than 300 comments from learners. 
+● The study selected 100 comments from each course and coded 1000 comments focusing on quality issues of the course. 
+● The study mixed qualitative and quantitative methods and analysed the ratio and percentage of factors that have influenced learners’ perceptions of the quality of LMOOCs. 
+● Different factors that have influenced learners’ evaluations of five types of LMOOCs were investigated and compared. 
+What the researchers found
+ 
+● Based on the data analysis of 1000 learners’ evaluative comments, 19 factors were identified as the most direct indicators to determine quality issues from learners’ perspective. These factors were categorized into five key concepts, which represented the most important aspects of the quality issues in LMOOCs. 
+● A quality criteria framework for LMOOCs was established consisting of five major types of quality criteria on the second level, including teacher/instructor criteria, teaching content criteria, pedagogical criteria, technological criteria, and teaching management criteria. 
+● For all five types of LMOOCs, the most decisive quality factor was “the effectiveness of teaching content”. But still the quality criteria for these LMOOCs were different in many aspects. First, teachers’ oral language proficiency is universally considered to be a key factor in the quality criteria of ESL speaking MOOCs. Second, the teachers’ teaching ability is held to be an important factor for both ESL writing and reading MOOCs. Third, learners of ESL cultural studies MOOCs valued high-quality teaching content, and the richness of content is the decisive factor in their quality criteria. 
+● All in all, the specific criteria for each type of LMOOC were unique and depend on their different teaching objectives and the competences that learners were supposed to obtain. 
+Things to consider
+ 
+● This study provides suggestions to improve the quality and effectiveness of LMOOCs. The study captured and identifies quality indicators of LMOOCs for the first time and identified specific criteria for five types of LMOOCs corresponding to different language competences. 
+● The results of this study are consistent with some earlier views about the success of LMOOCs, all emphasising students’ engagement, teacher presence, and effective instructional design (Bárcena & Martín-Monje, 2014; Sokolik, 2014). Our empirical research covers a wider range of details in learners’ experience and lays a foundation for the further exploration of the effectiveness of LMOOCs. 
+● Although the study is limited in scope and only Chinese LMOOCs are involved, the results shed light on general problems and challenges faced by all LMOOCs. The findings in the study help to bridge the gap between course designers’ and learners’ evaluations of LMOOCs. 

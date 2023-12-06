@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+ In the field of second language (L2) speech, researchers have extensively investigated a language-focused, highly explicit training method, that is, high variability phonetic training (HVPT). However, many have claimed that the nature of such instruction has heavily relied on decontextualized practice that might not develop learners’ communicative competence. Recently, scholars have shown that learning new sounds as a by-product of another activity in a multimodal context, in other words, incidental and multimodal training, could be more effective than the exclusive use of explicit and language-focused training. To test the pedagogical potential and limits of this approach, we conducted an intervention study and designed a web-based shooting game focusing on Japanese speakers’ English phonetic acquisition. Participants were told that the faster they shot targets, the more points they would earn. Unknown to the participants, each target was preceded by unique English consonants and vowels. As such, L2 learners were incidentally guided to use phonological cues and acquire a series of novel foreign sounds as a by-product of playing the videogame. 
+What the researchers did
+ 
+● We recruited 58 Japanese learners of English. They were divided into two groups, consonant training (n = 33) and vowel training (n = 25). They used their smartphones to play a clay shooting game, for a total of three hours over six days. As soon as a clay target flew on the screen, participants shot it by touching its location on the screen with their finger. 
+● Two different phonological contrasts in English were used as the target of training. In consonant training, participants focused on the discrimination of English [r] and [l] (e.g., “rock” vs. “lock”). In vowel training, participants worked on the discrimination of English [æ] and [ʌ] (e.g., “hat” vs. “hut”). 
+● Although participants were not told, there were four targets with unique colors (red, gold, yellow, and purple) and movements (rightward, upward, and leftward). Right before each target appeared on the screen, participants heard unique English sounds that appeared predictably before specific movements. As such, participants could, without having been informed, predict each clay’s movements based on the preceding sound cues for the movements. 
+What the researchers found
+ 
+● We found not only that incidental training significantly improved Japanese participants’ L2 speech perception but also that gains in the perception domain successfully transferred to the production domain. 
+● Learning gains were observed in the acquisition of English [æ] and [ʌ], but not of English [r] and [l]. 
+● One source of this variation in learning could be due to the differential amount of learning difficulty (with English [r]-[l] being more difficult than English [æ]-[ʌ]). Although few Japanese speakers have been found to master nativelike English [r] and [l] performance, many seem to achieve advanced proficiency in pronouncing English [æ] and [ʌ] sounds. 
+Things to consider
+ 
+● The findings suggest a potential value of an incidental and multimodal approach to L2 speech learning, that is, learning both auditory, visuospatial, and motor domains of new sounds as a by-product of gameplay. 
+● The findings suggest that this approach can be beneficial, at least when the treatment focuses on a relatively easy aspect of L2 speech acquisition (e.g., Japanese speakers’ acquisition of English [æ]–[ʌ] sounds). 
+● However, more elaborate strategies may be needed when training focuses on relatively difficult aspects of L2 speech acquisition (e.g., Japanese speakers’ acquisition of English [r]–[l] sounds). 
+● Gains were not as large as those found by other studies that used more explicit types of pronunciation training. 

@@ -1,0 +1,21 @@
+
+What this research was about and why it is important 
+ Knowledge of academic words (e.g., terminate, maximize, utilise), academic formulas (e.g., according to the, in terms of, in response to), and general formulas (e.g., no doubt, a great deal, kind of) is essential for second language learners especially those planning to study in English-medium university programs. However, resources for learners to learn these lexical items incidentally are very limited, especially in contexts where English is used as a foreign language. This study employed the corpus linguistics method to examine the potential of online news for incidental learning of these lexical items. Corpus linguistics is a methodology in which researchers use specialized computer programs to analyze the language in large collections of electronic texts. 
+What the researchers did
+ 
+● The researchers created 26 corpora of Voice of American (VOA) news. They are collections of VOA news representing the amounts of reading that learners with different reading speeds could complete within certain periods of time if they read VOA news regularly for 40 minutes per day and 5 days per week. Two reading speeds were chosen: (a) 200 words per minute (wpm) to represent the speed of learners with speed reading training and (b) 150 wpm to represent the speed of those without speed reading training. 
+● They used corpus-based tools to analyze the occurrences of academic words, academic phrases, and general phrases represented by well-known vocabulary lists in each corpus. 
+What the researchers found
+ 
+● Analysis showed that the number of academic words, academic phrases, and general phrases increased steadily as more news was added. 
+● Reading VOA news regularly for three months to 3.5 years would likely offer learners opportunities to encounter nearly all target words/phrases and encounter at least 80% of them multiple times in their reading. 
+● This finding suggests that online news is a useful resource for incidental vocabulary learning. 
+Things to consider
+ 
+● This study suggests that online news, or at least VOA news, is a useful resource for learners to learn various kinds of vocabulary. Therefore, teachers should encourage learners to read online news regularly. 
+● To ensure the effectiveness of this activity, teachers should encourage learners to read online news at least 40 minutes per day and five days per week so that learners could repeatedly encounter the target vocabulary and learn them. 
+● Apart from setting regular reading activities and selecting relevant news to learners, to help learners keep track of their progress and motivate them to learn further, teachers can draw on the findings of the current study about the minimal amounts of reading to set specific expectations for learners. 
+● If learners’ reading speed is 200 wpm, at least three months, six months, two years and three months, and 2.5 years would be needed for most of the academic written words, academic spoken words, academic phrases, and general phrases to be learned incidentally, respectively. 
+● If their reading speed is only 150 wpm, longer periods of time would be needed to learn these lexical items: six months (academic spoken words), nine months (academic written words), three years and three months (academic phrases) and 3.5 years (phrases). 
+● The much shorter period of time needed in the case of 200 wpm compared to 150 wpm suggests that speed reading activities are essential in language courses. 
+● The fairly large amount of time needed for learners to incidentally learn the target vocabulary suggests that teachers should organize activities for both learners to learn vocabulary both deliberately and incidentally rather than relying solely on incidental vocabulary learning. 

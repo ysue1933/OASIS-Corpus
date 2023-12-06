@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ The development of oral language proficiency (which includes vocabulary skills) and its relationship to reading comprehension is under-researched in South African languages. One of the reasons for this is that reliable vocabulary tests hardly exist in African languages, and standardized English tests are expensive and often not contextually appropriate. This article describes the development of two expressive vocabulary tests – the Productive Vocabulary Test isiZulu/Siswati (pVt isiZulu/Siswati) and the Productive Vocabulary Test English (pVt English). The pVt English was developed to assess the impact of a teacher coaching intervention (implemented in the Second Early Grade Reading Study (EGRS 2) on the English second language oral and reading skills of isiZulu and Siswati learners. Given the lack of vocabulary tests in African languages, the researchers also developed complementary tests in the medium of instruction (MOI) of the participants (isiZulu and Siswati). This paper details the design of the tests (focusing on how test items were selected to ensure that the tests progress from easy to difficult), as well as the changes that were made after the first pilot study. This research is important as there is a critical need for reliable and accessible vocabulary tests that can be used to assess vocabulary skills in bilingual South African learners. As an open-access test, the pVt can be used by language teachers, speech-language pathologists and language researchers to measure the vocabulary knowledge of isiZulu, Siswati and English children. 
+What the researchers did
+ 
+● 412 children who attended EGRS 2 classrooms in South Africa participated in the study. Most of the participants were in the third grade and around nine years old. 
+● 73% of the participants had Siswati as MOI, and 27% of the participants had isiZulu as MOI. 
+● The participants completed both the pVt English, and the pVt isiZulu/Siswati; and around 300 participants also completed an Early Grade Reading Assessment, which included a reading comprehension component (an oral and a written reading comprehension test) in the MOI and English, and an oral language proficiency component in English (a six-item productive vocabulary test and a listening comprehension test). 
+What the researchers found
+ 
+● Both the pVt English and the pVt isiZulu/Siswati were reliable tests, and, on average, differentiated between learners who had stronger and weaker vocabulary skills, especially in English. 
+● The learners performed better in the pVt isiZulu/Siswati. 
+● The tests progressed from easy to difficult as intended, but this progression was less clear in the isiZulu/Siswati test, which means that further revision of the test is necessary. 
+● There was a moderate relationship between the pVt test scores and reading comprehension measures. This relationship was stronger for the pVt English. 
+● The lack of representative corpora from which to obtain reliable word-frequency data in isiZulu and Siswati complicated the design of the pVt isiZulu/Siswati. 
+Things to consider
+ 
+● Representative corpora are needed for African languages, as this will support the development of word-frequency lists, which will, in turn, support language test developers. 
+● The pVt should ideally be developed into norm-referenced tests, so that test scores can be interpreted against those of other learners. 
+● After further revision, and validation studies, the pVt English could identify children who have not acquired basic English vocabulary skills, while the pVt isiZulu/Siswati test could be a useful tool to screen preschool children for developmental language delay. Both tests could be used to monitor vocabulary growth in bilingual children. 

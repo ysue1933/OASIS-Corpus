@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ Reading has long been recognized as essential in vocabulary learning. Authentic texts, however, often contain a lot of words that are difficult for second language (L2) learners to understand. Therefore, L2 learners use dictionaries to facilitate reading. Since consulting a dictionary is time-consuming and takes the reader away from the text, a common alternative is to gloss vocabulary. A vocabulary gloss can be provided in different languages (L1, L2, or bilingual), locations (in-text, marginal, bottom, glossary, or pop-up), and media forms (paper or hypermedia). A textual gloss can be defined as glossed content that involves text. However, whether and what types of textual glosses facilitate vocabulary learning remains unclear. One way to address this gap is the use of meta-analysis. Meta-analysis involves analyzing the results from a collection of individual studies to compare findings. The current study analyzed 20 studies in order to investigate the overall effect of textual glosses, crucial glossing, and educational variables on vocabulary learning. The results show that glossing can help L2 vocabulary learning and that the clarity and placement of glosses had an effect on learning, but the language of the gloss did not. 
+What the researchers did
+ 
+● Relevant studies were collected by searching databases (e.g., Web of Science) and academic periodicals were retrieved according to the inclusion and exclusion criteria. 
+● All relevant studies were reviewed, and twenty studies were selected for the meta-analysis. 
+● All the studies were analyzed, and results were interpreted, taking into account variables such as language, location, mode and timing of post-test. 
+What the researchers found
+ 
+● Textual glossing can facilitate L2 vocabulary learning. 
+● The findings suggest that textual glossing is effective for both immediate and long-term vocabulary retention. 
+● The closer the gloss is to the target word, the more effective vocabulary learning is. In addition, single and deterministic glosses are better than multiple and indeterminate glosses. The language of the gloss was not critical. 
+● Textual glosses were more effective in vocabulary production than vocabulary recognition. Also, textual glossing was effective for both high school students and undergraduates.  
+● The media form (paper or hypermedia) had a limited effect on vocabulary learning. 
+Things to consider
+ 
+● Textual glosses in “proximity” mode are recommended when one of the teaching purposes is incidental vocabulary learning. 
+● The language of the gloss was not critical, whereas the clarity of textual glosses was. 
+● Teachers should make an informed decision, based on the needs of their learners, when choosing the language It is advisable to use a single mode of gloss. Multiple information and decisions should not be involved. and media form of the gloss, since these two factors had a limited effect on vocabulary learning. 

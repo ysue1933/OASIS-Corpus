@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+  In this era of increasing migration and mobility, monolingual norms are no longer the target for successful communication. At the same time, technology-mediated communication is also increasingly more widespread. To shed more light on multilingual participants’ interactional patterns in technology-mediated environments, our study examined the means by which English as a lingua franca (ELF) speakers prompted others to act when they played a mobile augmented reality (AR) game. This study provides implications for teaching pragmatics (i.e., appropriate communication strategies) in ELF contexts. 
+What the researchers did
+ 
+● Researchers video recorded four groups of three students playing an AR mobile game. Two (mixed) groups had two learners of English and one expert speaker of English. The other two groups consisted of English language learners (ELLs) only. ELLs were from varied cultural and linguistic backgrounds. The game, ChronoOps, was played in English. As agents from the future, players were asked to save the planet from massive environmental degradation. They walked around a university campus, found examples of green technology projects, and made video reports in order to fulfill their mission. 
+● The mobile AR game play of the participants was video-recorded. 
+● The researchers then analyzed the video data categorizing all instances where a player directed others in their group to act. Both verbal strategies (e.g., “Let’s go”) and non-verbal strategies (e.g., starting to walk towards an object) were examined. 
+What the researchers found
+ 
+● A rich variety of directive strategies were used. Imperatives (“Come with me”), question directives (“Wanna read that?”), suggestions (“So we start that side maybe?”), and non-verbal elements (e.g., pointing) were most common. 
+● In line with prior research, ELL-only groups used a higher proportion of direct strategies (e.g., “Come on”) than the mixed groups. 
+● In contrast with prior research findings on proficient learners’ speech, conventionally indirect strategies (e.g., “Could you do X?”) were largely absent. The competition aspect (i.e., finishing the game before other groups) and attempts to achieve solidarity with fellow teammates are the likely reasons for an abundance of direct and cryptic directives (e.g., “Wait wait,” “Video”). 
+● The use of a mobile device for playing the game also influenced the choice of strategies. For example, participants could minimize potential loss of face by using the rules of the game as an excuse for making a directive: “So I guess we just have to get to the start point (pointing at phone).” 
+Things to consider
+ 
+● Our results highlight the importance of teaching a variety of strategies that are prevalent in embodied interaction, with non-verbal cues being particularly important when participants are on the move, as in our AR game. 
+● The findings of the study support the pedagogical principles outlined by Taguchi and Ishihara (2018) for teaching the pragmatics of ELF. These principles are focused on getting learners to consciously notice and evaluate the use of language in non-standard ways in specific ELF contexts. 
+● The detailed analysis of some of the directives we coded showed us that even a very comprehensive categorization scheme cannot capture more nuanced kinds of directives (begging, persuasion). This finding informs considerations for methodological designs of future studies on embodied interaction. 

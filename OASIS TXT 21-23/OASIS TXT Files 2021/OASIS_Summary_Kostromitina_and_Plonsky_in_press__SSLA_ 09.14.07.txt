@@ -1,0 +1,24 @@
+
+What this research was about and why it is important 
+ Language researchers and teachers have been trying to find a quick and efficient measure of second language (L2) proficiency. Different measures have been developed for that purpose, one of them being tasks in which participants have to repeat sentences they hear as accurately as possible (“elicited imitation tasks” or EITs). This study aimed to provide an updated and comprehensive view of the relationship between such tasks and other proficiency measures. Several features of repetition tasks were also examined to see if they played a role in the analyzed relationship. The study showed that repetition tasks are a generally trustworthy measure of L2 proficiency. Furthermore, the length of sentences that participants had to repeat was associated with a stronger relationship between repetition tasks and other proficiency measures. Overall, the findings supported the use of repetition tasks as a means to greater consistency and practicality in measuring L2 proficiency. 
+What the researchers did
+ 
+● Published and unpublished studies that measured learners’ proficiency with a repetition task and another task were collected. 
+● Researchers developed a scheme to sort the studies into groups based on the characteristics of repetition task 
+● Researchers recorded an index reported in each study that represented the strength of the relationship between the repetition task and other proficiency measures for each study. These indices were then averaged. 
+● In a similar way, the relationship between repetition tasks and other proficiency measures was also calculated and compared based on different features of repetition tasks: (a) immediate repetition vs. after a pause or question, (b) grammatical features of the sentences, (c) measured component of proficiency, (d) scoring method, (e) timed vs. untimed repetition, (f) length of sentences, (g) number of sentences. 
+What the researchers found
+ 
+● There was a fairly strong relationship between repetition tasks and other proficiency measures in the studies. 
+● Dependability of EIT as a measure of proficiency increased with the length and number of the items in the task. 
+● The presence of a delay after a participant heard a sentence in the repetition task did not seem to affect the task utility overall. However, the tasks that included silent pauses after the sentence presentation demonstrated a stronger relationship with other proficiency measures than those that did not include a delay. 
+● Scoring the participants’ responses simply as correct/incorrect provided a less accurate representation of learners’ proficiency compared to a more fine-grained scale. 
+● Inclusion of ungrammatical sentences or timed repetition did not improve the task’s ability to access L2 proficiency. 
+● The higher the reliability of tasks was, the stronger the relationship between sentence repetition tasks and other proficiency measures was found to be. 
+Things to consider
+ 
+● Sentence repetition tasks can be a fairly dependable measure of L2 proficiency. 
+● Such tasks could be used more widely in L2 research to bring consistency into the way proficiency is measured and compared across studies. 
+● Design features of sentence repetition tasks are important to consider when choosing or developing a sentence repetition task since they can still lead to higher or lower validity evidence. 
+● Teachers and program administrators might even employ EIT as a means to assess learner proficiency since this test is more efficient and economical than many other proficiency measures. 
+● More transparent reporting and more empirically grounded recommendations are needed for the development and design of repetition tasks. 

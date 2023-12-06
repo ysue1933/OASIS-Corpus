@@ -1,0 +1,15 @@
+
+What this research was about and why it is important 
+ Ever since Lenneberg’s (1967) pivotal study there has been an ongoing debate on the existence of a critical age in second language learning. Central to this notion is the presence of a less or more constrained time window that allows learners to reach native-like levels of proficiency. Beyond this time window, reaching native-like proficiency levels becomes no longer possible. Hartshorne, Tenenbaum, and Pinker (2018), henceforth HTP, analyzed data of more than half a million language learners of English who did an English grammaticality judgment test over the Internet. HTP used these test outcomes as language proficiency scores. They arrived at the conclusion that such a critical age indeed exists and that it is 17.4 years of age and operates independently of the four learner-type groups that participated in their study (i.e., monolinguals, bilinguals, immersion learners, and non-immersion learners). This claim was refuted by the outcomes of our own reanalysis of the original HTP data. We applied the same statistical approach, but we systematically separated the four learner groups. These results suggest that personal and societal factors, including differences in living circumstances and socialization, might bring about age-related discontinuity patterns in language learning and in language learning rates. Such disruptions are not the outcome of abrupt changes in cognition-driven developmental factors leading to one or more critical periods. 
+What the researchers did
+ 
+● The original HTP data were reanalyzed, by splitting the data for the four learner groups and analyzing these groups separately. Continuous models (statistical models assuming no critical age) of language acquisition were tested to compare their performance to the discontinuous models tested by HTP. 
+What the researchers found
+ 
+● No critical age was found for monolinguals, bilinguals, and younger immersion learners. A critical age of 18.6 years of age was found for non-immersion learners, and an age of 19.0 years for older immersion learners. 
+● The discontinuities related to these critical age boundaries can be seen as the result of schooling effects. There is no evidence for any critical age. Relationships between age and language acquisition are continuous. 
+Things to consider
+ 
+● Aggregating different language learner groups should be done only after careful inspection of differences between those groups. 
+● Other proficiency scores, in addition to the outcomes of a grammaticality judgment test, should be used. 
+● Various statistical techniques are required to study developmental patterns in second language acquisition. 

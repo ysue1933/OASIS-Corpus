@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ This article is an introduction and exemplification of (generalized) linear mixed-effects modeling to researchers in linguistics and second language acquisition, an important method that allows researchers to extend the range of ‘regular’ regression modeling to data that involve repeated measurements or other kinds of hierarchical structure. The data used to exemplify this method are concerned with whether native and two kinds of non-native speakers of English use the complementizer that in sentences such as I hope that/ he is hungry. Approximately 6,200 sentences were annotated for a variety of characteristics and then analyzed with a mixed-effects model to study in particular the role that verb-specific preferences and speaker/hearer expectations play in realizing or omitting the complementizer. Results show that the main-clause verb (hope in the above example) and the degree to which the complement-clause subject (he in the above example) is surprising are significantly correlated with complementizer realization. 
+What the researchers did
+ 
+● The researchers described the general logic of mixed-effects models and its implementation in R. 
+● They extracted examples of complementation from native and non-native speaker corpora. 
+● The researchers annotated the corpora for about a dozen linguistic/contextual characteristics of the sentences with complementation and the circumstances in which that was produced. 
+● The researchers then used a generalized linear mixed-effects model to analyze the data. 
+What the researchers found
+ 
+● Complementizer realization can be predicted fairly well. 
+● The control variables known from previous literature had the expected kinds of effects. 
+● The main-clause verb’s preference for (tendency to be used with) a complementizer had the expected effect: Verbs that ‘like’ the complementizer were positively associated with it being used; this effect varied mildly across the L1s of the speakers. 
+● The degree to which the beginning of the complement clause is predictable to the hearer had the expected effect: Surprising beginnings of the clause were positively associated with the use of the complementizer. 
+Things to consider
+ 
+● (Generalized) linear mixed-effects modeling is a powerful but complex statistical method for linguistic and second language acquisition research. 
+● Great care is needed both for the preparatory exploration of the data before any regression modeling and also in deciding how exactly the regression modeling process is undertaken. 
+● Complementizer realization is determined by a variety of processing-related/psycholinguistic factors, some of which differ in their effects between native speakers of English and learners of English with different L1s. 

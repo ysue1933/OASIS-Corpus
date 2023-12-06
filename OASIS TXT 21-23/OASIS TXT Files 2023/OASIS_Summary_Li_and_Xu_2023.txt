@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+ Computational approaches have much to offer to the understanding of bilingual language learning because they generate explicit and testable hypotheses about the bilingual mind. But how can we make computational models not only describe but also explain and predict bilingual language behavior? This article addresses this question from a pluralist perspective to advocate a new research agenda through infusing progress across different disciplines and constructing an integrated computational account that combines cognitive theories and biological foundations for bilingual learning. 
+What the researchers did
+ 
+● The researchers survey contributions, implications, and limitations of computational approaches to bilingual language learning. 
+● The researchers advocate a new research agenda through integrating progress across different disciplines—such as computational neuroscience, natural language processing, first language acquisition, and bilingual processing—to construct a pluralist computational account that combines high-level cognitive theories and neurobiological foundations. 
+What the researchers found
+ 
+● Current computational models are overly simplified and need to be connected to the complexity of learner experience and the learning environment. 
+● Bilingual language learning is a complex process that involves multiple domain-specific and domain-general systems. The process requires dynamic interactions among biological plasticity, cognitive computation, and the learning environment. 
+● Neural models, such as deep neural networks and whole-brain networks, hold great potential for understanding the bilingual brain due to their ability to model naturalistic language behavior. 
+● High-level cognitive models with implementations abstracted away from brain data could provide insights that are complementary to those from neural language models. 
+● The competition and/or compatibility between different neural and cognitive models should be investigated in order to advance bilingual language learning research. To fulfill this goal, researchers should pursue and understand diverse models with the greatest vigor. 
+Things to consider
+ 
+● The neural and cognitive paths of computational modeling are the extremes of a continuum rather than a dichotomy. The two paths have a common goal of explaining how human brains give rise to bilingual minds. 
+● Future challenges for researchers include building bridges that enable computational models to integrate behavioral, cognitive, neuropsychological, and neuroimaging findings, in order to arrive at an integrated picture in which language learning occurs in the context of social communication and understanding. 
+● Cross-disciplinary collaborative work in bilingual language learning, as in other modern scientific domains, is not a luxury but a necessity for success. 

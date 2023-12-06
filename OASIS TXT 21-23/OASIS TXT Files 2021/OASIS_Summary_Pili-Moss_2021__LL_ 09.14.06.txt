@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ Understanding how cognitive ability supports language learning specifically in children is key to developing a tailored and more effective approach to language instruction. This research investigated how procedural (implicit) and declarative (explicit) learning abilities support the early stages of aural learning in an immersive experience of a novel language among typically developing primary school children. The study is the first to present experimental evidence that implicit learning ability is associated with child L2 learning of the word order of a novel language. 
+What the researchers did
+ 
+● 53 L1 Italian 8-9-year olds were aurally trained in BrocantoJ (a miniature language based on Japanese) via a computer ‘board game’, for 2.5 hours over three days. In the game environment, children were exposed to a flow of input with no explanation of the language rules, thus re-creating the initial stages of a language immersion experience. 
+● To assess comprehension, performance on the game was measured. To assess grammar learning (case suffixes and word order), learners were tested on whether they knew whether a sentence was grammatical or not. 
+● Implicit learning ability was measured by the ability to implicitly learn sequences of positions presented visually on a computer screen (an index of procedural long-term memory). 
+● Explicit learning ability was measured by the abilities to recall previously presented verbal or visual information after a 15-minute delay (to test verbal and visual declarative long-term memory, respectively). 
+What the researchers found
+ 
+● The study found that the ability to learn patterns implicitly was positively related to the learning of the language syntax (word order) and increasingly supports aural language comprehension as language practice progresses.  
+● In contrast, the ability to memorize and explicitly recall verbal or visuo-spatial information did not seem to play a relevant role in learning of grammar or comprehension in the immersion conditions of this study. 
+● Better vocabulary learning (14 items) was strongly related to better comprehension during the game. 
+Things to consider
+ 
+● Compared with the results of previous studies with adults trained in similar conditions, these results indicate an earlier engagement of procedural memory (implicit learning ability) and a more limited role of declarative memory in children, particularly for the learning of morphosyntax. 
+● These differences could be related to general child/adult differences in neurocognitive development (more limited development of declarative memory in children compared to adults). 
+● The finding that vocabulary memorization was strongly related to accurate comprehension may indicate some role for declarative memory in comprehension. A wider range of declarative memory measures should be investigated in future studies with a similar design. 
+● Further research should also investigate the role of potential developmental differences in language learning by directly comparing child and adult groups. 

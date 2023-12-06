@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+  Research studies have shown that learners of Spanish who speak English as their native language find it difficult learning to identify stressed syllables. This might seem surprising since both languages make use of lexical stress to distinguish between words. In Spanish, word pairs are often distinguished only by the location of stress (caso ‘case’ vs casó ‘s/he married’). English also has stress, but few English words are distinguished solely based on this feature (as in trusty and trustee). We hypothesized that English speakers might not process stress to the same extent that Spanish speakers do—perhaps because the functional load of stress is relatively heavier for Spanish than for English (the higher number of stress minimal pairs in Spanish might encourage Spanish speakers to pay attention to stress, while English speakers might have learned to pay relatively less attention). This in turn would create an obstacle for English speakers when learning Spanish. We were also interested in examining whether English speakers were able to further develop their stress processing abilities as they become more proficient in Spanish. The approach adopted focused on how successfully participants recalled sequences of nonword pairs differing in either stress location or a consonant. The results showed that Spanish speakers’ stress-processing abilities were more effective than those of English speakers. In addition, English speakers appear to develop more efficient processing routines with higher proficiency in Spanish. 
+What the researchers did
+ 
+● Participants were (1) a group of 97 English-speaking learners of Spanish as a second language recruited from first to third year Spanish classes at a US university; and (2) 10 native Spanish speakers that acted as a control group. 
+● Participants completed two proficiency tests, one vocabulary test and one bilingual dominance test. 
+● Participants also completed a sequence recall task that used the following two nonword pairs: a ‘consonant pair’ TUki-TUpi (a pair differing in a consonantal sound) and a ‘stress pair’ NUmi-nuMI (a pair differing in the location of stress). This allowed for the comparison of the remembrance of consonantal vs stress differences. 
+● Participants were asked to listen to, memorize and report a sequence that used each of the nonword pairs (e.g.: TUki-TUki-TUpi-TUki). Each pair was tested one at a time. Sequences included four items first and then six items. 
+● Accuracy in reporting sequences of consonantal and stress differences was calculated for each participant. 
+What the researchers found
+ 
+● Learners as a group were more accurate in consonant than in stress pairs. 
+● Native speakers were more accurate in stress than in consonant-based differences. 
+● Learners’ accuracy difference between consonant and stress pairs decreased with increased proficiency (not with increased vocabulary knowledge, nor with increased dominance in Spanish). As they become more proficient in Spanish, learners’ recalling of stress-based differences more closely resembled their recalling of consonant pairs. 
+Things to consider
+ 
+● English-speaking learners had less effective stress-processing abilities than Spanish speakers but learned to develop these abilities with increased Spanish proficiency. 
+● English-speaking learners had difficulties with stress beyond metalinguistic awareness. This obstacle could arguably affect the identification of stressed vowels by learners and, thus, it might have to be taken into consideration when teaching (and assessing) Spanish accentuation in the classroom. 

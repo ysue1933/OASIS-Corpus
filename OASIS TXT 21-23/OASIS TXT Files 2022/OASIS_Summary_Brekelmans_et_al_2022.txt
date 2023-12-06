@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ Learning a second or foreign language is incredibly common across the world, with many people learning one or multiple languages across their lifespan. Often when learning a new language, you will also have to learn to tell apart different sounds you might not have in your native language, and this can be a difficult but important process in learning to speak the language. Two influential studies from the 1990s by researchers then at the University of Indiana, showed that a particular type of computerized training, known as phonetic training, was very successful in getting people to better tell foreign sounds apart. They trained Japanese learners of English on the /r/ and /l/ sound, as these are known to be difficult to tell apart for Japanese learners. The original study also found that people who were trained on this method with multiple voices did better at telling these sounds apart than the people who only heard one voice during training. This is called the ‘variability benefit’, where having more variable input can be helpful for learning. However, these studies were only tested on only six people each, and there were some small issues in the ways the results were analysed, so there are some questions as to whether this result holds up for the language learning population at large.  The current study tried to replicate the original studies to see if this benefit of hearing multiple voices when learning to tell foreign speech sounds apart truly exists when tested on a much larger group of people. This is important, as the variability benefit idea has had a lot of impact on research in how people learn to understand non-native speech. It can inform theories of how we learn languages, but can also be important in potential practical applications: language learning apps might for example decide to enlist multiple voices in their content instead of a single one, which can be costly. After replicating the original studies as closely as possible, the current study did not find any evidence for a talker variability benefit in the phonetic training method. 
+What the researchers did
+ 
+● 166 Japanese learners of English took part in 15 sessions of training. 
+● Half of the learners were trained using a single voice, while the other half were trained on multiple voices. 
+● They were tested on their ability to tell the English sounds /r/ and /l/ apart before the training started, and after training had finished. 
+● After training, all learners were also tested on how well they could tell these sounds apart in new voices. 
+● The study was run in as similar a way to the original studies as possible, using the training words originally used in that research. 
+What the researchers found
+ 
+● We found that people who were trained on multiple voices improved the same amount during training as people trained on a single voice. 
+● We did not find any evidence that people trained on multiple voices were better at being able to tell the non-native sounds apart in new voices than those who had only been trained on a single voice. 
+● We also did not find any evidence that people trained on a single voice or on multiple voices found the sounds more difficult to tell apart in new voices than in voices they had heard during training.  
+Things to consider
+ 
+● The phonetic training method was still found to be very effective in improving people’s abilities to tell apart non-native speech sounds. 
+● The lack of a difference means that the talker variability benefit might not be as important in being able to tell these sounds apart in new voices after all.  
+● Researchers will need to figure out if the other sources of variation in the training, for example, hearing the sounds in lots of different words, is a crucial ingredient in the success of phonetic training and in learning foreign languages more generally. Material, data, open access article: 

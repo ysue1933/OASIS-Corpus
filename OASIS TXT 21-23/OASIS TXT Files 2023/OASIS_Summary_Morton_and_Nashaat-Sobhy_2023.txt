@@ -1,0 +1,24 @@
+
+What this research was about and why it is important 
+  In many parts of the world, school students study content subjects such as history and science in bilingual education programs where English is the medium of instruction, but not the first language of the students or their teachers. Often, such programs are described as having a Content and Language Integrated Learning (CLIL) approach. For many researchers and practitioners in these programs, integrated assessment is a thorny issue, as they struggle to find a balance between content and language criteria. Equity can be threatened in these programs if language performance unrelated to content learning is included as an “invisible” component of assessment. We argue that, in order to avoid problems of equity and develop a stronger knowledge base for content and language integrated assessment, it is important to use models which link content learning to the functional language needed to express it, and to understand the existing bases of achievement invoked by teachers in bilingual programs. For the first purpose we use the construct of cognitive discourse functions (CDFs) and for the second, we use the conceptual tools of Legitimation Code Theory (LCT), a sociological framework for examining and enhancing knowledge practices. 
+What the researchers did
+ 
+● We recruited seven primary and secondary content and language teachers from a bilingual education program in Madrid (Spain). 
+● We asked them to judge samples of students’ work expressing cognitive discourse functions (define, evaluate, explore) in the subjects of history, art and science. 
+● They used the technique of comparative judgement to rank the students’ texts. 
+● We recorded and transcribed the discussions between the teachers and researchers in which the teachers justified their decisions and reflected on the rankings. 
+● We coded the transcripts for invocations of assessment criteria relating to content and language and any individual or social attributes of the students using the text annotation software UAM CorpusTool. 
+● We used a “translation device” to link the codings to the Specialization dimension of Legitimation Code Theory to reveal the bases of achievement in terms of knowledge/knower structures. 
+What the researchers found
+ 
+● There was a balance between content and language as bases of achievement. 
+● Content quality was emphasized over quantity. 
+● Language form was emphasized over function. 
+● Teachers gave different weight to language depending on the quality of the content. 
+● Teachers invoked criteria relating to students’ attributes as knowers, though less frequently than knowledge criteria for content and language. 
+Things to consider
+ 
+● Even if teachers do not so frequently refer to individual and social attributes as bases for achievement, the focus on one type of language knowledge (language forms in isolation from content) can be related to knower attributes and have implications for equity in bilingual programs. 
+● Language performance in the formal sense can be an “invisible” component in assessment which may impinge on teachers’ judgements of quality of content learning in the subject taught. 
+● In order to avoid issues of lack of equity in assessment, it may be useful to consider CLIL as having a “knowledge code” in which content and functional language are explicitly taught and emphasized over possible “knower” criteria which may relate to students’ past experiences and exposure to the L2. 
+● Existing frameworks for integrating content, literacy and language in bilingual programs, such as cognitive discourse functions (CDFs) should be recontextualized to be made more readily available for practitioners to use in instruction and assessment. 

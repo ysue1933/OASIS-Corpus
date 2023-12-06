@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ Every language has specific word combinations (or collocations) that learners must acquire and that may have no literal translation in learners’ own language (e.g., rodar una película in Spanish literally translates as to roll a movie, but actually means to shoot a movie). Learning of collocations is challenging and time consuming. This study investigated if learners can bootstrap their knowledge by generalizing a learned collocation (e.g., to shoot a movie) to new but related phrases (e.g., to shoot an episode) and if they create such generalizations through their novel language or through previous knowledge in their native language. The researcher asked learners to judge if novel phrases were acceptable while their brainwaves were recorded. The results showed that learners can indeed generalize their knowledge to new collocations and identify them as acceptable. They do so quickly, using their native language, but their responses were also influenced by their novel language. 
+What the researchers did
+ 
+● Participants were 34 university students of Spanish (all native English speakers) aged between 18 and 21. 
+● They first learned new collocations (to shoot a scene) during three sessions and reached at least 86% accuracy. They then judged the acceptability of 80 novel phrases, half of which were related to the learned phrases (to shoot a documentary) while the other half were unrelated (to shoot a meeting). 
+● A measure of similarity between novel and learned collocations was used to investigate if generalization could occur based on similarity. Another measure indicated if novel phrases had an established equivalent in the participants’ native language, to examine the influence of the native language. 
+● The participants provided binary responses by pressing “yes” or “no” buttons. They wore a cap with electrodes to record their naturally occurring brain activity during the task. 
+What the researchers found
+ 
+● The participants could generalize knowledge of one single collocation to a similar item with 82% accuracy. 
+● Their judgements of acceptability were influenced by the similarity between novel and familiar phrases but also by native language: Novel phrases were more acceptable when they had a native language equivalent. 
+● Brainwaves revealed that, within 400 milliseconds, processing for novel related phrases was less effortful when they had an equivalent in the native language even though the translation was nonliteral. 
+Things to consider
+ 
+● The participants created equivalences for conventional phrases across their languages even when there were no literal translations in their native language. 
+● Based on equivalence in meaning, they were able to generalize to novel items during comprehension. 
+● According to brain data, generalization occurred rapidly via equivalents in the native language, but the participants appeared to have reflected on their knowledge of both languages before providing a response. 
+● For concepts that have equivalents in both languages, learning one representative example is a good use of learners’ time and effort. Learners can generalize correctly when they encounter similar expressions. 

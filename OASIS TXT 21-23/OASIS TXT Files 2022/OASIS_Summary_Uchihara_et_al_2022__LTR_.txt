@@ -1,0 +1,22 @@
+
+What this research was about and why it is important 
+ Teaching learning strategies and ensuring learners use them fluently is central to second language (L2) vocabulary instruction. Guessing from context and dictionary use have been widely examined and documented as useful strategies for enhancing L2 vocabulary learning and knowledge. However, earlier research has predominantly focused on the relationship between the two strategies and receptive vocabulary knowledge (i.e., the knowledge required for reading and listening). Little attention has been paid to productive vocabulary knowledge (i.e., the knowledge required for speaking and writing). Thus, the present study set out to investigate the relationship between the two vocabulary learning strategies (guessing and dictionary use) and the two aspects of vocabulary knowledge (receptive and productive knowledge). Findings showed that learners who often relied on dictionary consultation tended to have larger receptive and productive vocabulary knowledge. No clear evidence supporting a guessing strategy role for either receptive or productive vocabulary knowledge was found. 
+What the researchers did
+ 
+● A total of 135 L1 Japanese university students studying L2 English in Japan completed a questionnaire survey of two vocabulary learning strategies (guessing from context and dictionary use) and three vocabulary tests. 
+● We asked three and four questions for guessing and dictionary use respectively to assess to what extent participants used each of the strategies (1 = not true of me, 6 = true of me): e.g., I look up in a dictionary to confirm my guess. 
+● One receptive vocabulary test through a word-matching task (updated Vocabulary Levels Test) was administered to measure the receptive knowledge of form-meaning connection (whether participants can recognize the meaning of English words). 
+● Two productive vocabulary tests were administered to measure the ability to produce the spelling of English words: the Productive Vocabulary Levels Test (PVLT) and Lex30. In the PVLT, participants were presented with a short sentence containing a blank and they wrote the word that fits the context. For the Lex30 test, participants were presented with 30 cue words, in response to which they wrote a maximum of four words. Production of low-frequency words (or advanced words) counted toward the total score of the test. 
+What the researchers found
+ 
+● No clear relationship between guessing strategy and receptive or productive vocabulary knowledge was found, indicating that learners who relied on guessing unknown words from context did not necessarily develop vocabulary knowledge efficiently. 
+● Learners who relied on dictionary consultation improved receptive and productive vocabulary knowledge. 
+● In particular, the use of dictionary strategy appeared to lead to the development of receptive vocabulary knowledge, which in turn contributed to the development of productive vocabulary. 
+● The positive relationship between dictionary use and productive vocabulary knowledge was clearer when it was measured with the PVLT than with the Lex30 test. 
+Things to consider
+ 
+● The current study confirms the important role of dictionary use as a learning strategy in developing receptive and productive vocabulary knowledge. 
+● Dictionary use did not directly promote the development of productive vocabulary knowledge, suggesting that the positive effect of dictionary look-up on receptive vocabulary development might in turn make it easier for receptive knowledge to develop into productive vocabulary knowledge. 
+● It is important for future research to further explore other learning strategies that have a direct and positive impact on productive vocabulary learning. 
+● We should note that the current findings do not negate the usefulness of guessing strategies; instead, dictionary use helps learners confirm their guesses of unknown words, maximizing the effectiveness of vocabulary learning. 
+● Also note that the study is based on a self-reported survey. The findings may merit further scrutiny through quasi-experimental methods examining how strategy intervention may lead to differential vocabulary gains. 

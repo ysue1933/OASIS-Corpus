@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+ Munro and Derwing’s (1995a) study had a critical impact in the field of research into second language (L2) pronunciation. It demonstrated that intelligibility (whether a message is understood), comprehensibility (the ease/difficulty of understanding a message), and accentedness (a perception of the strength of one’s foreign accent) while related, are distinct dimensions of speech. Those findings initiated a shift in the goals of pronunciation learning and teaching away from accent reduction toward making speech more comprehensible and/or intelligible. We sought to conceptually replicate Munro and Derwing’s (1995a) study, modifying two variables. Previous work had focused on advanced L2 English speakers in second (rather than foreign) language contexts, but we focused on instructed (foreign language) learners of L2 Spanish of varying proficiency. Our results patterned similarly to the initial studies, indicating that findings generalized to this context. In addition, we found evidence that proficiency impacts the relationships among speech dimensions in complex ways. 
+What the researchers did
+ 
+● Participants were 42 L2 speakers of Spanish of varying proficiency (scoring from 17–106 [out of 120] on an elicited imitation test of proficiency), and 80 native speakers of Spanish who rated the L2 speech. 
+● Utterances from the L2 speakers’ retelling of a picture story were played to native speaker listeners (via an online platform). The listeners wrote down what they heard and rated comprehensibility and accentedness. 
+● Utterances were also coded for pronunciation errors, grammar errors, speech rate, and goodness of prosody. 
+What the researchers found
+ 
+● Comprehensibility was a good predictor of intelligibility regardless of proficiency, whereas accentedness did not predict intelligibility. 
+● Although accentedness was a good predictor of comprehensibility, that relationship weakened steadily as proficiency increased. 
+● Faster speech rate had a positive impact on both intelligibility and comprehensibility, but the strength of that effect diminished with proficiency. 
+● Goodness of prosody (e.g., rhythm, intonation, stress) had a variable impact depending on proficiency: It boosted intelligibility and comprehensibility for high proficiency speakers but lowered intelligibility and comprehensibility for low proficiency speakers. 
+● Pronunciation and grammatical errors had a consistent negative impact, though the strength of that effect varied slightly with proficiency. 
+Things to consider
+ 
+● Findings provide additional support for shifting pronunciation instruction goals away from accent elimination toward improving comprehensibility. 
+● Listeners seem to be sensitive to different features of L2 speech depending on the proficiency of the speaker. 

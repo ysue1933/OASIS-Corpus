@@ -1,0 +1,22 @@
+
+What this research was about and why it is important 
+ Drawing on two usage-based linguistics (UBL) models, i.e., the Systemic Functional linguistics model and the Cognitive Linguistics model, this article works towards an integrated UBL model. Based on this model, it presents a pedagogical approach, named Role-based Interaction Analysis (RBIA) for foreign language learning (FLL), by scaffolding, tracking and measuring learners’ behaviors of learning spoken grammatical and pragmatic features explicitly and implicitly in intertextual contexts. The approach, RBIA-for-FLL, is important because it provides social, linguistic and cognitive insights for FLL, which is shown practical in the FLL classroom settings. Results showed there were differences between the explicit RBIA and implicit RBIA groups in the learning of grammatical features, pragmatic features and appropriately expressing pragmatic meanings of social roles. 
+What the researchers did
+ 
+● We worked towards an integrated UBL model from a sociocognitive perspective, due to the differences among usage-based linguistics models, The Systemic Functional Linguistics model is more society-and Conversation Analysis-related (CA – analysis of casual conversation) but less cognition-related, while the Cognitive Linguistics model is more cognition-related but less society-and CA-related. 
+● Language (CA/intertexts), sociality (un/conscious roles and learning/processing via analysis) are three fundamental elements of language learning. Learners’ roles, such as age and cognitive levels, and pseudo social roles are important in such synthesized learning. Un/conscious learning depends on the configuration of the three types of variables. their speech), and cognition (social 
+● Explicit foreign language learners may need some explicit teaching of implicit spoken knowledge with the help of CA-based findings, such as spoken grammatical features. 
+● We designed role-based tasks to scaffold learners’ conversation and avoid rote learning. Tasks included roleplaying social roles in pairs, aided by intertextual fragmented hints instead of transcripts. 
+● We used a quantitative method for the measurement, along with a corpus-based analysis made to intertextually compare the differences between learners’ and native speakers’ data. Two groups were designated randomly as the experimental group (N=30) and the comparison group (N=32) to examine their uptake of the targeted features via explicit and implicit RBIA (two different ways of learning/processing in role-based interaction) respectively. 
+What the researchers found
+ 
+● There were striking differences between the two groups in the learning of grammatical features, i.e., subject-predicate agreement, tag question, and ellipsis. 
+● Differences between the groups were found in the development of pragmatic features, i.e., modality and discourse markers. 
+● The explicit RBIA learners outperformed the implicit RBIA learners in the appropriateness of expressing pragmatic meanings of social roles, such as in using the discourse marker ‘so’. 
+Things to consider
+ 
+● Why role-based interaction analysis in FFL classroom contexts? What roles can learners and teachers play? 
+● Working together improved an explicit contrastive awareness of the mistakes in conversations in pairs and thus promoted the development of the grammatical features. 
+● The frequent output-input interplay of pragmatic features in role-based tasks and the learners’ explicit contrastive analysis of their own productions and native speakers’ intertexts in intertextual contexts also facilitate learning. 
+● Pragmatic competence was related to the social roles and role relationships. Interpersonal meaning connects affective involvement. Thus, the sociocognitive connection in intertextual tasks enabled the explicit learning group to align more effectively with social roles’ speech that reflects role relationships and social values. 
+● This paper only examines explicit adult learners’ explicit/implicit learning of implicit spoken knowledge, without considering implicit learners’ explicit/implicit learning of explicit/implicit knowledge. Is sound-meaning mapping prioritizing (implicit learning) more effective than explicit form-meaning mapping (starting with reading, speaking listening and writing simultaneously) for young FLL beginners? These call for future research. 

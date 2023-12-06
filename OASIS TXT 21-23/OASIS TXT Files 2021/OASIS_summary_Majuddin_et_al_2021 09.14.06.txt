@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+ Research has shown that typographic enhancement (e.g., using bold font or underlining to make items stand out in a text) can facilitate learners’ acquisition of vocabulary when reading. The current study investigates whether these findings can be applied to audio-visual input (e.g., captioned movies and sitcoms). Vocabulary includes not only single words, but also a myriad of multiword expressions (MWEs), such as collocations (e.g., raise questions) and idioms (e.g., it’s a slippery slope). Previous studies have shown that second language learners tend to overlook MWEs. In this study we therefore compared how well learners acquire MWEs from an episode of a sitcom with regular captions, with enhanced captions, and without any captions. Half of the participants watched the episode twice, either with regular captions, enhanced captions or without captions. 
+What the researchers did
+ 
+● Participants were 122 Malaysian learners of English as a Second Language, aged between 17 and 23. Their first language was either Malay or a Chinese dialect. They had knowledge of the 2,000 most frequent words in English. The learners were divided into six groups, which differed in terms of caption condition (no captions, normal captions, enhanced captions) and the number of times they watched the same video (once, twice). 
+● A written completion test which required the learners to provide the MWEs contained in the input video was administered two weeks before watching the video, shortly after watching it, and again two weeks later. To elicit the target MWEs, contextualized sentence prompts were given with the first letter or first two letters of the MWEs given as additional cues. 
+● Because we were interested in incidental rather than deliberate learning, the MWE tests were unannounced. To ensure that the learners would engage with the video, they were told to expect a comprehension test about its content. 
+What the researchers found
+ The effects of caption condition on MWE learning and content comprehension 
+● Both normal and typographically enhanced captions conditions led to better short-term recall of the target MWEs, compared to the uncaptioned condition. 
+● Typographically enhanced captions did not lead to higher short-term recall compared to the normal captions, possibly due to the fleeting nature of the captions during real-time viewing. 
+● Captions improved content comprehension, but typographic enhancement reduced this advantage, possibly because the enhancement attracted attention that would otherwise be given to content. The effects of repetition on MWE learning and content comprehension 
+● Repetition led to better short-term MWE recall and superior content comprehension. Repetition had no effect on long-term MWE recall. Other factors that affected MWE learning and content comprehension 
+● Prior knowledge of target items and/or learners’ vocabulary size positively influenced MWE learning and content comprehension 
+Things to consider
+ 
+● More participants in each condition and more target items would make the findings more robust, as would a control group who only takes the tests, without exposure to the video. 
+● Different test formats could give a finer-grained picture of the effects of the variables in question. The potential effect of taking an immediate test on learners’ performance on the delayed test could be avoided by having half of the participants skip the former. 

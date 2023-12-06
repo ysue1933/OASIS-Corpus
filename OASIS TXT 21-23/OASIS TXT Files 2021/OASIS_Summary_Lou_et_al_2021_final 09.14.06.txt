@@ -1,0 +1,23 @@
+
+What this research was about and why it is important 
+  Language learners’ mindsets – their beliefs about whether language is a fixed aptitude that is immutable or a malleable capacity that can be developed – are associated with achievement goals, language-use anxiety, reappraisals of challenges, and persistence. This study integrated these mindset-related constructs to identify common mindset-related profiles among 234 university foreign language learners and to examine how different profiles relate to engagement and end-of-semester grades. The results of a latent profile analysis (a person-centered approach to identify subgroups based on a set of variables) revealed three distinct profiles. Consistent with mindset theory, the fixed (21.8%) and growth (20.5%) profiles showed distinct and contrasting patterns of goals, reappraisal, anxiety, and persistence. However, most learners endorsed a mixed profile (57.7%), accompanied by mixed mindsets and multiple goal orientations (highest on both performance-approach and -avoidance goals, and medium on mastery goals), which has not been theorized previously. Although mindsets alone did not predict grades, students in the growth profile were consistently most engaged and achieved the highest grades, suggesting that mindsets function as a system in concert with related factors, and that when the system is oriented by a growth mindset, positive learning outcomes ensue. 
+What the researchers did
+ 
+● We surveyed 234 university students enrolled in foreign language courses in Canada. 
+● We used the subscale of mindsets about second language aptitude from the Language Mindset Inventory to measure the participants’ language mindsets. 
+● We used a questionnaire to measure classroom achievement goal orientations, persistence in foreign language learning, language anxiety, positive reappraisal in language learning, and foreign language course engagement. 
+● We obtained participants’ end-of-semester language course grade for the semester during which they filled out the questionnaire. 
+● We used latent profile analysis (a person-centered analysis to identify subgroup) to group participants based on their common profiles of shared characteristics in a set of variables, including language mindsets, goal orientation, persistence, language anxiety, and positive reappraisal. 
+● We also examined whether the profile memberships predict engagement and end-of-semester grades. 
+What the researchers found
+ 
+● We identified three profiles: The fixed profile and growth profiles represented 21.8% and 20.5% of the participants, respectively. The majority of learners (57.7%), however, fell within the mixed profile group. 
+● Fixed and growth profiles represented opposing mindset systems, in that they were characterized by contrasting patterns of goals, reappraisal, anxiety, and persistence. 
+● Participants in the mixed profile endorsed both mindsets and pursued multiple-goal orientations. They also reported moderate levels of persistence, reappraisal of challenges, and language anxiety. 
+● Profile memberships were predicted by self-perceptions of foreign language skills, but not by gender or foreign language learning experience. 
+● Although growth mindsets alone did not predict grades, learners in the growth profile were consistently most engaged and achieved the highest grades. 
+Things to consider
+ 
+● When researchers simply categorize learners into “growth- vs. fixed-mindset learners” to describe the role of mindsets on a variety of motivational patterns, we may neglect many learners whose mindset system does not fit simply into either category. 
+● Mindsets may not act alone, but function in combination with other constructs in this cognitive-affective system to interactively predict engagement and achievement outcomes, suggesting the importance of the mindset-system as a whole in understanding language learning outcomes. 
+● A person-centered approach can enhance our understanding of the complexity and functions of mindsets and mindset-related constructs, as well as the motivation of the majority of learners with mixed mindsets. 

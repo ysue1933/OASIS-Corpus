@@ -1,0 +1,16 @@
+
+What this research was about and why it is important 
+ Underdeveloped reading comprehension skills can limit academic success, especially for English Language Learners (ELLs). The current study investigated whether a web-based text structure strategy, delivered via the Intelligent Tutoring of Structure Strategy (ITSS) program to adult Chinese ELLs, improved students’ use of reading strategies and overall reading comprehension. Our results indicate that the ITSS intervention improved adult Chinese ELLs’ reading comprehension meaningfully and they reported more use of higher-order reading strategies than participants in the control group. 
+What the researchers did
+ 
+● This study included 207 adult Chinese ELL participants from a Chinese university, whose English proficiency level is at CET-4 (College English Test). Participants were assigned to either the control group or the intervention group, which utilized a text structure strategy intervention to support their English reading instruction. 
+● The text structure strategy instruction, which was administered via the ITSS program, focused on recognizing important ideas while reading and presenting logical connections between ideas to create an integrated long-term memory structure. It was designed to help students generate hierarchical and logically connected memory from texts focusing on five common text structures: comparison, problem and solution, cause and effect, sequence, and description. 
+● We measured reading comprehension before and after the instruction via the reading subtest of the CET- 4. The CET-4 is a nationally standardized English test used in China to examine English language proficiency of undergraduate students that includes four passages followed by five multiple choice reading comprehension questions. 
+What the researchers found
+ 
+● The intervention had positive effects on adult Chinese ELLs’ reading comprehension. 
+● Chinese ELLs reported using more higher-order reading strategies after the intervention compared to no meaningful change of reported reading strategy usage for the control group frombefore and after the instruction. 
+Things to consider
+ 
+● The current study explored the effect of instruction on text structure recognition delivered through a web-based intelligent tutoring system and ELL participants’ subsequent use and proficiency with higher order reading comprehension strategies. Documenting the use of reading strategies will help us better understand the potential impact of the text structure strategy on reading comprehension outcomes. This, in turn, could help researchers gain insight into how to efficiently design instruction that yields the most gains in reading comprehension outcomes, generating broader pedagogical implications for the instruction of ELLs. 
+● Explicit instruction about text structure might be especially beneficial to ELLs. 

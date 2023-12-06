@@ -1,0 +1,18 @@
+
+What this research was about and why it is important 
+ Understanding how and why listeners respond to foreign accents the way they do could be helpful for second language learners and those who talk with second language speakers. Researchers have previously investigated foreign-accented speech in several Indo-European languages. We examined Mandarin Chinese in order to see how accent interacts with lexical tones. Tones are pitch changes on syllables that affect word meanings. Because tones are not common in Indo-European languages, many adults who speak those languages find tones very difficult to produce accurately when learning Mandarin. For this reason, we wanted to know how native Mandarin speakers would respond to tone errors made by a foreign-accented speaker. Chinese listeners heard sentences spoken by either a native or foreign-accented speaker, and judged whether the sentences sounded correct. We measured behavioral judgments and brain activity to see how listeners responded to different types of speech errors. We found that they judged tone errors somewhat differently depending on who made them. 
+What the researchers did
+ 
+● Brain activity (‘brain waves’) of 34 native Chinese speakers was recorded while they listened to 240 sentences, half spoken by a native Mandarin speaker and half spoken by a foreign-accented speaker. 
+● By design, many of the sentences contained one of three types of error: mispronounced tones, mispronounced vowels, or words that did not make sense in context. 
+● After hearing each sentence, listeners judged whether it had errors (such as pronunciation or word errors). 
+What the researchers found
+ 
+● Native Chinese listeners were more likely to accept sentences with pronunciation errors (especially tones) as ‘correct’ when the error was made by the foreign-accented speaker than when it was made by a native speaker. 
+● They tended to judge foreign-accented sentences as ‘not correct’ even when there was no intentional pronunciation error in the sentence—though this varied widely across listeners. 
+● Listeners’ brain waves did not show strong differences in how they responded to the two speakers, but they did suggest that listeners might always be less sensitive to incorrectly pronounced tones compared to vowels. 
+Things to consider
+ 
+● While the judgments of listeners were clearly influenced by the speaker’s accent, the best interpretation of the results isn’t clear. Listeners may have expected tone errors from the foreign-accented speaker and so tended to ignore them, or they may have had difficulty hearing and then judging the foreign-accented speaker’s errors. 
+● Some listeners had very different responses to others. More research is needed to understand how ‘typical’ Chinese listeners respond to tone errors in foreign-accented speech, and what leads to differences among people. For example, a person may be less bothered by errors if they have many foreign-accented friends. 
+● In the future, research like this might help learners and teachers of tonal languages decide how important it is to master tones. For now, it is too early to make strong teaching recommendations.

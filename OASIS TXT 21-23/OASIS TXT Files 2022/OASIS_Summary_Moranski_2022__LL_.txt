@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+ Deductive instruction and guided inductive instruction are two well-known options presenting target grammar rules to second language (L2) learners. A series of small-scale previous research studies had found an advantage for guided inductive instruction. The goal of the present study was to investigate whether the results from the smaller studies scaled up to a larger context. Results indicated a slight advantage for deductive instruction in this larger context, and statistical models showed that factors related to student grouping at the class, teacher, and school levels impacted their performance, regardless of instruction type. This suggests that guided induction may be more sensitive to considerations such as teacher preparation or target structure difficulty than deductive instruction and thus may face challenges for use at scale. 
+What the researchers did
+ 
+● Participants were 138 native speakers of English learning L2 Spanish, in eight classes within three high schools. 
+● Participants were divided into deductive and guided inductive instruction, and control groups. Guided inductive instruction was provided via the PACE method. 
+● The target structure for instruction was Spanish se. 
+● Performance was analyzed on two tests that measured knowledge of Spanish se before instruction, immediately following instruction, and six weeks after instruction. 
+● The researchers used an advanced statistical technique to account for the fact that students were grouped or nested within classes within schools. 
+What the researchers found
+ 
+● Learners in the deductive groups performed better than learners in the control groups when matching sentences that used Spanish se to images that omitted agents. However, learners in both instruction groups outperformed control groups for a task that asked them to write sentences to match images without agents. Direct comparisons of deductive and guided inductive groups showed no significant difference between the two. 
+● Learners in both instruction groups also produced se in contexts that did not require it, with deductive groups doing so at a greater rate. 
+● The analysis of the nesting variables indicating group membership (class, teacher, school) meaningfully impacted students’ learning outcomes, regardless of instructional design. 
+Things to consider
+ 
+● Results showed a slight advantage for deductive instruction in contexts in which se should be used. 
+● Findings also indicated that guided inductive instruction may be less robust than deductive instruction for scaling up to larger educational contexts. Teacher preparation and target structure difficulty could have impacted the efficacy of guided induction. The analysis of the nesting variables underscores the importance of accounting for these class-, teacher-, and school-level factors in statistical analyses. 

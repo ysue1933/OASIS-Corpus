@@ -1,0 +1,18 @@
+
+What this research was about and why it is important 
+ Research has shown that adding time pressure to task repetition (i.e., the 4/3/2 activity) can facilitate second language (L2) fluency development to a great degree. However, any positive influence of time pressure on L2 accuracy development remains unclear. The present study incorporated the delayed corrective feedback technique (drawing learners’ attention to a particular linguistic form) as a form of accuracy enhancement into the 4/3/2 activity. We examined whether this combined approach could impact aspects of L2 fluency (speed, breakdown, repair) and accuracy development (the acquisition of irregular and regular forms of English past tense) simultaneously. The results showed that this combined approach simultaneously impacted learners’ overall fluency and accuracy across different topics. However, certain aspects of their fluency and accuracy development remained unchanged. 
+What the researchers did
+ 
+● A total of 36 students (7 males and 29 females) at a university in Vietnam volunteered to participate in three 20-minute sessions. In each session, they talked about one familiar topic. 
+● Participants were randomly divided into three groups: o Control group - repeated a monologue task three times under constant time conditions (3/3/3 minutes) o 4/3/2 group - repeated a monologue task three times with increasing time pressure (4 → 3 → 2 minutes) o 4/3/2 + accuracy enhancement group - repeated a monologue task three times with increasing time pressure (4 → 3 → 2 minutes) and received metalinguistic correction from the researcher during the activity 
+● Participants’ grammatical errors (past tense) were written down during their first delivery. Then, the error logs with metalinguistic explanation were provided to the participants when they finished their monologue (delayed feedback). 
+● To measure any change or improvement in the students’ accuracy and fluency aspects of L2 speech over time, the participants’ task performance was audio-recorded. 
+● For the purpose of the analysis, the first two minutes from the first delivery in the first session (T1) and the first two minutes of the third delivery in the last session (T3) were used. The audio-recordings were then transcribed, coded and analyzed. 
+What the researchers found
+ 
+● The participants who engaged in the 4/3/2 activity improved their fluent use of L2 English across all the relevant dimensions (speed, breakdown and repair). However, repeating a task with an increasing amount of time pressure did not stimulate more accurate speech. 
+● When accuracy enhancement was incorporated into the 4/3/2 activity, it helped students significantly enhance not only all dimensions of L2 fluency (speed, breakdown, repair), but also refine the accurate use of irregular (but not regular) past tense. 
+Things to consider
+ 
+● The 4/3/2 activity (repeating a monologue task with increasing time pressure) can lead to robust fluency development but not accuracy development. These results were compatible with those of previous studies which argued that when learners are under time pressure to perform a task more rapidly, they are to prioritize meaning conveyance over linguistic accuracy. 
+● Drawing learners’ attention to form through integrating delayed corrective feedback into the 4/3/2 activity can help improve both fluency and accuracy at a broad level. The findings here lend empirical support to the previous task-based instruction studies which emphasized the pedagogical potential of focus on form before students proceed to any types of task repetition activities. 

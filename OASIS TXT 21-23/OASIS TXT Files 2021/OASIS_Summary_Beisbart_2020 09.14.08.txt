@@ -1,0 +1,22 @@
+
+What this research was about and why it is important 
+ Multilingualism and its investigation are often taken to be special. One possible reason why multilingualism may be special is its complexity. But is it really the case that complexity makes multilingualism special? The aim of this paper is to answer this question. An affirmative answer to this question would have important consequences for multilingualism research. In particular, methods to study complex systems known in other areas could be fruitfully transferred to multilingualism research. 
+What the researchers did
+ 
+● Different ideas about complexity are distinguished and brought to bear on multilingualism. 
+● In a case study, a model by P. Herdina and U. Jessner is analyzed. The model applies notions from the study of complexity to multilingualism. 
+What the researchers found
+ 
+● Complexity is not one thing; there are various ideas of what complexity is. 
+● Some ideas of complexity consider a system as it is at one particular instance of time; others focus on how the system evolves in time. 
+● Multilingualism is more complex than monolingualism in that it has more components (languages) and in that it allows for heterogeneity of the components. But this alone does not lead to a huge qualitative difference between multilingualism and monolingualism. 
+● In multilingual speakers, the various abilities can interact in various ways. There is empirical evidence for such interactions, but, as such, the interactions found so far do not suffice to make multilingualism special. Complexity is sometimes meant to be the emergence of qualitatively novel features due to e.g., more components. 
+● If multilingualism is complex in this sense, it is clearly special. But whether it is complex in this sense is a matter of empirical fact. 
+● The application of methods from the study of complexity in the natural sciences is suggestive and fruitful. But it is difficult to rigorously apply these methods to multilingualism. For instance, a clear distinction between model assumptions and model predictions is needed, and precise mathematical formulae need to be found that relate state descriptions with each other. 
+
+
+Things to consider
+ 
+● It is not clear what the appropriate contrast to multilingualism is (e.g. monolingualism or bilingualism). But the results of this study hold independent of how exactly multilingualism is defined. 
+● Models from the study of complexity have been applied in linguistics, but typical applications are narrow in scope and focused on very specific abilities. They thus do not cover multilingualism as a whole. 
+● More research may clearly show that multilingualism is indeed special due to its complexity, but such a result would have to be established with empirical data. 

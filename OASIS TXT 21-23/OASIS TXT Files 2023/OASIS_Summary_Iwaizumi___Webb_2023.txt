@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+ A word family consists of a base word (e.g., develop) with its inflected forms (e.g., develops, developing) and derived forms (e.g., developmental, development). Research shows that both English as a first language (L1) speakers and second language (L2) learners often find it challenging to produce all derived forms in a word family. However, what affects production of derivatives is unclear. In addition, little is known about the acquisition mechanism of derivatives. For example, derivatives may be acquired as whole words (development) through item-based learning or as analyzable forms (develop + –ment) through system-based learning. If derivatives are acquired through item-based learning, strong whole-word frequency effects should be observed. This study examined how learner-related variables (knowledge of derivational affixes, vocabulary breadth) and word-related variables (part of speech, derivative frequency) affect production of derivatives, and explored whether derivatives are learned through item-based or system-based learning. A decontextualized form-recall test was used to elicit participants’ knowledge of derivatives. The responses were examined in relation to the learner- and word-related variables to explore their effects on production of derivatives. 
+What the researchers did
+ 
+● Researchers tested 21 L1 English speakers and 107 L2 English learners. 
+● These participants produced derivatives for 90 prompt words on a form-recall test. 
+● Derivational affix knowledge was measured using the Word Part Levels Test. Vocabulary breadth was measured by the updated Vocabulary Levels Test. Word frequency scores were obtained from the spoken subsection of the Contemporary Corpus of American English (COCA). 
+What the researchers found
+ 
+● Increased receptive derivational affix knowledge and derivative (whole-word) frequency were linked to greater accuracy in production of derivatives. 
+● Adverb derivatives were more frequently produced compared to other parts of speech. 
+● Learners’ vocabulary breadth was associated with greater accuracy in producing derivatives. 
+● A larger facilitative effect of derivative frequency was found for L2 learners in comparison to L1 speakers, but this effect diminished as vocabulary breadth increased. 
+● Learners may acquire derivatives on a case-by-case basis, but as their derivational affix knowledge and vocabulary breadth increase, they may acquire derivatives more systematically. 
+Things to consider
+ 
+● While the variables investigated in this study were found to influence production of derivatives, there is unexplained participant- and word-related variation, which future studies should clarify. 
+● The learner- and word-related variables investigated in this study may play different roles when knowledge of derivatives is measured on a different test such as a contextualized form-recall test. 

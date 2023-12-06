@@ -1,0 +1,25 @@
+
+What this research was about and why it is important 
+ Many language pairs, especially closely related ones, share several thousand cognates (words which are spelled and/or pronounced similarly and mean the same, such as English apple and German Apfel). These form vast basis which could make the process of learning a related language easier and faster. As learners greatly vary in their ability to recognize cognates, it remains unclear whether and how teachers can support their students in taking advantage of these similarities. This study analyzed whether teaching younger learners about systematic similarities between English and German could help them memorize new word pairs with the same pattern more easily. For example, if a learner knows that p can change to f as in ship – Schiff, will they be able to better memorize open – offen ? The results showed that training improved vocabulary learning independent of learners’ proficiency, though only if the learners had been introduced to that specific systematic similarity. 
+What the researchers did
+ 
+● Participants were 260 Swiss German middle school learners of English as a foreign language, aged 11-12 years. 
+● All 17 classes completed three vocabulary learning tests over 6 weeks: Individually on a computer, learners watched a presentation of 30 new word pairs which share systematic similarities (e.g., glitter - Glitzer) and were later asked to translate half of those words from German to English and the other half from English to German. 
+● In addition, 7 of these 17 classes received training between the first and second test: The first 45-minute lesson started with a whole-class discussion on cognates. Working in small groups, learners then translated 20 previously taught English words to German and marked the change(s) between the word pairs. Finally, they grouped word-pairs showing similar correspondences and generated rules based on their observations. After collecting their hypotheses in class, each group created a poster with the four rules and examples. During each of the following three English lessons, 15-20 minutes were devoted to recap the rules and apply them to new examples. Rule Example music – Musik  
+1) c – k 
+2) p – f apple – Apfel      
+3) t – s  / t – z water – Water / salt – Salz    
+4) th – d / d – t thing – Ding / word - Wort 
+What the researchers found
+ 
+● Learners who were introduced to the four systematic similarities (7 classes) were able to memorize more new words in the second and third test compared to the first test and their peers who did not receive training (10 classes). 
+● The difference was found for both translating from German to English as well as from English to German. 
+● The difference was observed on all four rules that were discussed in class. No change was found for word pairs with the systematic similarity k – ch (as in stork – Storch) that had not been discussed in the training sessions. 
+● While learners with initially larger vocabulary sizes were able to memorize more new words overall, they showed similar progression to their peers with smaller vocabulary sizes. 
+● Finally, learners rated the activities positively, though their progress was not related to their rating. 
+Things to consider
+ 
+● The findings suggest that even young learners could benefit from training that raises awareness of systematic similarities to enhance vocabulary learning, independent of their proficiency. The activities were generally perceived as pleasant and interesting, independent of how much they helped learners improve. 
+● However, these results are limited to a certain set of written words exhibiting systematic similarities that had been introduced. Learners who were introduced to four correspondence rules were not able to detect a new systematic similarity better on their own than their peers with no training. More research is needed to determine how to support students in transferring their awareness of similarities to new phenomena. 
+● Moreover, the instruction was focused on the written form of the words, and the words were presented and tested in pairs without any context. Other aspects such as pronunciation or visuals can affect the uptake of new words. 
+● Finally, participants learned a new set of words at each of the three test times, and were not tested on whether the rules helped them retain the words over a longer period. This aspect could be addressed in future studies. 

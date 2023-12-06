@@ -1,0 +1,21 @@
+
+What this research was about and why it is important 
+ Researchers and educators are interested in understanding how learners use and learn different languages in their daily lives. This poses a methodological challenge since existing research instruments are not well suited to collecting data outside of classroom or lab settings. This paper introduces the Lang-Track-App, a new research tool developed to address this issue. The app allows researchers to collect data from learners on the go following a procedure known as the experience sampling method where participants answer questions about what they are doing many times per day. 
+What the researchers did
+ 
+● The researchers developed a smartphone application called the Lang-Track-App. 
+● The code for the app is available for free online so that other researchers can use it for their studies. 
+● Researchers upload surveys via a website linked to the app and schedule when they want participants to answer them. 
+● Research participants download the app on their phones. When it is time to answer a survey, they receive a push notification on their phone. They tap the notification to open and respond to the survey in the app. 
+● The researchers who developed the app also used it in a study of language use among university students studying abroad. 
+● The students answered a survey several times per day over three weeks in which they reported, for example, what activities they had just engaged in and what language(s), if any, they had used. 
+What the researchers found
+ 
+● Students in the sample study found the Lang-Track-App easy to use and responded quickly to most of the surveys that they were sent. This showed that participants successfully engaged with the Lang-Track-App even though it can feel repetitive to answer the same survey many times per day. 
+● The Lang-Track-App gave the researchers a very detailed picture of the students’ everyday language use. 
+● This included information about when, where, and with whom the students used their native language, English, or the language of the country in which they were studying abroad. 
+● Some students’ language use changed considerably over the course of the period. The rich data allowed the researchers to explore possible causes (e.g., the impact of COVID-19-related lockdowns). 
+Things to consider
+ 
+● The Lang-Track-App can be used to study language use and many other topics related to language learning such as motivation, engagement, foreign language enjoyment and anxiety, etc. 
+● There are many ways of analyzing data from Lang-Track-App studies, from simpler descriptive approaches to complex statistical analyses, allowing researchers to explore many different research questions. 

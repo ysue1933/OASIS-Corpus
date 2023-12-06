@@ -1,0 +1,23 @@
+
+What this research was about and why it is important 
+  Specialized vocabulary is a kind of academic word that is specific to an academic discipline, for example, “neutrino” is a specialized vocabulary in physics. Knowledge of specialized vocabulary is a foundation to subject knowledge, but mastery of the language in general may affect the success of learning specialized vocabulary. Since many bilingual students learn specialized vocabulary in their non-native language, it is important to explore efficient and effective methods for learning specialized vocabulary in the bilingual context. This study compared the effectiveness of two such methods: 1) university students learned specialized vocabulary first in their native language, then in their non-native language, or 2) they learned the same specialized vocabulary in their non-native language repeatedly. 
+What the researchers did
+ 
+● 75 Chinese-English bilingual university students with medium to high English proficiency participated in this two-session online experiment. Days 1 and 2 were one week apart. 
+● The participants either received Chinese learning materials on Day 1 and English learning materials on Day 2, or received the same English learning materials on Days 1 and 2. 
+● Participants self-learned 8 specialized vocabulary words by reading 80 definition sentences (e.g., “neutrinos are small subatomic particles without electrical charge”). Then, they completed a multiple choice word knowledge test in the study language on that Day to show their learning outcomes of the specialized vocabulary. 
+● Learning confidence and time spent on learning were collected to further illustrate the learning progress. 
+● The researchers compared (a) the performance change from Day 1 to Day 2, (b) the first exposure to learning materials in the non-native language, and (c) Day 2 performance of the two groups to determine the relative effectiveness of the two methods in learning non-native language specialized vocabulary. 
+What the researchers found
+ 
+● Learners required the shortest learning time and achieved the highest accuracy in the test in native language learning of specialized vocabulary. 
+● Even when the same concepts were already learned in the native language, leaners had lower accuracy and slower response time in the word knowledge test when tested in the non-native language relative to the native language. 
+● Learned information appeared to partially transfer across languages. Learners responded faster (but not more accurately) in non-native language learning and meaning recognition test after prior learning in the native language, compared to learning without native language support. 
+● When learning the specialized vocabulary words in the non-native language repeatedly, the initial exposure was the most difficult, as indicated by the lowest confidence ratings and longest learning time. 
+● Day 2 meaning recognition performance was comparable between the two groups when using the non-native language as the assessment language. 
+Things to consider
+ 
+● Both native language support and repeated learning in the non-native language can lead to gains in specialized vocabulary learning. Instructors and learners may flexibly choose according to the learning goals. 
+● There may be a limit to the extent of self-learning from academic text in a non-native language. Alternatively, difficulty of the non-native language specialized vocabulary or boredom may lead to low engagement in the individual learning process. 
+● The researchers did not analyze the effects of language proficiency or prior disciplinary knowledge on word learning success. The amount and duration of study and long-term retention effects may be studied in the future. 
+● Task choice of this study could influence the results. Future studies may also require learners to recall the definitions of the words or use the words in sentence context in their native versus non-native languages. 

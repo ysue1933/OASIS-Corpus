@@ -1,0 +1,17 @@
+
+What this research was about and why it is important 
+  Giving feedback and corrections to language learners is important for their language development, but what kind of feedback is most effective? Previous research has indicated that correcting the learners during the task is more effective than providing corrections after the task is over. This study compared the effects of these two ways of correcting learners' speech in an online setting where learners were given corrections orally during a video conference call. The results showed that there was no difference between giving corrections during or after the task, but getting feedback or corrections was much better than not getting any feedback. 
+What the researchers did
+ 
+● Learners were 52 students of English, with an average age of 34.6. Their first language was Spanish/ Catalan. Their proficiency level was equivalent to low intermediate. 
+● Learners completed an oral video-based online lesson using Skype over the course of 3 days. 
+● Lessons focused on the English grammar rule of participial adjectival endings -ed/-ing, such as ‘surprised/surprising’. 
+● Learners were split into three groups where they were given an oral lesson via Skype using the target language pattern. Feedback was given clearly when errors were made, ‘Ex: That is not correct. You should say interesting’, at different timings. One group was given feedback immediately as they were doing the lesson and another group was given feedback after the task through a video playback of the lesson where feedback had been inserted. The third group was not given feedback at any point. 
+● To understand the extent to which learners improved, learners were presented with an oral task that involved interacting with the researcher using the -ing/-ed form the days before and after the lesson. In order to examine whether the learners understood the grammar rules, they were given a written ‘grammar test’ to recognize and correct errors before and after the lesson as well. 
+What the researchers found
+ For Grammar Test 
+● All groups improved their scores. There were hardly any differences between the groups. For Oral Production Task 
+● The two groups that received corrections outperformed the learners who did not receive any feedback. However, there were no differences between learners who received corrections while doing the lesson and those who received it after the lesson, which contrasts with previous research. 
+Things to consider
+ 
+● This study suggests that when corrections provided after the lesson are integrated in a video replay, they can be just as effective as corrections provided during the lesson allowing learners to remember errors they made in context. This gives pedagogical insight into how to give feedback in video-based language learning online settings. 

@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ Second language (L2) learners, particularly those in classroom settings, often learn new vocabulary in lists. It is important to know how the composition of those lists may affect learning, including whether having items grouped by meaning or similar spellings impacts learning. We therefore taught native English-speaking college students a set of new L2 words in an unfamiliar language. Some students learned the words in a list that had items with related meanings; others learned them in a list that had items with similar spellings at the beginning or end of the word; others had a list with items that had both these similarities. Compared to a list where there were no meaning or form similarities, we found that having related meanings on the list only helped if the first test taken asked for translations from the L2 to the first language (L1). This was probably because learners used the categories of words to help remember the meanings, by drawing on their existing knowledge of related L1 meanings. Otherwise having related meanings was not helpful, and indeed sometimes caused people to confuse the word with another with a related meaning. Having words that had similar spellings on the list always lowered accuracy, and caused words to be confused with the similar looking words. In addition, translating the words from L1 to L2, rather than vice versa, during study resulted in the best long-term retention of the words. 
+What the researchers did
+ 
+● Learners were taught new L2 vocabulary items in four types of lists: a) no relationship between words, b) words with similar meanings, c) words with similar beginnings or endings, and d) both types of similarity. 
+● Learners either studied the list by translating from the L1 to the L2, or from the L2 to the L1. 
+● Learners’ memory for the 10 words was tested (in both directions) immediately after learning and approximately one week later. 
+● When scoring the tests, the researchers examined ‘accuracy’ as well as the ‘types of errors’ made. 
+What the researchers found
+ 
+● Having vocabulary with similar meanings on a list helped if the test gave the L2 word and sought its L1 translation. Otherwise similar meanings did not help, and sometimes tended to hurt word learning. 
+● Having L2 vocabulary with similar beginnings or endings made learning the L2 vocabulary very difficult, and people often confused the similar looking items. 
+● Overall test scores were worse after one week than immediately after learning the words. 
+● Scores were better if the words had originally been learned by translating from L1 to L2 than vice versa.  
+Things to consider
+ It may be beneficial to have L2 vocabulary lists with words that are unrelated in meaning and spelling. 
+● 
+● Putting in more effort during study (translating from the L1 to the L2, rather than vice versa) seemed to benefit longer-term learning. 
+● Further work is needed to see if these findings also apply to more advanced learners of a L2. 

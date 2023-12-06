@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ The LexTALE test was originally designed by Kristin Lemhöfer and Mirjam Broersma in 2012 to measure vocabulary knowledge. It consists of an un-speeded visual lexical decision task that takes about 3.5 minutes to complete. It was shown that the test works well with advanced English learners. Since its publication, the LexTALE has become increasingly popular and had been used in 551 studies at the time when we conducted this research. But worryingly, a striking 89% of these studies included at least one group of pre-advanced English proficiency, and there is an almost complete absence of studies that would suggest this test can be used among pre-advanced learners. Given this state of affairs, we decided to conduct a partial replication of the original study to test the LexTALE’s validity at different levels of proficiencies, demonstrating whether the LexTALE can faithfully reflect a learner’s (advanced or not) English proficiency. In addition, we examine whether a learner’s performance in the LexTALE may be affected by the writing system of their native language (for example, alphabet-based Spanish vs character-based Chinese). 
+What the researchers did
+ 
+● We designed a web-based task that consisted of three parts. The first part was our specially designed questionnaire to collect participants’ prior learning experience with English or other languages. The second part was the LexTALE test. The third part was the Quick Placement Test (QPT), a commonly used standardised test of English proficiency. 
+● Two groups of learners who started learning English late (in primary or secondary school) took part in our study, one group consisting of 266 Chinese learners and the other 288 Spanish learners. 
+● We used the scores from the QPT to divide participants into two groups: intermediate and advanced learners. 
+● We compared the QPT and LexTALE scores for Chinese and Spanish learners; we also compared the scores from the two tests for intermediate and advanced learners. 
+What the researchers found
+ 
+● Among the Chinese learners, the LexTALE and QPT scores were moderately related; among the Spanish learners, the relation between the two sets of scores was weak. 
+● Among the advanced learners, the LexTALE and QPT scores were weakly related, but the relation was slightly stronger for advanced Chinese learners. 
+● Among the intermediate learners, the LexTALE and QPT scores were also weakly related, but the relation was slightly stronger for advanced Spanish learners. 
+Things to consider
+ These findings suggest: 
+● The LexTALE is not as reliable as one might think as a measure of global English proficiency. 
+● We need to be particularly careful when using the LexTALE with intermediate learners. 
+● We need to consider the learner’s mother tongue when interpreting the LexTALE test results. 
+● More similar studies should be conducted to test the LexTALE’s reliability. 

@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ Research into vocabulary knowledge often differentiates between breadth (how many words a learner knows) and depth (how much a learner knows about those words). Both constructs are essential for understanding second-language learners’ development of word knowledge, but how they interconnect has not received the same attention as each individual dimension, especially in terms of productive knowledge. This study analyzes mid-frequency vocabulary from the learner corpus PELIC (Juffs, Han, & Naismith, 2020). From these mid-frequency items, a dataset from word families with multiple derivations was collected and annotated. The findings showed high rates of collocational and derivational accuracy for the forms learners opted to use. However, compared to expert speakers, learners overused verb forms and underused noun forms. These patterns provide evidence of the interplay between breadth and depth in learners’ productive vocabulary usage. Pedagogical implications reaffirm the importance of developing learners’ explicit morphological awareness and collocational accuracy. Suggestions for mid-frequency vocabulary items to prioritize in language learning are also provided with a view to helping learners achieve academic readiness. 
+What the researchers did
+ 
+● A subset of words from two corpora were compared, a learner corpus (PELIC) and a general reference corpus (COCA; Davies, 2008). 
+● The vocabulary items examined were all mid-frequency (2001-9000 most frequent words) and belonged to word families with multiple forms, e.g., accept, acceptance, acceptable, and acceptably. 
+● Three experts annotated 7,554 lines from PELIC containing these items. The annotators judged collocational accuracy (whether the surrounding words were appropriate) and derivational accuracy (whether the correct word form was used). 
+● Rates of usage were compared using linear mixed-effects model to see whether the two groups showed the same or different patterns of usage in terms of part of speech. 
+What the researchers found
+ For rates of use 
+● Compared to expert speaker texts, learners overused the verb forms (e.g., accept) and underused the noun forms (e.g., acceptance). 
+● Rates of use of adverb and adjective forms were similar for both groups. For accuracy 
+● Learners demonstrated high rates of collocational and derivational accuracy for the forms they used. 
+● Both types of accuracy improved with proficiency level, though not always significantly from level to level. 
+Things to consider
+ 
+● The findings suggest, in line with previous research, that learners overly rely on one or two forms within word families to the exclusion of others. 
+● Nominalization (the use of noun forms) is a key characteristic of academic writing, so it is important that learners studying academic English receive explicit instruction about the noun forms in mid-frequency word families. 
+● For learners, there is limited class time available to acquire a large amount of vocabulary. By explicitly focusing on collocational and derivational knowledge of key mid-frequency vocabulary families, teachers can simultaneously help learners to improve their breadth of vocabulary (how many words they know) and depth of vocabulary (how well they know the words). In doing so, learners can more efficiently achieve academic readiness. 

@@ -1,0 +1,18 @@
+
+What this research was about and why it is important 
+ Generative linguists are interested in how abstract properties of language guide learning and whether explicit teaching of ‘rules’ in various ways can affect unconscious knowledge. This paper explained how an abstract theory of verb meaning and knowledge of the Spanish morpheme se may differ from pedagogical grammar, showed that abstract knowledge may guide learners’ development, and provided evidence that explicit instruction helps learners develop greater accuracy with complex grammar in production. 
+What the researchers did
+ 
+● At three US High Schools, teachers used different techniques of grammar instruction with Spanish se: in three days of instruction: deductive rule-based instruction and inductive ‘discovery’ instruction. The sentence types included impersonal, passive, and inchoative (i.e., a “spontaneous” event without external cause). Other classes did not receive any grammar instruction with se. 
+● The researchers administered an aural acceptability judgement task (AJT) and a picture description (production) task at three points: before instruction, immediately after instruction, and six weeks later. 
+● The researchers analyzed changes in test scores over time on the two tasks using different verb types, type of instruction, and time of test as the main factors. 
+What the researchers found
+ 
+● In the AJT, the researchers found that learners increased their acceptance of se in sentences such as la puerta se abrío (“the door ‘se’ opened”). However, learners still accepted sentences without se, e.g., *la puerta abrío (the door opened) at the delayed post-test. This is acceptable in English grammar, but not in Spanish. 
+● In addition, the learners did not incorrectly extend the use of se to intransitive verbs such as in *el avión se desciende (“the plane ‘se’ descended), where se is not permitted. 
+● In the production task, participants who had received either kind of instruction fared better than the group which had received no instruction. Learners showed increased use of se with verbs such as open in Spanish, but again they did not incorrectly overgeneralize to verbs such as cry or descend. 
+Things to consider
+ 
+● The same form, e.g., se, may have different abstract representations depending on the meaning that is intended. Therefore, different meanings of the ‘same’ structure might be better taught spaced out rather than in a block. 
+● The underlying (abstract) system of the grammar of a language should be taken into account in language teaching. 
+● Teachers need fine-grained linguistic knowledge to understand developmental patterns in learning. 

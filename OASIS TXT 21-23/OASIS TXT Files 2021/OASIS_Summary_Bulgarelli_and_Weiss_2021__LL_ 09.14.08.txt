@@ -1,0 +1,24 @@
+
+What this research was about and why it is important 
+ One of the challenges confronting language learners is that speech production is highly variable, both within and across individuals. Learners must ignore some differences (e.g., different pronunciations of the same word) in order to attend to relevant features (such as changes in sound that indicate different words). Understanding how learners overcome the challenge of dealing with multiple talkers has implications for understanding the process of language acquisition and for identifying language deficits and improving instruction. This study investigated whether learning from different talkers can be both challenging and yet benefit language learning, a characteristic called “desirable difficulty” that has been evidenced in other areas of cognitive processing. We were particularly interested in: 1) how many talkers participants learned from and 2) whether learning was retained over time.  
+What the researchers did
+ 
+● In two similar related experiments, college-aged participants learned a small artificial language consisting of names for two categories of novel objects. 
+● Each category of objects was paired with one article before it (sem or bol) that was specific to that category of objects. 
+● In Experiment 1 the sounds at the end of the words (i.e., the suffixes) were very similar across the two categories (difficult to distinguish from each other). In Experiment 2, the ends of the words were distinct across categories (easier to distinguish). 
+● Participants could ‘infer’ (work out) the grammatical relationship between the specific article and the sound at the end of the words, but they were not informed about the grammatical relationship directly. 
+● Participants learned the new words and articles from either 1, 2, or 8 talkers. 
+● Participants were tested on: (i) the names of the objects, (ii) which article matched, and (iii) if they could generalize the grammatical relationship between the article and the word endings to new nouns (that were not presented during training). 
+● Participants were tested at three time points: immediately after learning, after a short delay, and after one week. 
+What the researchers found
+ 
+● Participants who learned from 1 talker and 8 talkers demonstrated learning of both the names for the objects and the articles, in both Experiments 1 and 2. 
+● Participants who learned from 2 talkers demonstrated learning of only the names of the objects in Experiment 1, but both the names of the objects and the articles in Experiment 2. 
+● However, participants were not able to generalize the relationship between the articles and suffixes to new nouns, regardless of how many talkers they learned from or how similar the suffixes were across the different categories of nouns. 
+● High talker variability (8 talkers) did not interfere with learning, but also did not lead to benefits, while limited talker variability (2 talkers) interfered with learning only under more difficult conditions (where the ends of words were similar). 
+● Learning was robust at all time points and retained even after the delay of one week. 
+Things to consider
+ 
+● One possible limitation of the current study is that participants did not have enough time to learn to generalize the grammatical relationship between the specific article and the sound at the end of the word. 
+● Talker variability may be relevant for learning some aspects of language (e.g., sounds) but not others (e.g., grammar). 
+● Future research will investigate how talker variability may differentially impact learning across stages of development. 

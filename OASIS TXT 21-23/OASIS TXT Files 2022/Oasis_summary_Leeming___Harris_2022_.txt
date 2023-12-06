@@ -1,0 +1,25 @@
+
+What this research was about and why it is important 
+ Teachers use different approaches in order to improve learners’ speaking proficiency, but it is very difficult to effectively measure growth. This study compared two practical approaches that are available for teachers to measure speaking development over time. Japanese university students taking a course in oral communication completed the Versant speaking test and also recorded a short narrative monologue on three separate occasions over the course of an academic year. The researchers developed a rubric to assess the narrative performances and then rated them. FACETS computer software was used to analyze the data from the ratings, and mixed-level models were used to check whether students had actually improved over the course of the year. Finally, a correlation was used to check the relationship between the two different methods of measuring speaking proficiency. Results showed that the narrative was a reliable way of measuring speaking proficiency, and the growth models showed that the learners’ speaking proficiency grew over the course of the year. Unfortunately, both tests were unable to show growth during the second semester. Moderate correlations suggested that both methods were measuring the same underlying construct. The authors conclude that narrative monologues and Versant are both potential options for busy classroom teachers. 
+What the researchers did
+ 
+● Students in an oral communication course were given tests to measure their speaking proficiency at the start, middle, and end of an academic year. 
+● Students completed a two-minute personal narrative with a slight change in prompt on each occasion. 
+● Students also completed the Versant automated speaking proficiency test three times. 
+● The researchers developed a rubric and individually rated the narrative performances. 
+● FACETS software was used to analyze the data from the narratives. 
+● Growth was modeled statistically, to see if the students had improved in their speaking proficiency. 
+● A correlation was performed to see how closely related the two tests of speaking proficiency were. 
+What the researchers found
+ 
+● The results of the FACETS analysis showed that the rubric and ratings were reliable, although the two raters did differ considerably in their interpretation of the rating scale. 
+● Mixed level models showed that for both measures, growth in speaking proficiency occurred over the course of the academic year, but there was no significant growth in the second semester. 
+● Correlation analysis showed that there was a moderate relationship between the two measures of speaking proficiency. 
+● Results highlighted the need for repeated measures and longitudinal data when measuring growth in language proficiency. 
+Things to consider
+ 
+● The narrative performances were useful for measuring speaking proficiency and the students clearly improved during the academic year. It was also easy to implement this approach during class time. 
+● Both tests showed growth in proficiency over the course of the year but not in the second semester. This may be due to the specific context where students have a large receptive knowledge of English but very limited chance to use it productively. This means that given the chance, they can improve at speaking English very quickly, but then reach a plateau once they have attained a certain level of proficiency. 
+● FACETS analysis showed that even raters who have developed a rubric together and practiced ratings still differ markedly in the way they rate performances. This suggests that for high stakes tests that use human raters, FACETS software is important to provide a fair score for students. 
+● The moderate correlation between the two types of tests suggests that although the underlying construct may be the same, there are some differences in what is being measured. 
+● Future research should attempt to replicate these findings in different contexts with students of more varied levels of proficiency. 

@@ -1,0 +1,18 @@
+
+What this research was about and why it is important 
+ Many researchers have proposed that accurate perception of second language (L2) sounds is necessary before accurate production. That is, L2 learners should not be able to accurately produce L2 sounds that they do not perceive accurately. Despite much research into this link between perception-production, we still know little about how the link develops over time. This study tracked English-speaking university students’ perception and production of Spanish /b/ and /p/ (known as ‘stop consonants’). Spanish stops are similar but not identical to English stops. Most English speakers would perceive Spanish /b/ and /p/ as instances of English /b/. Perception was examined both as (1) a trait that has a stable average for each individual and (2) a trait that varies over time within an individual. The results showed that both perception and production improved, but only the stable trait perception measure was related to production accuracy. Surprisingly, changes in perception over time within individuals did not seem to predict changes in their production. 
+What the researchers did
+ 
+● Participants were 30 native English speakers, enrolled in the first-year of introductory Spanish courses taught by native and non-native Spanish speakers, at a university in the United States. 
+● Participants provided perception and production data in seven sessions, at one-month intervals.  
+● In each session, participants did a perception test where they selected which sound did not match the others, out of a set of three variants of /b/ and /p/. 
+● Participants did two production tasks: a ‘word repetition task’, in which they heard a word and repeated it after a short pause; and a ‘picture description task’, in which they saw a picture and described it. 
+What the researchers found
+ 
+● For perception: Participants’ perception of Spanish stops improved over the seven months. 
+● For production: On the word repetition task, many participants accurately produced Spanish /b/, but not Spanish /p/. On the picture description task, production of Spanish /b/ improved, but production of Spanish /p/ did not. 
+● When perception accuracy was examined as a stable trait, it was related to production accuracy for Spanish /b/. This relationship was stronger on the delayed word repetition task. However, perception accuracy as a stable trait was not related to production accuracy for Spanish /p/, on either task. 
+● When perception was examined as a trait that varies over time within an individual, perception was not related to production accuracy, for either Spanish /b/ or /p/. 
+Things to consider
+ 
+● The findings suggest we need to investigate the perception-production link using sophisticated methods, tracking larger numbers of participants over time, to understand when L2 sound perception shapes L2 sound production, how strong the effect is, and how long it lasts. 

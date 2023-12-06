@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ When research is conducted regarding language acquisition and/or development, it is often important to measure subjects’ proficiency in the target language to be able to explain and justify how learners are grouped or to make generalizations about research findings that extend beyond just the specific participants studied. One tool often used to measure second language proficiency for research purposes is an elicited imitation task (EIT)—a sentence repetition task that provides a snapshot of global proficiency. Several studies have explored the use of EITs to measure proficiency of second language learners, but this does not mean that the test works in the same way for other types of learners or bilinguals. This study explored the use of a Spanish EIT to measure language proficiency of Spanish heritage language learners—or, in this case, individuals learning Spanish as adults who were exposed to Spanish at home during their childhood in the US. Various statistical tests were used to explore learners’ performance on the Spanish EIT, to compare their performance on the EIT to their performance on other proficiency measures, and to compare how well the EIT worked for heritage learners to previous information about how it works for second language learners of Spanish. Findings suggest that the EIT works well as a measure of heritage language proficiency, although its ability to discriminate among a broad range of heritage language learners seems somewhat limited (especially at higher levels). 
+What the researchers did
+ 
+● 63 heritage learners of Spanish were recruited from Spanish language classes at US universities. 
+● Participants completed a background questionnaire, the Spanish EIT (repeating 30 Spanish sentences), and a written Spanish proficiency test among other tasks not considered in the study. 
+● Various statistical tests were conducted to compare how well the EIT appeared to measure heritage language proficiency; these included Rasch modeling, a reliability analysis, an exploration of performance on each item across participants, and a correlation with performance on the written Spanish proficiency test. 
+● Findings for each analysis were compared to findings from a previous study that explored the utility of same test for second language learners of Spanish. 
+What the researchers found
+ 
+● The heritage learners’ EIT scores ranged from 16 to 120 out of a possible 120. 
+● Overall, the test was found to be too easy for many of the heritage language learners. 
+● Several individual sentences were found to favor second language learners over heritage language learners likely based on the grammar and vocabulary included in the sentences. 
+● Heritage learners’ performance on the EIT strongly correlated with their performance on the written Spanish proficiency test, although additional analyses indicated that it is possible the two tests are measuring different constructs. 
+Things to consider
+ 
+● The EIT offers a relatively straightforward and reliable way to measure heritage learners’ language proficiency. 
+● Nevertheless, the EIT does not appear to be able to capture higher abilities very well, meaning that it may group individuals together that actually have distinct levels. 
+● More attention is needed to the design of proficiency measures to ensure their use for various populations is appropriate and works in the intended way. 

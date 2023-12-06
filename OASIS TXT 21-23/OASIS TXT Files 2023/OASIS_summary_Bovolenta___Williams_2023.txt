@@ -1,0 +1,17 @@
+
+What this research was about and why it is important 
+ Implicit knowledge is knowledge that we can use even though we may not be able to explain what it is (unlike explicit knowledge, which we can explain). As children, we learn language implicitly: We learn what is correct and what isn’t, even though we may not be able to explain the grammar rules involved. However, it remains unclear whether adults can use implicit knowledge in spoken production. This is important because speaking ability is a fundamental part of language learning. In this study, the researchers exposed participants to a language containing a novel rule, which most participants remained unaware of, and tested their production to see if it nevertheless respected the rule. Results showed that they could use the rule to produce new sentences, which suggests that language rules acquired through implicit learning can be immediately used in speaking. 
+What the researchers did
+ 
+● Researchers created sentences in a (semi)artificial language, where all words were in English apart from spatial prepositions which were replaced by four novel words (gi, ro, wa, ne). Two followed a rule found in Czech (designated as system sentences), where different prepositions are used for enclosed and open spaces, as in “Harry is gi kitchen” (“in” enclosed space) and “Harry is ro playground” (“on” open space). The other two novel prepositions (e.g., wa and ne) were used interchangeably with enclosed and open spaces (unlike actual Czech) to form random sentences, which acted as a control. 
+● Researchers recruited 42 native English speakers, all university students with no knowledge of Czech. 
+● Participants were exposed to 112 sentences in the language through a short-term memorization exercise. They saw scenes consisting of a photograph of a place (e.g., a kitchen) with a cartoon character (man or woman), and heard the sentence which described the scene (e.g., “Harry is gi kitchen”). Then, they had to orally recall the sentence when presented with the picture, which they could do most of the time. 
+● After the exposure phase, participants were given what looked like a memory test. They saw some of the same scenes again and had to recall the sentences that described them. Mixed with the old scenes, they also saw new scenes (composed of familiar place photos and characters, but in a novel arrangement). 
+● After the test, participants were asked what the different prepositions meant, to determine whether they had figured out the Czech rule (aware participants) or not (unaware participants). 
+What the researchers found
+ 
+● In the memory test, even unaware participants were better at recalling system sentences compared to random ones, suggesting that they had learned the preposition and it was helping them reconstruct the sentences. 
+● When given new scenes, the same participants were able to recall (in reality, produce from scratch) the sentences that described them, with above-chance accuracy, which meant that they could use the rule. 
+Things to consider
+ 
+● This was a laboratory experiment. In reality, for teaching purposes, it will not necessarily be easy to keep learners unaware of the language rules that they are learning. 

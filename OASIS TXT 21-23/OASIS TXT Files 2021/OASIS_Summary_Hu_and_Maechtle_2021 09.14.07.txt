@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+  Foreign language teachers are often interested in how to arrange learning materials to help learners detect underlying pattern of sentences, without directly teaching the rules. Based on first language (L1) research, hearing sentences with low variability to start with helps learners compare sentences and detect the underlying pattern. The researchers showed this might not be the case in fourth-grade (age 9-10) Mandarin learners of English as a foreign language. While Mandarin child learners of English were able to detect an underlying pattern and use the pattern to guess a new word’s meaning simply through hearing exemplar sentences, they did not show better performance when the first several sentences they heard were composed of the same verb than when they were composed of different verbs. The study also found that children’s comprehension of the new sentence pattern is related to their capacities in phonological awareness and short-term memory. 
+What the researchers did
+ 
+● In the first study, 121 Mandarin L1 children took tests of phonological awareness and phonological short-term memory at third grade (age 8-9). 
+● At fourth grade, they took a sentence learning task, where they heard object-cleft sentences (e.g., It is the dog that the pig is kissing) with pictured illustrations under skewed or balanced distribution condition. o In the skewed distribution condition, the first several sentences children heard were identical, for example, “It is the dog that the pig is kissing”, followed by sentences composed of other different verbs and nouns. In the balanced distribution condition, children heard the same number of sentences composed of different verbs and nouns. o The researchers tested children’s comprehension of the object-cleft pattern in new sentences o The researchers tested children’s ability to use the pattern to guess a new word’s meaning in sentences. 
+● In the second study, 117 fourth-grade students of Mandarin L1 took a similar sentence learning task, except that children in the skewed distribution condition heard the first several sentences composed of one verb but with different nouns, for example, “It is the dog that the pig is kissing. It is the pig that the fish is kissing. It is the cat that the bird is kissing….” The balanced distribution was the same as that in the first study. 
+What the researchers found
+ 
+● Without being told about the rules, child learners of English comprehended new object-cleft sentences after hearing 10 exemplars of the pattern. 
+● They were able to use the pattern to infer the meaning of a new word in an object-cleft sentence after hearing 20 exemplars of the pattern. 
+● There was no evidence that learners in the two learning conditions performed differently. 
+● Learners with better phonological awareness and/or phonological short-term memory demonstrated better performance in learning the English object-cleft pattern. 
+● The two studies showed similar results. 
+Things to consider
+ 
+● Learning a new sentence pattern by child learners of a foreign language seems to be affected more by individual learner factors than by input-related factors. 
+● The amount of input that child learners receive seems to be more important than the distribution type of the input. 
+● When making decisions about pedagogy, foreign language teachers may find it sometimes more useful to take individual learner differences into account than to simply focusing on how to organize curricular content. 

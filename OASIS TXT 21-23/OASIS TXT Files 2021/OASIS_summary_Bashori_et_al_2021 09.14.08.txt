@@ -1,0 +1,21 @@
+
+What this research was about and why it is important 
+  Vocabulary and emotions, such as Foreign Language Speaking Anxiety (FLSA) and Foreign Language Enjoyment (FLE), are two important aspects that affect students’ performance when learning English as a foreign language. This study has provided useful insights into the potential benefits of automatic speech recognition (ASR)-based websites and the extent to which these impact students’ cognitive achievements in vocabulary knowledge and emotions as measured by FLSA and FLE. By employing a mixed-methods research design with two experimental groups and a control group, the study demonstrates that the two ASR-based websites in question help the students in the experimental groups to significantly improve their vocabulary, reduce their speaking anxiety, and enhance their enjoyment of language learning, when compared to those in the control group. 
+What the researchers did
+ 
+● 232 learners took the Anglia placement test to assess their proficiency level in English. 
+● Researchers conducted two web-based experiments which lasted approximately six hours over the course of two weeks; one experimental group used I Love Indonesia and the other NovoLearning. Learners: o watched two videos related to the learning topic o o read a narrative text and listened to an audio version learned how to pronounce the target word with automated feedback, excellent or try again for I Love Indonesia, and specific feedback on phonetics for NovoLearning. 
+● Learners completed questionnaires on FLSA and FLE before and after the web-based experiments. 
+● Learners completed tests of vocabulary knowledge before and after the web-based experiments. 
+● Researchers also interviewed 12 students and three English teachers. 
+What the researchers found
+ 
+● Most of the students had a level of English that was below A1 (on the Common European Framework of Reference for Languages). 
+● After using the websites, students’ levels of FLSA decreased in the experimental groups, and their levels of FLE was higher in the experimental groups than in the control group. 
+● After using the websites, students’ vocabulary knowledge improved more in the experimental groups than in the control group. 
+● The interviews revealed that the students and teachers generally felt positive about using the ASR-based websites in their classrooms. 
+Things to consider
+ 
+● When beginning vocabulary practice, students should be sufficiently guided by a learning facilitator because not all students are familiar with having oral practice through ASR-based websites. This is also to avoid any anxiety that might arise, such as computer- or technology-related anxiety. 
+● Students should not be instructed to speak immediately when using ASR-based websites. It is recommended that they initially have passive or receptive activities before moving on to active or productive exercises. 
+● Future studies might benefit more from increasing the length of the training and a more diverse range of students with various backgrounds, including different ages, genders, proficiency levels, and motivation levels. 

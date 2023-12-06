@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ Connectives, such as hence or in addition, are linguistic elements that link ideas in written and oral texts. Since many connectives, such as therefore and however, are frequently used, their acquisition represents an important milestone in developing written communication skills. How people become competent with these connectives from early teenage years to adulthood has rarely been studied. To address this issue, we assessed how native French-speakers aged 12 to 71 use connectives, paying particular attention to several factors which could potentially influence their competence. More specifically, we examined how the connectives' frequency (how often they are generally used in French), participants' academic background in French as well as the context of the task would affect how well connectives are used. Results suggest that, despite a general progression in competence with age, the academic level of participants is a strong predictor of competence, even during adulthood. In addition, starting from the age of 12, competence is related to the frequency of connectives, as frequent connectives are systematically mastered better than less frequent ones. Finally, in all age groups, the use and understanding of connectives is more challenging when sentences to complete are embedded within a richer context than when presented alone. 
+What the researchers did
+ 
+● We examined the use of connectives among three age groups of native French-speakers: 69 secondary school students (Mage = 14.5), 125 high school students (Mage = 16.6), and 203 adults (over 18 years old). 
+● Within each age group, participants varied in their academic background in French. 
+● We studied four French connectives frequent in written texts (aussi [therefore], en effet [for, because of], en outre [in addition], and toutefois [however]). 
+● The tested connectives had different frequencies in written corpora. 
+● We conducted two experiments. The first assessed the usage of connectives to connect isolated pairs of sentences and the second examined their usage inside more extensive and naturalistic texts. 
+What the researchers found
+ 
+● Academic background in French was found to be an important predictor of the competence with written connectives within each age group, even though there was a general progression in the level of competence with age. 
+● Frequent connectives were better mastered than non-frequent ones by all participants. 
+● For all the participants, the use and understanding of connectives was more challenging when they had to insert them inside texts rather than when connecting isolated sentences. 
+Things to consider
+ 
+● Our findings suggest that individual variation in the mastery of connectives does not fade with age. In consequence, other measures of individual variation should be examined in future research. 
+● Since the type of the task (isolated sentences vs. texts) can influence performance with connectives, task-type should be taken into account when creating teaching activities. 
+● As this study was in the written modality, future research will need to assess whether teenagers and adults process the coherence relations differently when they are conveyed with connectives in the spoken modality in comparison to those in the written modality. 

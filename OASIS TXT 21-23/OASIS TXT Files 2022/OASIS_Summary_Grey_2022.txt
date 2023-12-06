@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+  Worldwide, many people speak a native language and, at some point in late adolescence or early adulthood, begin to study an additional, nonnative language. This common real-world scenario has led researchers to use a number of tools to study how nonnative language processing compares to native language processing. Studying nonnative language processing is important because it helps us to better understand differences or similarities between native and nonnative language, and what may be the linguistic, cognitive, environmental, or experiential causes or correlates of any observed differences and similarities. Within the last two decades, brainwave information (as revealed through event-related potentials, ERPs) has provided a solid base of knowledge on nonnative language processing, revealing qualitative and quantitative differences between native and nonnative language. However, much of this knowledge base may present a limited understanding of nonnative language processing due to the group comparisons that were being made and a focus on group-level brainwave patterns. This study took a different approach and built off of recent work showing that individual people vary in how their brains respond to linguistic information, even within a single group and for native languages. The study gathered brainwave information in young adult native English-speaking learners of Spanish as a nonnative language for their processing of English and Spanish semantic meaning and grammatical structure information while they read sentences. The brainwave results showed that individuals’ native language processing of semantic information was variable, as was their processing of grammatical structure information. In the nonnative language, similar patterns of variation in the brainwave information were observed; some of this variation was related to nonnative language fluency and grammar knowledge. This study advances understanding of the oft-discussed variability of nonnative language processing and how it can be interpreted in connection with native language processing, within the same individual. 
+What the researchers did
+ 
+● 26 native English speakers enrolled in Spanish courses at a university in the Northeast US. 
+● Intermediate Spanish proficiency. 
+● Participants completed verbal fluency and grammar knowledge tests in English and Spanish. 
+● The main tasks were one sentence reading task in English while brainwave information was recorded and one sentence reading task in Spanish while brainwave information was recorded. 
+● The sentences were designed to reflect processing of semantic meaning, and were expected to elicit an N400 brainwave, or processing of grammatical structure, and were expected to elicit a P600 brainwave. 
+What the researchers found
+ 
+● Group-level analyses showed a P600 for native and nonnative grammar processing, with an N400 observed for native language semantic processing and no comparable brainwave pattern observed for the nonnative language. 
+● Individual-level analysis revealed that, in the native language, some participants showed P600s while others showed N400s, for both semantic meaning and grammatical structure; this overall pattern of variability was similarly observed for participants’ nonnative language processing. 
+● Some of the variability in the nonnative language was related to nonnative fluency and grammar knowledge. 
+Things to consider
+ 
+● The group-level analysis did not fully reflect how individuals within the group were processing semantic meaning and grammatical structure, either in their native or nonnative language. 
+● Group-level analysis obscured aspects of semantic processing in the nonnative language in particular. 
+● Additional work on individual ERP variability is needed to continue unpacking how native and nonnative language compare.  

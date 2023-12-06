@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+ Child and adult language acquisition may be different from each other in many ways. For example, adults are likely to become aware of grammatical patterns in languages they learn. Some theories even suggest that such awareness is necessary for learning. But children are thought to learn language implicitly, unaware of grammatical patterns. Indeed, awareness has played no role in theories of child language acquisition to date. But that could be because it is difficult to measure awareness in children. Unlike adults, they cannot put their knowledge of language into words. In this paper, we present a new experimental method that assesses whether kindergarteners develop such awareness. We used a behavioral measure of awareness, and found that children were sufficiently aware of their language knowledge to make strategic decisions about the language. We argue that if researchers use such a method, young children might show awareness of grammatical structures. 
+What the researchers did
+ 
+● 63 children in kindergarten (aged from 4 years and 3 months to 6 years and 10 months) were asked to learn a novel artificial language in approximately 20 minutes. They saw pictures and heard sentences like: Maria rigarda tra zambo (Maria eats [an] apple[s]) and Julia rigarda pli bovo (Julia eats strawberries). The word pli indicated the noun was plural; the word tra could be used before singular and plural nouns. 
+● After hearing the language, children’s knowledge of these plural markers was tested: children heard a sentence from the artificial language and had to pick either a picture with a single or with a plural noun. 
+● In this test, the sentences with pli were easy if you had picked up that pli always indicated a plural noun; other sentences were difficult because they used tra and that didn’t help decide which picture was correct. 
+● In the final part of the experiment, children would obtain a reward for giving a correct answer. However, they were also allowed to ‘gamble’: they could opt out of giving an answer to obtain a smaller reward. 
+● If children developed awareness of the plural marker, they should opt out when hearing a difficult sentence (with tra), because of uncertainty, but they should try to answer when hearing an easy sentence (with pli), because they could be certain that a picture with a plural noun would be the right one. 
+What the researchers found
+ 
+● In our experiment, kindergarteners demonstrated knowledge of the plural marker; they were able to acquire it in the limited time they had, though this was not entirely statistically reliable. 
+● When asked directly about it, however, they were unable to describe the rule. 
+● Their gambling behavior showed evidence of strategic behavior, suggesting that at least some children were sufficiently aware of their language knowledge to use it to maximize their reward. 
+Things to consider
+ 
+● Using a task that doesn’t require children to put their knowledge into words, this study suggests that awareness might also play a role in child language learning. Measuring such awareness is challenging and requires the use of methods that enable children to reveal their awareness behaviorally. 
+● New measures of awareness allow us to address new questions: Is some degree of awareness necessary for learning in children? Do all children develop awareness or do certain characteristics determine if they will? 

@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ Because the majority of the world’s population speaks more than one language, it is important to understand how bi- and multilinguals acquire new linguistic systems. In order to contribute to this knowledge, we investigated how bilinguals use their preexisting grammars when they are exposed to a new language. We focused on how the linguistic input from the new language alters the trajectory of crosslinguistic influence at a very early stage of the acquisition process. We found that the bilinguals are influenced by both of their previously acquired languages, and we discuss these results considering contemporary models of third language acquisition. 
+What the researchers did
+ 
+● We tested 120 adult Norwegian–English bilinguals who had Norwegian as their first language and English as their second language, introduced in school from ages 5–12 years. 
+● The participants were exposed to, trained on, and tested in an artificial language. 
+● We randomly assigned each participant to one out of four artificial languages that varied in linguistic similarity to Norwegian and English (Norwegian-based vocabulary and neutral or English sentence structure; English-based vocabulary and neutral or Norwegian sentence structure). 
+● We tested the participants’ word order preferences in the artificial language by means of an acceptability judgement task. The word order was either English-based or Norwegian-based. 
+● We analyzed the data in order to test whether the participants behaved differently depending on the artificial language to which they had been exposed. 
+What the researchers found
+ 
+● We found that the participants behaved differently depending on the nature of the artificial language. 
+● When the artificial vocabulary was English-based, there was a clear preference for English-based word order, even when the sentence structure indicated a similarity to Norwegian. 
+● When the input was unambiguously similar to Norwegian, there was a clear preference for Norwegian-based word order, but more variation occurred in the presence of English-based sentence structure. 
+Things to consider
+ 
+● We argue that our findings indicate that learners are sensitive to fine-grained linguistic cues in the input of a new language that can trigger crosslinguistic influence from both previously acquired languages, even after minimal exposure to the target language. 
+● We argue that the study supports models of third language acquisition that predict simultaneous crosslinguistic influence from both preexisting grammars. 
+● To investigate how the acquisition process develops over time, it would be advisable to apply a longitudinal design. 

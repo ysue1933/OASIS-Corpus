@@ -1,0 +1,22 @@
+
+What this research was about and why it is important 
+ The number of learners of Chinese language has increased worldwide in recent years. Additionally, technology has been integrated across many dimensions of life and educational environments especially during the COVID-19 pandemic. However, the existing number of systematically analyzed literature on technology mediated learning of Chinese as a foreign language is limited. This study systematically reviewed 71 research papers (68 empirical studies and 3 review articles) published between 2008 and 2022 in the field of technology mediated Chinese as a foreign language learning. It synthesized the theoretical underpinnings, research methods, and affordances and limitations of the literature in the past 15 years. This analysis also identified a clear research gap in relation to young learners as well as higher language proficiency levels learners of Chinese language. Key affordances which technology offered individuals in the context of learning Chinese were categorised as: increasing active engagement; expanding authentic communication opportunities; focusing on learners’ needs; developing both language and intercultural communicative competences. 
+What the researchers did
+ 
+● They found 239 papers across four databases and carried out a manual search process of 7 Computer-Assisted Language Learning specific journals. 
+● They conducted two steps of reviewing: title and abstract screening; full text screening. 71 research papers were included for a final review synthesis. 
+● They extracted relevant information from 71 articles which included publication details, study design information, utilized technology details, and participant information. 
+● They conducted a qualitative synthesis of research findings across the 71 articles. 
+What the researchers found
+ 
+● The majority of studies were in a formal education context across Anglosphere countries predominantly within higher education institutions and most commonly with beginner-level learners. It identified a clear research gap in relation to young CFL learners in the literature. 
+● A mixed-methods approach was the predominant research method, with a small number of experimental or quasi-experimental studies from 2008 to 2022. 
+● The developmental trends of technology mediated Chinese as a foreign language learning were reviewed over five-year increments: text-based tools were predominated (2008-2012); videoconferencing, mobile applications and course management system were widely deployed (2013-2017); utilizing multiple digital platforms and social networking applications especially WeChat were increasingly investigated (2018-2022). 
+● Critical challenges and limitations were addressed, such as time lags and delays, increased teacher workload for planning and preparation, increased skills requirements of teachers and students, increased levels of anxiety among learners. 
+Things to consider
+ The review findings have generated the following recommendations for future research and teaching practice: 
+● Broaden the scope of research to incorporate more studies with younger learners and learners at higher language proficiency levels. 
+● Use established benchmarks to report learners’ Chinese language proficiency in order to facilitate comparison of results across studies. 
+● Consider experimental study designs and include explicit details on tasks mediated by technology. 
+● Ensure that training is available to different participant groups (e.g. leaners, native speaker partners, teachers) in each stage of tasks (before/during/after). 
+● Consider integrating technology applications in and out of class learning. 

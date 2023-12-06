@@ -1,0 +1,22 @@
+
+What this research was about and why it is important 
+ In instructed second language (L2) learning contexts, teachers are usually one of the most critical sources of language input. Previous studies on L2 vocabulary learning have suggested that teachers’ verbal lexical explanation (TVLE) assists learners to develop L2 vocabulary knowledge more than when teachers do not provide such explanations. These studies have generally investigated L2 vocabulary learning in the context of meaning-focused activities (e.g., reading or listening comprehension), where the learning aims are to comprehend the target text, as well as to learn the words included in that text. Some of these studies have also examined whether the language of teachers’ lexical explanation would make any difference, comparing L2 explanations with first language (L1) explanations. To synthesize the previous findings of these studies, we conducted a meta-analysis of 14 empirical studies selected using a careful procedure. The findings of the meta-analysis indicated that the TVLE condition was more effective than the control condition when no TVLE was provided. Our results also show that explanation in L1 was more effective than explanation in L2. 
+What the researchers did
+ 
+● We screened 153 potential studies on TVLE, and, from these, selected 14 rigorous experimental studies. 
+● The selected studies had a combined total of 3,304 participants. 
+● Characteristics of the studies were coded as follows: participants’ L2 proficiency; type of teachers’ verbal lexical explanation; input mode (i.e., listening or reading); when the TVLE was delivered for instruction (i.e., during or after reading or listening to the target text); whether the written forms of the target words were provided; the ratio of target words to the total words of the listening or reading texts; length of instruction; and format of vocabulary tests (recognition [choose the meaning from options] or recall [produce the meaning]). 
+● For the subset of the studies that included the TVLE and control conditions, we calculated effect sizes by subtracting the scores in the control condition from those in the TVLE condition, such that a positive effect size indicated that providing TVLE was more effective than no TVLE. 
+● For the studies that compared TVLE in L1 with TVLE in L2, we calculated effect sizes by subtracting the scores in TVLE in L2 condition from those in TVLE in L1 condition, such that a positive effect size indicated that the L1 explanation was more effective than the L2 explanation. 
+What the researchers found
+ 
+● Previous studies on TVLE have mainly targeted the link between the form and meaning of L2 vocabulary. 
+● Overall, TVLE resulted in more vocabulary gains than no explanation, both in the short- and longer-term (i.e., at posttests and delayed posttests), in the context of meaning-focused (i.e., comprehension) activities. 
+● TVLE in L1 was more effective than TVLE in L2 for L2 vocabulary development. 
+● TVLE seemed to be more effective when recall was tested than when recognition was tested. 
+● Other factors such as mode, when the TVLE was delivered for instruction, and length of instruction did not influence the effectiveness of TVLE. 
+Things to consider
+ 
+● L2 teachers should not be discouraged from explaining unknown vocabulary in their learners’ L1 in the context of meaning-focused activities. 
+● The results of the study need to be interpreted with caution, as the total number of studies included in this meta-analysis was small (14 studies). Thus, we recommend more (quasi-) experimental studies examining the effects of TVLE and continuous meta-analytic efforts investigating TVLE. 
+● One potential direction for future research is to examine the effects of TVLE on other aspects of vocabulary knowledge, such as the multiple meanings of a word and its association with other words. 

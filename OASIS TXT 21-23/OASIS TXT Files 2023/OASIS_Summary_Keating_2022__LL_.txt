@@ -1,0 +1,18 @@
+
+What this research was about and why it is important 
+ Heritage speakers (HSs) are early bilinguals who learn a minority language spoken at home and a majority language spoken in the community. HSs exposed to a majority language early in life (simultaneous bilinguals) receive less input in the minority language than do monolinguals in that language and, therefore, are predicted to exhibit more difficulties in the minority language than do HSs exposed to a majority language later in childhood (sequential bilinguals). For child and adult HSs of Spanish, gender agreement (e.g., whether an adjective is marked to reflect the gender of the noun) is well documented to be difficult. However, research has not examined whether the age when bilingualism starts (i.e., ‘onset age’) plays a role in HSs’ ability to acquire gender agreement. Even less well understood is how HSs process gender agreement during comprehension in ‘real-time’. This study addressed these gaps by (a) incorporating onset age of English (majority language) into the research design and (b) using eye tracking, a research method capable of detecting subtle effects during comprehension. The results showed that early sequential HSs computed gender agreement on the same time course as Spanish speakers raised monolingually, whereas simultaneous HSs showed a delay, confirming the need to consider onset age in studies of the linguistic outcomes of HSs. 
+What the researchers did
+ 
+● Adult HSs of Spanish exposed to English at different ages (0–3, 4–6, 7–10 years) and a group of monolingually raised Spanish speakers read Spanish sentences and answered comprehension questions about them. 
+● Sentences contained correct and incorrect instances of gender agreement between nouns and adjectives (e.g., árboles 
+● altos “tall trees” vs. *árboles altas). In some sentences, nouns and adjectives appeared adjacent to each other as in the preceding examples, whereas in other sentences, a word occurred between them (e.g., árboles muy altos “very tall trees” vs. *árboles muy altas). 
+● While participants were reading, their eye movements were monitored using eye-tracking equipment that records how long readers fixate (i.e., focus their gaze on) each word in a sentence. 
+● Fixation times on adjectives, divided into early and later measures, were the focus of analyses: Longer fixation times on correct versus incorrect adjectives were taken as indices of sensitivity to errors in gender agreement. 
+What the researchers found
+ 
+● HSs were sensitive to gender agreement violations in their minority language regardless of onset age and the proximity between the noun and the adjective. 
+● However, HSs exposed to English later in childhood (ages 4–6 years) showed sensitivity to gender violations in earlier measures of fixation time than did the HSs exposed to English earlier in life (ages 0–3 years). 
+Things to consider
+ 
+● Longer exposure to the heritage language as a monolingual benefitted the processing of the heritage language’s grammar in adulthood. 
+● More research is needed to understand how HSs’ linguistic experiences (e.g., their current and cumulative exposure to and use of the minority language) impact acquisition and use of their minority language. 

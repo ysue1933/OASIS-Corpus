@@ -1,0 +1,24 @@
+
+What this research was about and why it is important 
+ Memorization has always been a commonly adopted L2 learning strategy for English prepositions. However, such a learning approach fails to promote deeper conceptual understanding, making full mastery seems unattainable. The current experimental study set out to investigate whether, to what extent, and how different types of computer-based training (i.e., animated schematic diagrams with cognitive-linguistics (CL)-inspired feedback, rules and exemplar feedback, as well as correctness feedback indicating correct or wrong) could improve the L2 learning of prepositions. The training format of the computerized program was motivated by minimal pair design where a learner’s attention was selectively drawn to differentiating the most competing preposition usages (e.g., she waved at the flies vs. she waved to the flies). The findings found that the group receiving CL-inspired feedback showed the most improvement. Interestingly, it’s worthy of note that such superiority effects could only be captured by a production-based test, but not a reception-based test.  
+What the researchers did
+ 
+● 71 Chinese-speaking undergraduate learners (experimental groups: n = 57; control group: n = 14) aged between 18 to 19 without any immersion or study abroad experience. 
+● Receptive and productive knowledge of three target prepositions, in, at, and over, are elicited via an untimed grammaticality judgement test and a picture elicitation test respectively. 
+● A total of 12 preposition usages from the three target prepositions were selected and paired up based on their spatial and non-spatial meaning (e.g., in the kitchen and in love). 
+● 60-minute computer-based training on six spatial and six non-spatial preposition usages was provided to three experimental groups receiving different types of feedback via the English Preposition Tutor, a computerized tutorial system. 
+● I examined the extent to which CL-inspired feedback could facilitate improvement on the learning of English prepositions as compared to more traditional feedback types, including rules and exemplar feedback, as well as correctness feedback. 
+What the researchers found
+ 
+● All computer-based training promoted significant and sustainable learning across experimental groups. 
+● The CL-inspired training showed the most improvement across experimental groups at posttest and delayed posttest. 
+● At the picture elicitation test, the CL-inspired training group significantly outperformed the two traditional groups after training. 
+● No significant difference was found across the experimental groups at the untimed grammaticality judgment test. 
+● The CL-inspired training group significantly outperformed one of the traditional groups on spatial usages of prepositions at the posttest. 
+Things to consider
+ 
+● The current study provides additional evidence for the pedagogical potential of CL-inspired approach on teaching English prepositions under the computer-assisted language learning environment.  
+● The CL-inspired training group outperforming the two traditional training groups at the production-based test supported that the animated schematic diagrams help promote deeper processing of preposition meaning. 
+● The lack of significance difference between experimental groups at the reception-based test showed that both CL-inspired, as well as the traditional approaches are generally beneficial to enriching receptive knowledge. 
+● To gain a more holistic understanding of language development, different types of assessments should be included in future studies.  
+● The efficacy of the CL-inspired training should be further investigated under the physical language learning environment (i.e., whether the computer-based training tutor could serve as a good complement to support preposition learning in L2 classroom settings). 

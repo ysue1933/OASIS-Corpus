@@ -1,0 +1,18 @@
+
+What this research was about and why it is important 
+ Educators, teachers, and psychologists involved in special education need to know how young people with intellectual disabilities (ID) are likely to develop. The purpose of this study was to determine whether the development of the comprehension of grammar differs in young people with and without ID. Specifically, the study looked at how well participants with and without ID were able to understand the same sentences. It was found that the development of their knowledge of syntax is highly similar across young people with and without ID. 
+What the researchers did
+ 
+● Participants were 615 young people with ID of various types, aged 5 to 20 years; and 615 participants without ID aged 2.5 to 6.5 years. All were from French speaking families. 
+● All participants did two tests: (1) A test of nonverbal cognitive level (nonverbal intelligence), in which participants detected visual patterns. (2) A grammar test to measure understanding of various sentence types read out loud to the participants (92 items covered nouns, verbs, adjectives, two- or three-element combinations, negative sentences, reversible active sentences, singular/plural noun inflections, reversible passive sentences, embedded sentences). 
+● Analyses of the grammar test scores examined whether sentence understanding progressed in the same way when the two groups had the same nonverbal cognitive levels. 
+● The analyses focused on the total score of the syntax test but also on each of its 92 items separately in order to obtain a detailed picture the development of grammatical understanding, in view of the participants’ cognitive levels. 
+What the researchers found
+ 
+● Results showed that as our participants' nonverbal cognitive level increased, their grammar level improved. This positive relationship between grammar and nonverbal cognitive level was very strong, and held for both groups of participants: The two groups’ total scores on the syntax test developed along highly similar curves as their respective cognitive levels developed. 
+● The analyses conducted on each type of sentence separately also showed highly comparable developmental curves across the two groups, almost regardless of the type of grammar being tested. 
+Things to consider
+ 
+● The strong positive relationship between understanding grammar and nonverbal cognitive level suggests the interdependence of these two aspects of psychological development for our participants with and without ID. 
+● The similarity of developmental curves could also suggest that the processes underlying syntactic processing may also be similar across the two samples of participants. 
+● This finding could be important for practitioners who are looking for evidence-informed interventions. If it is true that the processes involved in syntactic processing are comparable in children with and without ID, then this could question the need to develop specific modes of intervention. Although potentially interesting from the perspective of inclusive schooling for youths with ID, this implication requires further investigation with more fine-grained attention on different types of ID and also intervention studies. 

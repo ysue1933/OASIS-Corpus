@@ -1,0 +1,16 @@
+
+What this research was about and why it is important 
+ While the world population is increasingly becoming multilingual, there is very little research on how multilinguals understand words and sentences during real-time processing. Instead, most accounts of multilingualism focus on acquisition (rather than processing) and collect untimed evidence. To help bridge this gap, this article reviews existing accounts of multilingualism and puts forth ideas to help derive processing predictions in future studies. 
+What the researchers did
+ 
+● We reviewed studies that investigated how the two languages of bilingual speakers interact during the real-time processing of words and sentences. 
+● We then reviewed theoretical accounts and empirical studies on multilingual speakers, which investigated possible interactions between two or more languages at the word and sentence level. 
+What the researchers found
+ 
+● Interactions between languages during processing are less pervasive than previously thought. In bilingual studies, crosslinguistic interactions are more attested in word than sentence processing. It is unknown whether a similar contrast holds in multilingual processing. 
+● To formulate theories of multilingual processing, researchers need to articulate explicit assumptions about how learners’ grammatical knowledge informs the real-time mechanisms used to process language. 
+
+Things to consider
+ 
+● Multilingual processing is an exciting new field of research, but presently there are too few empirical studies to assess whether it differs from bilingual processing. 
+● There is currently a gap between theories of multilingual acquisition, which discuss the type of untimed knowledge that multilinguals may have, and the evidence obtained in studies measuring how people use their languages in real-time. If researchers want processing evidence to inform acquisition theories, they need to formulate explicit hypotheses about how linguistic (untimed) knowledge affects learners’ real-time processing mechanisms. 

@@ -1,0 +1,23 @@
+
+What this research was about and why it is important 
+ Traditionally spelling is neglected in oral vocabulary teaching and learning. Previous research suggests that exposure to the spellings of words facilitates English-speaking children and adults’ ability to remember the pronunciations and meanings of new English words being learned when recall is tested without spellings. This effect of spellings on vocabulary learning is referred to as orthographic facilitation. Despite the growing evidence of orthographic facilitation in learners of Roman-based scripts, whether such findings apply to second language learners learning a non-alphabetic language is unknown. The present study investigated the effects of exposure to Chinese orthography on learning the pronunciation of new words in learners of Chinese as a second language. This research topic is of theoretical interest given the differences in the orthography-phonology/semantics correspondence rules in Chinese and English. Results showed no orthographic facilitation when there was exposure to phonologically accurate and semantically transparent characters during learning, but exposure to characters with partial phonological information and semantically opaque characters hindered vocabulary learning. 
+What the researchers did
+ 
+● 30 adult learners of Chinese with intermediate and advanced Chinese proficiency levels were taught the associations of 15 single-syllable spoken labels with pictures of novel objects over three trials. 
+● Pictures were paired either with phonologically accurate characters (Characters have the same pronunciation as , phonetic radical 可, /kě/, corresponded to the syllable /kě/.), their phonetic radicals, e.g., a regular character
+characters with partial phonological information (Characters have the same rimes but different onsets as their , phonetic radical 哥, /gē/, corresponded to the syllable /kě/.), or phonetic radicals, e.g, a semi-regular character
+no orthography (Pictures were presented without any character.). 
+● Half of the phonologically accurate or partially accurate characters were semantically transparent (Semantic radicals provide conceptual categories or are directly related to character meanings, e.g., a transparent character
+, semantic radical 衤, cloth, corresponding to the picture cloth.) or opaque (Semantic radical provide no related , semantic radical 扌, hand, corresponding to the information about character meaning, e.g., an opaque character
+pictured fire.). 
+● Participants recalled spoken labels without orthography presence after each learning trial. 
+● Three learning trials and three test trials were interweaved. 
+What the researchers found
+ 
+● Exposure to phonologically accurate and semantically transparent characters during learning did not enhance the recall of the spoken labels compared to no orthography. 
+● Exposure to characters with partial phonological information and semantically opaque characters hindered vocabulary learning. 
+Things to consider
+ 
+● Incongruent orthographic information interferes with the development of phonological representations for newly-learned words in adult L2 learners. 
+● Orthography-semantic congruence also plays a role in oral vocabulary learning for learners of Chinese as a second language. This finding is novel since Chinese provides unique opportunities to manipulate orthography-semantic congruence. 
+● Interference of semi-regular characters and opaque characters suggest that language teachers should consider carefully whether both oral and written forms of a word should be presented to learners of L2 vocabulary learning. 

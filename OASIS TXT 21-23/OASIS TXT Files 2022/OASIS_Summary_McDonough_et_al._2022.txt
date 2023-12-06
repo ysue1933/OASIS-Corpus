@@ -1,0 +1,22 @@
+
+What this research was about and why it is important 
+ Nonverbal behavior is considered an important aspect of conversation. Previous research has shown that speakers tend to match the behaviors, postures, or mannerisms of their conversation partners unintentionally. Also, there is a bidirectional relationship between behavior matching and how interlocutors feel about each other. Drawing on corpus data of paired conversations between English as a second language (L2) university students, this study explored the relationship between their behavior matching and perceptions about their partner’s collaboration and motivation. The results revealed that nonverbal behaviors involving hand, head, and face movements were most frequent in their conversations, but only hand behavior matching predicted motivation ratings. These findings extend those of prior studies that demonstrated a positive relationship between behavior matching and positive interlocutor perceptions such as likability, friendliness, and trust. An implication of the findings is that behavior matching might impact the assessment of L2 speakers’ interactional competence during interviews, oral exams, or group projects. Instructors may find it useful to monitor behavior matching during pair and group interactions to decide whether to check in on their conversations. 
+What the researchers did
+ 
+● 51 paired conversations of L2 English university students were sampled from an existing corpus. 
+● The students (N = 102) carried out a 10-minute personal discussion task with an interlocutor from a different first language (L1) background. 
+● The students had a mean age of 24.6 years and spoke various L1s, including Mandarin, Spanish, French, and Farsi. 
+● After the discussion task, the students used 100-point rating scales to evaluate their partners’ motivation and collaboration. 
+● Video-recordings were analyzed to identify nonverbal behaviors in five categories: Face (e.g., eyebrow movements, smiling, frowning, or mouth movements), Head (e.g., nods, tilts, or shakes), Posture (e.g., leaning forward or backward, or shifting positions), Hand (e.g., beat gestures, metaphor gestures, and deictic gestures), and Self-adaptation (e.g., scratching or touching body area, twisting hair, crossing arms, or tapping fingers). 
+● Each nonverbal behavior was coded as being matched or unmatched based on whether the interlocutor mimicked it within five seconds. 
+What the researchers found
+ 
+● The students generally had positive views of each other’s collaboration and motivation. 
+● During conversation, they engaged in head, hand, and face movements most frequently. Self-adaption and posture movements occurred less frequently. 
+● Face movements were matched most often followed by hand movements. 
+● The behavior matching categories were not related to the collaboration ratings, but hand behavior matching predicted motivation ratings. 
+Things to consider
+ 
+● It is not possible to identify whether hand behavior matching led to higher motivation ratings or if high motivation caused hand behavior matching.  
+● Since nonverbal behavior was the main focus of this study, researchers did not consider whether behavior matching co-occurs with verbal information. 
+● Future studies are needed to investigate behavior matching in both classroom-based paired conversations and higher-stakes interactions (e.g., IELTS) to identify the association between behavior matching and scores. 

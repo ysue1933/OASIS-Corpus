@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+ Research has shown that when individuals learn new words, a period of consolidation (e.g., sleep) aids the association of the new words and their meaning with known word meanings in the brain. Given that adults continue to learn new words even after they have gained fluency in a language, it is important to examine how different training regimes impact novel word learning in adults. In this study, the impact of images on novel word learning was examined by training young monolingual adults on one set of novel words paired with novel definitions and images on Day 1 and another set on Day 2. These participants (the definition-image group) were tested on all the words immediately after learning (Day 2) and one week later (Day 8). Tests included a definition recall test, a multiple-choice test, and a relatedness judgment test. Brain activity was recorded during the relatedness judgment test. A previous study (by Liu & Van Hell, 2020) had trained and tested participants with the same design, but their participants were only exposed to definitions during the learning (the definition-only group). We compared the definition-image and definition-only groups and found that the definition-image group performed better in the definition recall and semantic judgment test, but there was no brain activity difference between the two groups. 
+What the researchers did
+ 
+● Thirty-three participants (the definition-image group) were trained on novel (made up) words (e.g., ‘jabary’) paired with novel definitions (e.g., a car with two wheels that can move under water) and matching images. 
+● Participants were trained on one set of new words on Day 1 and a different set of new words on Day 2. 
+● Participants were tested on all trained words on Day 2 and on Day 8. 
+● Brain activity was also recorded during the testing sessions on Day 2 and Day 8. 
+● Test outcomes of the definition-image group were compared with the test outcomes of the definition-only group from a previous study (Liu & Van Hell, 2020). 
+What the researchers found
+ 
+● After one-night of sleep, brain activity of novel word meanings learned on Day 1 showed brain activity reflecting association of novel words with existing words, but that was not the case for words learned on Day 2. 
+● The definition-image group and the definition-only group did not show differing brain activity when tested on Day 2 or Day 8. 
+● The definition-image group showed better performance in the definition recall and the relatedness judgment test than the definition-only group. 
+Things to consider
+ 
+● Images appear to have facilitated encoding and might be an efficient memory retrieval cue that facilities the recall of novel word meanings. 
+● Additional training might be needed to see differences in brain activity between the two training paradigms. 

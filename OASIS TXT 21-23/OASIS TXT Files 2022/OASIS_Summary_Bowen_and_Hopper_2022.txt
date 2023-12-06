@@ -1,0 +1,21 @@
+
+What this research was about and why it is important 
+ Inclusivity and equality in this paper refers to the inclusion of a broad range of people in images. Specifically, it investigates if racial identities are represented fairly and equally in five popular language learning textbooks, and discusses how such things might be quantified (e.g., population proportionality). The authors argue that ensuring inclusivity and equality in textbooks is important because such materials can (a) (re)enforce ideologies in hidden ways; (b) give learners a biased version of reality; and (c) motivate/demotivate learners whose own identities are favorably/unfavorably represented. Using measures of presence (frequency of occurrence), salience (size of image), and image composition (how people were presented in images in terms of eye contact, framing, and camera angle), the study found that images of White people were the most frequent and took up the most space in each textbook. However, the study also showed how the composition of images varied widely between textbooks, which the authors link to how an image is being used (e.g., as part of a dialogue exercise or to illustrate an activity). 
+What the researchers did
+ 
+● The study counted and categorized images of people in textbooks where racial identity was visible from facial features and skin color. 
+● Race was categorized as White, Black, East Asian, or Other. 
+● Racial identities in images were explored in terms of three measures: frequency of occurrence, size of image, and image composition (eye contact, framing, and camera angle). 
+● For example, the image on the right would be one White individual, small size, absence of eye contact, long shot, and oblique + eye-level camera angles. (Image used with permission from unsplash.com) 
+What the researchers found
+ 
+● White individuals were the most frequent in each textbook, ranging from 59.5% to 75.26% of total individuals counted. 
+● Images of Black and East Asian individuals were far less frequent, with overall figures of 12.38% and 9.71%, respectively; Others were also underrepresented in terms of presence (10.01%) 
+● In terms of image sizes, White individuals took up most of the space, being present in more large and medium images than the other three races combined; Other individuals were rarely found in larger sized images. 
+● In terms of image composition, there was no clear pattern across the textbooks; however, the five most frequent types of images were deemed “neutral” in terms of equality and seemed to reflect the teaching foci of the books (all five books taught listening and speaking skills). 
+Things to consider
+ 
+● The study provides evidence that these five textbooks are not racially inclusive in terms of presence and salience. 
+● The authors’ arguments highlight the importance of moving beyond binaries of Whites versus non-Whites or “people of color”, as well as further highlighting how some textbooks seem to be inadvertently equating Whiteness with speaking English. 
+● By examining the composition of images, the authors argue that some image types are not neutral in terms of how they represent race, and that it is within the scope of these image types that greater equality can be achieved in terms of qualitative representations of race. 
+● The study also recommends that guidelines for inclusivity in images be established by publishers that mirror the existing guidelines for moderating appropriate content. 

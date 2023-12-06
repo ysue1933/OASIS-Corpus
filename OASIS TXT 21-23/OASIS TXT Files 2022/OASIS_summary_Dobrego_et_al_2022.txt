@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+ When we think of language experience, we often consider native speakers to be ‘ideal’ speakers. The native speaker, we think, has perfect knowledge of the language, and speakers or learners of the second language (researchers call them L2 speakers) will never reach it and remain ‘near-native’ at best. In experimental linguistics, if a researcher is not specifically interested in second language acquisition, they are most likely to test their hypotheses on native speakers, almost being afraid to include L2 speakers in the sample. The assumption is that the imperfection in language knowledge will somehow taint the results of the experiment persists. Here, we investigated whether language experience is indeed essential when it comes to listening to speech that we typically hear in conversations in school or work environments. We compared native and non-native speakers of English in how they segment and understand speech in real time and what speech cues they use to extract meaning. We found that the groups aren’t different at all in how well they understand speech or what cues they rely on to break it down into smaller pieces. We suggest that native speakers were not necessarily perfect performers, and that fluent L2 speakers should be equally considered in studies of such kind. 
+What the researchers did
+ 
+● We recruited 27 native and 29 non-native speakers of English. The former participated online (because of COVID restrictions), and the latter – onsite at the University of Helsinki campus, Finland. We tried to find participants with as many different mother tongues as was possible to minimize the one-language effect. 
+● The participants were asked to listen to short speech recordings while seeing the transcript on an iPad screen at the same time. The words in the transcript were separated by the ~ sign. If one taps it, a boundary appears (a black ~ changes to a red |). The task was to segment speech into chunks by tapping on the ~ where one thinks the chunk boundary is. We did not explain what a chunk was and left the participants to freely decide where to put the boundaries. After each extract, we asked a comprehension question. 
+● We used 50 speech recordings of academic English in the experiment. They were of 20-35 seconds long, with everyday vocabulary easy to understand for any experienced listener. 
+● We also checked participants’ level of English after the experiment. 
+What the researchers found
+ 
+● We found that native speakers are not at all different, or ‘better’, than non-native speakers in performing the task. 
+● Both groups relied on the same speech cues: they used syntax and prosody to decide where to place a boundary. For native speakers though, prosody was slightly more important. 
+● Although non-native speakers performed slightly worse in the language test we chose, this did not affect their ability to extract meaning from the speech recordings, which was confirmed by their responses to comprehension questions.  
+Things to consider
+ 
+● In this study, non-native speakers performed as well as native speakers in understanding speech, and they used the same strategies to chunk up speech in real time. 
+● We suggest that native and non-native speakers are interchangeable in studies of this kind, and experimental researchers should include participants with good language capacity independently of their mother tongue. 
+● Importantly, we did not investigate the chunks themselves. Future qualitative studies could explore the degree of similarity in chunks produced by native and non-native speakers, as well as the potential effects of language proficiency more carefully. Material, data, open access article: 

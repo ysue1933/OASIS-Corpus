@@ -1,0 +1,22 @@
+
+What this research was about and why it is important 
+ We conducted this meta-analysis with the hope of gaining a better understanding of the effects of four specific instructional strategies: scaffolding (activating prior knowledge), graphic organizers (tools to visually organize information), interactive read aloud (reciprocal and interactive reading), and leveled questions (using different levels of questions) on English learners’ reading comprehension across English speaking and non-English speaking countries when teachers guide English learners to “learn to read” and “read to learn.” The purposes of this meta-analysis were two-fold: (a) to identify the effects of each of these four instructional strategies on English learners’ reading comprehension; and (b) to evaluate the combined effect of these four instructional strategies when used together on English learners’ reading comprehension. 
+What the researchers did
+ 
+● We reviewed experimental and quasi-experimental studies of reading instruction and instructional strategies for enhancing English learners’ reading comprehension. 
+● A total of 23 empirical studies with an overall number of 2,191 participants met the inclusion criteria. 
+● A random-effects model was utilized because the studies did not share a common effect size due to the characteristics of each study (e.g., school level, sample size, etc.). 
+● We also examined the following moderators that could explain variation between studies: instructional strategy, school level, how long the instruction lasted, English and a second or foreign language environment, and the number of learners in the study. 
+What the researchers found
+ 
+● Across the four instructional strategies for reading with English learners, a strong mean effect size was detected. The four reading strategies had a positive effect on learners’ reading comprehension. 
+● Each of the four instructional strategies by themselves had a positive effect on reading comprehension, with interactive read aloud yielding the largest mean effect size. 
+● The combined effect of these four instructional strategies on reading comprehension was large, suggesting that teachers of English learners could use all four strategies together when reading with English learners. 
+Things to consider
+ 
+● The overall finding supports the notion that when English learners receive reading intervention utilizing any one of these four instructional strategies, they should be able to understand the text more easily, which would boost their reading comprehension as well. 
+● Our finding regarding the combined effect of the four instructional strategies supports previous research (e.g., National Reading Panel, 2000; Tong et al., 2014) that when reading intervention combines multiple instructional strategies, English learners’ reading comprehension can be enhanced.  
+● Regarding school level (elementary school, middle school, high school, university), the progress of reading comprehension is irrespective of students’ school level; therefore, teachers of English learners in all grades can adopt these strategies when reading with their students. 
+● If teachers of English learners plan to implement a one-month reading intervention, the four instructional strategies can still be implemented regardless of the period of intervention duration (a period of less than three months or a period of more than/equal to three months). 
+● Regarding English as a second language (ESL) and English as a foreign language (EFL) environment, the four instructional strategies are beneficial for and applicable to English learners’ reading comprehension no matter where they learn English. 
+● The four instructional strategies are effective for improving reading comprehension for English learners in both small-scale and large-scale studies, regardless of sample size (less than/equal to 60 participants or above 60 participants). Therefore, the number of participants would not influence the effect of the four instructional strategies on English learners’ reading comprehension. 

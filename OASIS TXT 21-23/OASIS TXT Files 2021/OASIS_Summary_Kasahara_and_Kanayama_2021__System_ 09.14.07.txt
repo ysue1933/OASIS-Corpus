@@ -1,0 +1,21 @@
+
+What this research was about and why it is important 
+ Having tests about learned items can enhance long-term memory of these items. This is also the case with vocabulary learning. However, it is important to consider the timing of a test. This study investigated whether a vocabulary quiz should be done before or after a vocabulary review in a lesson following the first lesson when new vocabulary items are introduced. Participants were asked to remember 20 second language (L2 - English) and first language (L1 - Japanese) pairs in the learning session. A week later, one group did a vocabulary review before a vocabulary test, whereas the other group took the test before the review. Unsurprisingly, the former group performed better than the latter group. However, this result was reversed in delayed tests conducted a week later and a month later. Having a review before a test can boost the score in the immediate test, having a test before a review is far more effective for long-term retention. The authors suggest that poor performance in the immediate test can prevent learners become overconfident and help them make a full use of the review afterward. 
+What the researchers did
+ 
+● The 68 participants were Japanese students of English as a Foreign Language, aged 18-22. 
+● All the participants took an English proficiency test. Both groups had equivalent English proficiency. 
+● The participants all learned 20 L1-and-L2 pairs on PowerPoint slides. They were instructed to remember the Japanese meanings of the 20 English words. All 20 target words were low-frequency English words. The researchers confirmed that these words were unknown to the participants through a test at the start of the study. 
+● Participants were assigned to either of the two groups, the Test-Revision group and the Revision-Test group: o A week after the learning sessions the Test-Revision group first completed a L1 meaning recall test (the Initial Test) and then did a review session of the 20 pairs o A week after the learning sessions the Revision-Test group first did a review sessions and then completed the Initial Test. 
+● Both groups completed the same L1 meaning recall test again one week later (Posttest 1) and one month later (Posttest 2). 
+● The researchers also asked the participants whether they had expected a posttest. 
+What the researchers found
+ 
+● The Revision-Test group received higher scores than the Test-Revision group on the Initial Test (47% in the Revision-Test group and 5% in the Test-Revision group). This was not surprising because the Revision-Test group had the review before the Initial Test whereas the Test-Revision group had the test before the review. 
+● In contrast, the Test-Revision group showed more vocabulary gain than the Revision-Test group, both on Posttest 1 (31% in the Test-Revision group and 20% in the Revision-Test group) and on Posttest 2 (25% and 11%, respectively). The retrieval failure by the Test-Revision group in the Initial Test may have prevented them from becoming overconfident and helped them make the most of the review. 
+● The Test-Revision group also had a higher expectancy of a subsequent posttest than the Revision-Test group, which might have helped the Revision-Test group concentrate on the review.  
+Things to consider
+ 
+● Having a test before a restudy can be more effective for long-term retention of learned items than having a restudy before a test. 
+● If you introduce several lexical items in one lesson and conduct a review of these items in the next lesson, you can give your students a vocabulary quiz before the review. 
+● It is crucial to let learners know that experiencing retrieval failures could lead to long-term retention of target items. 

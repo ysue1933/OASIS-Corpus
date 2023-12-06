@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ A construction is a clause-level unit that contains information regarding a form and a meaning of a sentence. For example, the ditransitive construction conveys the meaning of transfer in the form of giver-action-recipient-transferred object as in Tom gave me the ball. For producing a construction, using an appropriate verb is important. For instance, give can appear in the ditransitive construction, but love cannot. While previous studies have looked at adult second language learners’ use of verbs in constructions, little is known about how second language children integrate verbal and constructional information in production. To address this gap in the research, we investigated how child English foreign language (EFL) learners produce verbs in English constructions. We also tested whether learners’ verb-construction usage patterns were different across written and spoken production, and whether their receptive skills (as measured by a reading and listening comprehension task) were related to their use of verbs in constructions. Results from a writing task and a speaking task demonstrated that the EFL participants showed stronger verb-construction association in spoken than in written production, and that the participants with higher receptive proficiency produced more strongly associated verb-construction combinations in writing. 
+What the researchers did
+ 
+● Writing and speaking tasks, along with a receptive task, were administered to 76 Korean‑speaking EFL children. 
+● The strength of the associations between a verb and the construction(s) it was used in was evaluated using three measures. 
+● The strength of association was compared between written and spoken production. 
+● Participants’ receptive skills were considered as an additional variable when their verb-construction association patterns were analyzed. 
+What the researchers found
+ 
+● When speaking, participants used a limited number of verbs in three simple constructions, whereas in writing they used a wider range of verbs in both simple and complex constructions.  
+● Participants with higher receptive proficiency produced more strongly associated verb-construction combinations in writing. 
+● In writing, participants with lower receptive skills often used verbs that did not fit well with the constructions in which they were used. In contrast, those with higher receptive skills were more likely to write verbs that fit well with the constructions in which they were used. 
+Things to consider
+ 
+● These findings suggest that young EFL learners’ use of verbs in constructions is influenced by both production modality (speaking versus writing) and their receptive skills. 
+● The effect of modality may be explained by the different processes involved in writing and speaking (with more time being available in writing) and/or by the type of input that the participants received at school (more written than oral). 
+● The fact that different verb-construction usage in writing was related to better receptive skills suggests that these participants learned to associate verbs with target constructions in more appropriate ways as their proficiency improved. 
+● Further research is required to develop finer-grained approaches to measuring verb-construction association strength.       

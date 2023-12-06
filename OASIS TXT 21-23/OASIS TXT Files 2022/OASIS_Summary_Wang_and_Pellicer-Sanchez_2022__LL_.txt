@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ Language learners can expand their vocabulary knowledge through watching subtitled foreign language videos as entertainment. Bilingual subtitles, which simultaneously present the first language (L1) subtitles and captions (in the second language, L2), have become particularly popular in certain contexts. Despite their popularity, very little is known about their effectiveness for vocabulary learning or how learners make use of the different information presented. This research investigated the relative effects of bilingual subtitles for vocabulary learning compared to other kinds of subtitles. Moreover, learners’ eye movements on the unknown words and L1 translations were recorded to explore how learners distributed their attention during viewing. The relationship between eye movements and word learning gains was also investigated. Bilingual subtitles were more effective than other subtitles for facilitating the learning of word meanings, and the learning gains were higher when longer time was spent processing the L2 unknown words during viewing. 
+What the researchers did
+ 
+● 112 adult Chinese L2 speakers of English completed three vocabulary tests before and after watching an English video clip in one of four subtitling conditions. Their eye movements were recorded during viewing.  
+● Three vocabulary tests were used to assess learners’ knowledge of 24 potentially unknown single words that were selected from the video. The tests assessed learners’ ability to recognize the form and meaning of the word and to recall its meaning. 
+● Four subtitling conditions were compared: bilingual subtitles, captions, L1 subtitles, and no subtitles. 
+● Five eye-movement measures were used to capture learners’ processing of the L2 words and L1 translations. 
+What the researchers found
+ 
+● Bilingual subtitles seemed to be superior to other subtitling types in learning word meaning, but they were less effective than captions for learning word form. 
+● When using bilingual subtitles, learners paid more attention to the L1 translations of the unknown L2 words than to the unknown L2 words themselves.  
+● The learners with bilingual subtitles spent more time reading the L1 translations than did the learners in the L1 subtitles group, and they spent less time on the L2 unknown words than did the learners who had captions.  
+● In general, longer time spent on the L2 unknown words was related to higher vocabulary learning gains, whereas longer time spent on the L1 translations of the unknown words did not lead to higher gains. 
+Things to consider
+ 
+● Bilingual subtitles could facilitate the development of meaning knowledge. 
+● However, learners tended to be attracted by the L1 translations in bilingual subtitles, resulting in less attention on the unknown L2 word forms. Therefore, the benefits of bilingual subtitles could be maximized using techniques to direct learners’ attention to the L2 word forms too. 
+● The current findings are limited to proficient learners who already had experience using bilingual subtitles. Care should be taken when introducing bilingual subtitles to learners with different viewing habits or lower proficiency levels.  Materials and data: open access article | materials are publicly available at https://www.iris-database.org. 

@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ A previous study (Birulés et al., 2020) found that when listening to a language that is not their native language, people spend more time looking at the talker's mouth than when listening to their native language. This suggests that visual cues from the mouth, such as lip movements, can be helpful for understanding spoken language, especially for listeners with limited proficiency in that language. Surprisingly, the study by Birulés and colleagues found no differences between listeners with lower and higher proficiency in their second language (L2). This study used a similar procedure, but with different listening materials and different participants. The goal was to see whether the same findings would emerge as in the study by Birulés and colleagues. Results from this new study showed that, like in the previous study, L2 listeners looked more at the talker's mouth than native (L1) listeners, but this was true for only one of the two videos they watched. Unlike in the previous study, lower-proficiency L2 listeners in this study looked more at the mouth than higher-proficiency L2 listeners. This was true for both videos. These findings suggest that it can be helpful to see the mouth of a person speaking, and that being able to see the talker's mouth may be especially important for less proficient listeners. This can be relevant to consider for communication in contexts that involve mask wearing. 
+What the researchers did
+ 
+● 38 self-identified native speakers of English (L1 group) and 45 non-native speakers (most of them Japanese; L2 group) watched two 1-minute videos showing a person talking in English. The person in the first video was someone who grew up speaking only English. The person in the second video was multilingual and considered English one of his native languages. 
+● While participants watched the videos, an eye-tracker automatically registered how much they looked at the talker's mouth. 
+● Participants also completed three tasks to measure their proficiency. 
+What the researchers found
+ 
+● In the first video, there was no difference between L1 and L2 listeners in how much they looked at the talker's mouth. 
+● In the second video (like in the previous study), L2 listeners looked more at the talker's mouth than L1 listeners. 
+● When taking L2 listeners' proficiency scores into consideration, the results showed that the lower their proficiency score, the more they looked at the talker's mouth. This was true for both videos. 
+Things to consider
+ 
+● This study showed that proficiency can affect how much listeners look at a talker's mouth to help them understand what the talker is saying. Listeners with lower proficiency in the language tend to look at the talker's mouth more. 
+● L2 listeners looked at a mouth more than L1 listeners in only one of the two videos in this study. 
+● The relation between L2 proficiency and attention to the talker's mouth was only found when proficiency scores from one of the three proficiency tasks were used. When scores from the other two tasks were used, there was no relation between proficiency and looks to the mouth. 
+● The results from this study, together with those from the previous study by Birulés and colleagues, indicate that many different things influence how much listeners look at a talker's mouth. L2 proficiency appears to be one of them, but not the only one. 
+● Other things that may matter include how fast the the talker is speaking, whether the talker is (perceived as) a native speaker of the language or not, and the content of what they are talking about. More research is needed to uncover under what specific circumstances looking at the talker's mouth can help listeners understand what is being said.  

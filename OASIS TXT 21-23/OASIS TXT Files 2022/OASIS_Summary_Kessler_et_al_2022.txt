@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ Language testing often represents a high-stakes situation for many individuals, with the outcome of a language test affecting peoples’ capacity to attend a certain university, pursue a particular job/career, and more. As such, much research has focused on examining issues related to fairness in language testing. Specifically, numerous writing researchers have investigated the extent to which a language learner’s familiarity with a writing topic may affect their performance on a test. Despite the large number of studies in this area, most studies have suffered from major methodological limitations, in which the design of the research itself may call into question the trustworthiness of the results. The current study highlights this issue by replicating (i.e., duplicating) an influential study by He and Shi (2012), in which the researchers examined the effects of English language learners’ topic familiarity on different measures of their writing (e.g., text quality, and the accuracy and complexity of the language they used).  
+What the researchers did
+ 
+● The researchers recruited 60 English language learners from a university in China, who were preparing to take a national standardized English proficiency test 
+● The students first rated 20 different argumentative writing test prompts using a Likert-scale (a scale of 1-10) to express their (un)familiarity with the prompts 
+● Next, the researchers selected the least familiar prompt and the prompt students were most familiar with, and then students wrote short essays on each of them (and were given 30 minutes per essay) 
+● The researchers analyzed all 120 student essays, and they rated them in terms of text quality, and different measures related to the accuracy and complexity of the language students used 
+● Finally, the authors interviewed 5 students to ask them about their perceptions of writing on both essay topics and the extent to which they felt they were of equal difficulty 
+What the researchers found
+ 
+● The researchers show that in terms of text quality, students performed better on the essay topic they were most familiar with; however, this difference was only apparent when a specific statistical technique was used to analyze the data (as compared to the original study by He and Shi, 2012, which used a different statistical test) 
+● Students’ writing tended to be more complex (syntactically) in the topic they were more familiar with; however, students’ writing tended to be more accurate with the topic they were less familiar with, and they also used more complex, academic words when writing about the less familiar topic 
+● The researchers discuss how many of their results differ from that of He and Shi’s (2012) study, especially in regards to accuracy and complexity, where the original study found the more familiar topic promoted more accurate and complex language 
+Things to consider
+ 
+● For researchers, the authors point out the importance of following certain steps when conducting research and how not performing certain things (e.g., having two raters analyze accuracy) may affect one’s results or call them into question 
+● For teachers, the authors highlight the importance of instructors being careful in the topics they select for testing purposes; in particular, the authors recommend that teachers think about their students’ life experiences and try to select topics that all students are likely to be familiar with 
+● Finally, because of the several methodological issues involved in most prior studies’ designs, the authors close with a call for increased research in the area of topic familiarity, and specifically, for there to be more replications of early topic familiarity studies 

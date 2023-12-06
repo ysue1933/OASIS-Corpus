@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ This research aimed to provide a more nuanced understanding of how bilingualism may impact syntactic processing, that is, the processes that humans use as they understand grammar as it unfolds in real time. Chinese-English bilinguals and English monolinguals within three age groups were compared on three syntactic abilities. The findings suggest a facilitative effect of having learned a L2 on syntactic processing. This benefit was influenced by cross-language differences in syntactic features, age, and the amount of bilingual experience. 
+What the researchers did
+ 
+● We recruited 122 Chinese-English bilinguals and 74 English monolinguals across three age groups—69 primary school children, 54 secondary school adolescents, and 73 undergraduate young adults—to participate in this research. 
+● The participants were tested on their understanding of morphosyntax (e.g., locating and correcting morphosyntactic violations such as ‘Mary learn a new English word last night’), their understanding of word order (e.g., reordering scrambled words and phrases such as ‘fast / can / run / Alice’), and their learning of a new artificial syntax (e.g., distinguishing grammatical from nongrammatical symbol strings generated from an artificial syntax). 
+● Participants’ age, gender, nonverbal intelligence, working memory, and language proficiency were measured and considered in our analysis. 
+What the researchers found
+ 
+● Across the three age groups, the bilinguals performed better than their monolingual peers in understanding morphosyntactic rules that are different in Chinese and English, but not those common to both languages. 
+● The bilingual adults also outperformed their monolingual peers in processing language-specific word-order rules, but not the language-shared ones. 
+● Bilingual advantage was found in learning new syntactic rules within the three age groups. 
+Things to consider
+ 
+● The findings support the idea that bilingualism confers benefits on syntactic processing and provide new insights for characterizing “the bilingual effect” on learning languages. 
+● The bilingual advantage in syntactic processing was not found to be a general one, but was modulated by cross-language differences in syntactic features. 
+● The bilingual syntactic advantage was also influenced by age and, relatedly, the amount of bilingual experience. 
+● Our preliminary findings suggest that variations in bilinguals’ abilities to draw similarities and differences between abstract structures may influence the magnitude of bilingual advantage in language processing. 
+● In designing bilingual programs, educators may consider drawing analogies between L1 and L2 linguistic features. This explicit instruction may train bilinguals to pay special attention to cross-language similarities and differences, cultivating a deeper understanding of the underlying structure of language. 

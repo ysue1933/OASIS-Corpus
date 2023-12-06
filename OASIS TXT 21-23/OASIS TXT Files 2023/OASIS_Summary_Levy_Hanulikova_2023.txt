@@ -1,0 +1,22 @@
+
+What this research was about and why it is important 
+ There is a lack of studies on the effects of long-term exposure to regional and foreign accents on word learning in childhood. Do children who grow up hearing different languages and foreign/regional accents benefit from their experience with variability when learning new words from virtual peers? Using a novel active learning paradigm, the researchers found that primary-school-aged children benefit from long-term experience with different accents when learning words in unfamiliar accents. 
+What the researchers did
+ 
+● 88 German-speaking children (aged 7–11 years, monolinguals and bilinguals) played a computerized card game similar to the popular game Spot It! and learned six German words, technical names of objects usually unknown to children this age. 
+● During the game, players had to find two matching (identical) objects on two cards and to name the object. 
+● The game was prerecorded by child speakers who spoke Standard German, an unfamiliar regional accent (Swiss German), or an unfamiliar foreign accent (Hebrew-accented German). 
+● Children first heard the names of the unfamiliar objects that were introduced by virtual peers in different accents and were then able to actively produce them in simulated interactions with the virtual peers. 
+● The weekly amount of exposure to regional and foreign accents and to different languages was assessed as a continuous variable. 
+What the researchers found
+ 
+● Children who hear both regional and foreign accents in their daily life benefited from this experience when they learned new words from peers speaking unfamiliar accents. 
+● Whereas experience with regional accents alone also predicted learning, experience with foreign accents failed to reach significance. Exposure to different languages (i.e., bilingualism) did not predict learning. 
+● Increased working memory capacity as well as age also predicted better performance at the task. 
+● The novel word-learning game is an engaging and suitable tool to examine learning from (virtual) peers. 
+Things to consider
+ 
+● Unlike in some previous studies, both regional accent and multiple accent exposure predicted word learning in heterogeneous speech input, whereas multiple language exposure (i.e., bilingualism) did not. 
+● Differences between previous studies and our study could be related to exposure being assessed on a continuum rather than as a binary (yes/no) variable. 
+● The Spot It! paradigm is an ecologically valid and engaging tool that can be applied in a range of learning and learner contexts. 
+● Future studies should examine if word learning is influenced by similarities between accents and by potential developmental differences between children and adults in their perceptual flexibility.     

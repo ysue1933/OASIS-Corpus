@@ -1,0 +1,22 @@
+
+What this research was about and why it is important 
+ Given that 10 years have passed since the publication of the most recent synthesis of proficiency assessment standards (Tremblay, 2011), the present review revisited proficiency assessment practices in second language acquisition (SLA) research, with the goal of examining whether the way in which scholars measure and report proficiency has changed. When compared to previous reviews, the current findings suggest that there has been relatively little aggregate change in conventions for assessing second language (L2) proficiency: Institutional status (i.e., learners’ membership in a specific language course within an academic institution) was by far the most preferred means of assessment for L2 proficiency. 
+What the researchers did
+ 
+● We examined studies that were published between 2012 and 2019 in five key journals that publish SLA research. Only studies that met the inclusion and exclusion criteria established by the research team were included. 
+● A total of 500 studies were classified as having used one or more of 10 categories of proficiency assessment methods. 
+● The studies were also coded for various features related to study participants and the research setting and design. 
+● We identified trends in how SLA research has reported the proficiency of L2 learner participants. 
+What the researchers found
+ 
+● Of the 500 studies, approximately 91% of them reported L2 proficiency in some way. 
+● Approximately 42% of the studies assessed L2 proficiency with some sort of proficiency test. 
+● Institutional status was by far the most preferred means of assessment for L2 proficiency. 
+● When compared to previous reviews, there has been little change overall in conventions for assessing L2 proficiency. 
+● Trends in proficiency assessment practices were relatively consistent across several study and research design characteristics. In particular, the use or not of an independent test of proficiency was similar between second language and foreign language contexts. 
+● However, there were some differences observed which depended on the learners’ ages and the target language: Studies of adult learners utilized independent proficiency tests more than studies of child learners; and studies of certain target languages (e.g., English, Russian) demonstrated higher use of independent proficiency test that studies of other target languages (e.g., French, Italian). 
+Things to consider
+ 
+● It is necessary to rely less on the flawed, but practical and often preferred approach to reporting L2 proficiency of simply using institutional status as a proxy. 
+● Researchers should consider using proficiency tools that have been successfully validated in previous studies (e.g., elicited imitation tasks, C-tests) rather than developing their own. 
+● In addition to reporting results of proficiency tests, researchers should provide information pertaining to the test’s origin and development, as well as the validity of its use for the purposes intended and its reliability. 

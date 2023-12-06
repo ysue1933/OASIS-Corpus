@@ -1,0 +1,18 @@
+
+What this research was about and why it is important 
+  Motivation is essential to successful language learning. Motivation can be viewed as a complex dynamic system that is influenced by many factors inside and outside the classroom. It can change as a result of different conditions that learners experience and even small variations can bring about major changes. Since it is highly interconnected and unpredictable, it is difficult to investigate with conventional research methods used by applied linguists in the past. This study used network analysis, to explore the connections between motivational factors, such as experiences, feelings, or events, that may influence students’ willingness to put in effort to learn a language. 
+What the researchers did
+ 
+● 59 students at an English medium university in China were asked to keep a motivational journal for a period of 10 weeks. 
+● The learners recorded their level of motivation on a scale of 0-4 (very demotivated-very motivated) to learn English for Academic Purposes every day. They also provided a short explanation why they selected a particular level. 
+● 1022 motivational factors (e.g., busy, family, feeling happy, assignments, being tired, not enough sleep) were identified from the descriptions and used to create a network that showed their connections with each other. These connections (7,088) were created by association between factors that were cited by learners to justify a particular motivational level on any given day. 
+● Using network analysis software, the researchers generated visual representations of the motivation network and identified its structure, connectivity, and central relational links.  
+What the researchers found
+ 
+● Most motivational factors were both motivating and demotivating, depending on context. Very few were purely motivating or demotivating. 
+● Factors that were mostly motivating were strongly connected to factors that were mostly demotivating. This created a push and pull effect that suggests motivation never settles in a stable state for an extended period of time; motivation levels changed almost on a daily basis. 
+● Motivational factors formed groups within the system and these clusters were connected through factors that acted as bridges. Bridging factors were not cited very often in the journals and neither did they have many connections. Yet, their role was key in providing the structure of the motivation system. The most important factors in the system were assessment, physical health and well-being, and moods and emotions.  
+Things to consider
+ 
+● A complex dynamic system cannot be controlled. However, it relies on and responds to external input. Teachers can select and manipulate input that can guide motivation towards a positive state. 
+● Studying a complex dynamic system is an investigation of becoming, not being. Therefore, dynamic network analysis can be used to understand how motivation changes over a period of time.  

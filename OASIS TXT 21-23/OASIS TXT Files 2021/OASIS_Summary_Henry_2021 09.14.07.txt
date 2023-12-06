@@ -1,0 +1,22 @@
+
+What this research was about and why it is important 
+ Language learners often use different elements in a sentence to understand language than native speakers do. Structured Input (SI) practice can change how learners understand sentences by directing attention toward a targeted grammatical form. In this study, I investigated how SI practice affects the learning of accusative case-markers in German, which help speakers identify who does what to whom. Specifically, I investigated whether SI is more effective if it is preceded by “blocking practice”; that is, if it first tries to turn learner attention away from word order, since overreliance on word order can keep learners from using the accusative case. This training (+BP) was compared to SI practice with grammar explanation (+EI), and SI only. Sentence-level comprehension and production tasks indicated that SI practice was most effective when it included grammar explanation, but that blocking practice lent a slight advantage over the SI only training. Results thus suggest that (a) grammar explanations are effective because they draw attention to the target forms, and (b) blocking practice aids acquisition by helping learners identify and use target forms sooner. 
+What the researchers did
+ 
+● Participants: The participants in this study were third-semester learners of German split into 3 training groups: (1) a Structured-Input only (SI) group; (2) an Explicit Instruction (+EI) group; (3) a Blocking Practice (+BP) group. 
+● Training: Training differed between the three groups. Training consisted of the following components: 
+● Structured Input: All 3 groups completed the SI training. Participants heard 50 subject-first (e.g., Der Hund hört die Katze ‘The dog hears the cat), and object-first sentences (e.g., Den Hund hört die Katze ‘The cat hears the dog’). They saw two pictures representing possible interpretations of the sentence (e.g., the dog hears the cat, and the cat hears the dog). They selected one of the pictures and then saw the correct answer. 
+● Explicit Information: Before completing the Structured Input practice, participants in the +EI group also received information explaining how to use case markers to understand who does what to whom. 
+● Blocking Practice: Before the SI practice, participants in the +BP group completed the blocking practice. Blocking practice helped learners interpret sentences without using word order. Participants heard 30 sentences with one plausible meaning (e.g., Das Spielzeug kauft das Kind) and saw two possible translations (e.g., “The child buys the toy” and “The toy buys the child.”). They selected one and saw the correct answer. 
+● Assessment: The three trainings were assessed using three primary metrics: 
+● Training data: Data from the Structured Input task was scored to determine how quickly participants began 
+● interpreting sentences correctly, or, at what point they first answered 4 items correctly in a row.  Interpretation and Production: In the interpretation task, participants read 6 subject-first and 6 object-first sentences and answered comprehension questions about them. In the production task, they saw 2 three-picture series and wrote a short story about them. These tasks were given before, after, and 4 weeks after training. 
+What the researchers found
+ 
+● Training Data: The +EI group was the fastest to begin interpreting sentences correctly, followed by the +BP group. The –EI group was the slowest to begin interpreting sentences correctly. 
+● The Interpretation task showed that the +EI and +BP groups improved after training and maintained these gains when tested four weeks later. The –EI group also improved after training but did not maintain gains four weeks later. 
+● The Production task: Results showed that the +EI group improved after training but did not maintain these gains four-weeks later. Neither the +BP nor the -EI group improved after training 
+Things to consider
+ 
+● Together, results show that explicit information led to the largest improvements after training. Results also show that blocking practice helps learners find and interpret grammatical cues more quickly and use them more accurately. 
+● This study suggests that explicit information is useful because it helps learners identify the most relevant parts of a sentence and pay attention to them during sentence comprehension. The study also suggests that blocking (inhibition) might be an important, if often overlooked, aspect of learning to interpret sentences correctly. 

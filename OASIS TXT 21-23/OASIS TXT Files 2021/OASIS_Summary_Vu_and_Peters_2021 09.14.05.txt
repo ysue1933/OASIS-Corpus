@@ -1,0 +1,22 @@
+
+What this research was about and why it is important 
+ Collocations are a crucial feature of second/foreign language (L2) proficiency. However, previous research shows that L2 learners, especially those in English as a foreign language (EFL) contexts with limited L2 input, have inadequate knowledge of collocations and have difficulty with learning collocations and using them correctly. A few studies have examined collocation learning from reading, but they mostly involved reading relatively short texts over a short time and have produced inconsistent findings. Also, little is known about collocation learning in different reading modes. The present study was conducted to investigate collocation learning in different reading modes (reading-only, reading-while-listening, reading with textual input enhancement in the form of underlining) as well as factors that may affect learning gains. The study showed that reading mode had a significant effect on collocation learning. The most learning gains were found in reading with textual input enhancement. Reading-while-listening also resulted in more collocation learning than reading-only. In addition, learners with larger vocabulary learned more collocations from reading than learners with smaller vocabulary. Learners also learned more collocations with first language equivalents than those collocations without first language equivalents. 
+What the researchers did
+ 
+● Participants were 100 Vietnamese pre-intermediate EFL learners (15 males, 85 females, aged 18) majoring in different foreign languages (Korean, Chinese, Japanese, German). 
+● Participants were assigned to two groups. In the first group, learners read three graded readers containing 32 target collocations (16 verb-noun collocations and 16 adjective-noun collocations) in three reading modes in different orders: reading-only, reading-while-listening, reading with textual input enhancement over nine weeks. The second group only took collocation tests without exposure to the graded readers. 
+● To test learners’ gains of collocations, a collocation test was used one week before learners read the graded readers and one week after they finished reading the graded readers. The test required learners to translate the target collocations from Vietnamese into English. 
+What the researchers found
+ 
+● Only the participants who read the graded readers improved their collocational knowledge while those without exposure to the books did not show any gains of target collocations. 
+● Reading with textual input enhancement resulted in more collocation learning than both reading-while-listening and reading-only. 
+● Reading-while-listening was also more effective for collocation learning than reading-only. 
+● Learners with more vocabulary knowledge picked up more collocations from reading than those with less vocabulary knowledge. 
+● Collocations that could be translated literally from Vietnamese into English were better learned than collocations that did not have Vietnamese equivalents. 
+Things to consider
+ 
+● The study showed that all three reading modes resulted in significant gains of collocations. This indicates that extensive reading in any mode could be a potential source to improve learners’ collocational knowledge. 
+● Reading with textual input enhancement was the most effective reading mode for learning collocations, followed by reading-while-listening. 
+● The study only involved collocations consisting of mostly highly frequent component words; therefore, the results might not apply to other types of collocations, such as collocations with infrequent component words. 
+● The study only investigated the learning of form of collocations. It would be useful for future studies to examine the learning of other aspects of collocations, such as meaning, from different reading modes. 
+● We did not administer tests to check learners’ reading comprehension. Future studies could also examine reading comprehension under different reading modes. Materials and data available from: https://www.iris-database.org/ 

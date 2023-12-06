@@ -1,0 +1,21 @@
+
+What this research was about and why it is important 
+ Researchers believe that teaching new vocabulary before reading makes the new words more salient when reading them and makes them easier to learn. However, we have little actual evidence showing us how learners treat vocabulary when its taught ahead of reading compared to when it is encountered for the first-time during reading. Our study tracked eye movements to assess the amount of attention learners paid to new vocabulary that had been taught before reading a story compared to new vocabulary that was encountered for the first-time in the story. We found that teaching words before reading lead to more word-learning than simply encountering them in a story. In addition, the eye-tracking showed that after seeing the new words several times in the story, words that had been pre-taught were also easier to read for second lanaguge (L2) learners. 
+What the researchers did
+ 
+● Participants were first language (L1) speakers of English (n = 92) and advanced L2 English learners (n = 88), all studying at a UK university. 
+● Participants were assigned to one of four groups: Pre-reading instruction: teaching of six new words + reading a story with those six words repeated eight times each; Instruction-only: teaching of six new words + reading a different text without the new words; Reading-only: reading a story with the six new words repeated eight times each; Reading baseline: reading a story with six known (real, high frequency) words. 
+● The amount of attention that learners paid to the new words during reading (in the pre-reading instruction and reading-only groups) was examined through recordings of their eye movements. 
+● Participants’ knowledge of the new words was measured with three tests: form recognition (selecting the correct spelling); meaning recognition (selecting the correct meaning); meaning recall (giving the meaning). 
+What the researchers found
+ 
+● Pre-reading instruction led to more word learning.  
+● When L1 and L2 readers first encountered the novel words in the story, they paid more attention to them (took longer to read them) compared to known items, regardless of whether they had been taught before or not. 
+● For L1 readers, eye-movements when reading the new words became like eye-movements when reading known words around the third encounter of the word. 
+● For L2 readers, on seeing the new words for the eighth time in the story, they still spent longer reading the new words if they had not been taught beforehand (compared to known words); in contrast, new words that had been taught beforehand were read quite similarly to known words.  
+● No relationship was found between amount of attention to new words (time spent reading) and word learning. 
+Things to consider
+ 
+● The better word learning in the pre-reading instruction group is expected, as participants in this group saw the new words more times.  
+● Participants learned better if the words were taught before the reading, but this was not due to more time spent on the words during reading (when compared to reading without having been taught the words beforehand). 
+● Results are limited to words for concepts that were already known, and do not reflect long-term retention. Materials and data: Materials are publicly available at https://www.iris-database.org. 

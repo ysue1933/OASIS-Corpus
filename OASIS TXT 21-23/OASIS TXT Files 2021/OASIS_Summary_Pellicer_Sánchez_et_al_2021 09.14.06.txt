@@ -1,0 +1,22 @@
+
+What this research was about and why it is important 
+ Understanding many types of texts involves making meaning from multimodal information sources – information presented in a combination of modes (e.g., language, image, gesture, movement, music or sound). Second language (L2) learners are regularly exposed to multimodal texts involving a combination of written text, images, and often auditory (listening) input. However, our understanding of how L2 learners engage with multimodal texts and the relationship with comprehension is limited. In this study, L2 adult learners and L1 adults read and read-while-listening to an illustrated story while their eye movements were recorded. Immediately after reading, they completed a comprehension test. Results showed that the presence of auditory input allowed learners to spend more time looking at pictures and supported a better integration of text and pictures. Despite processing differences, reading and reading-while-listening conditions led to similar levels of comprehension. 
+What the researchers did
+ 
+● Participants were 25 advanced L2 English learners and 22 L1 speakers of English, all studying at university. 
+● Participants read and read-while-listening a short mystery story presented page by page on a computer screen. Each page of the story contained a portion of the story and a corresponding image. Half of the story was presented in the reading-only mode and the other half in the reading-while-listening mode. 
+● The amount of attention that learners paid to the parts of the story (images and text) was examined through recordings of their eye movements. 
+● Participants then completed a comprehension test with 71 questions. There were 60 questions which asked about the understanding of the written text and 11 questions that asked about details presented in the images in the story. 
+What the researchers found
+ 
+● Results showed that readers allocate most of their attention to the written text when engaging with this type of multimodal input. The presence of auditory input leads to more attention to the pictures and a better integration of text and pictures (reflected in the number of times they moved their attention between these two areas). 
+● This study contributes to our understanding of how L2 learners integrate text and pictures in multimodal reading. 
+● Similar levels of understanding of texts were found, regardless of the presence of auditory input. 
+● L2 readers processed multimodal texts in a similar way to L1 readers. However, more attention to the written text was related to worse comprehension for L1 readers but to better comprehension for L2 readers. 
+● The relationship between the time readers spent looking at images and their accuracy on image-related questions showed that adult readers pay attention to the details presented in images in illustrated texts. This finding demonstrates that the potential of images for L2 learning should be exploited. 
+Things to consider
+ 
+● Overall, findings from this study confirm the value of adding auditory input to written texts with imagery to allow language learners to better integrate the text and images without a negative effect on comprehension. 
+● It is important to understand that the results of this study are limited to advanced L2 readers which explains the similar patterns found for L1 and L2 readers. More research needs to be carried out with L2 learners of different proficiencies to gain a full understanding of L2 learners’ engagement with multimodal reading. 
+● The processing patterns reported in this study are limited to multimodal texts where the bulk of the information is presented in the text and future research needs to explore other types of multimodal materials. 
+● The examination of the role of images in understanding a text in this study is limited to a small number of image-related questions and thus to more fully understand the role that images play in text comprehension, research is needed on materials that allow for a larger number of image-related questions. 

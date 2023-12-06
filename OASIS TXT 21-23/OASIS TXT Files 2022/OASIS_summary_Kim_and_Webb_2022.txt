@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ Given the robust effects of spaced practice, in which time or other events occur between repeated practice sessions, on different aspects of learning in cognitive psychology, many studies have been conducted in the field of second language (L2) learning. The present study systematically reviewed 37 L2 studies (providing 98 effect sizes from 48 experiments) of spaced practice to (a) provide a more reliable and informative estimate of its effect on L2 learning than is possible from a single study, and (b) determine the extent to which the effects are moderated by different factors. Results showed that spaced practice had significantly greater effects on L2 learning and retention than when there was no spacing. Longer spacing was more effective for long-term retention than shorter spacing, but there was no difference in learning gains between equal and expanding spacing conditions. Variability in spaced practice effects across studies was explained by several methodological factors (e.g., learning target, number of practice sessions). 
+What the researchers did
+ 
+● The researchers’ comprehensive search for studies on spaced practice for L2 learning found 37 studies satisfying all inclusion criteria. 
+● The 37 studies (providing 98 effect sizes from 48 experiments) were divided into three categories of spaced schedules (i.e., comparisons of: spaced vs. massed; longer spaced vs. shorter spaced; and equal spacing vs. expanding spacing), based on carefully defined category criteria. 
+● The 98 effect sizes were analyzed to examine the extent to which spaced practice affects L2 learning. 
+● The researchers examined which learner-related (age: adult [university students or older] versus younger [Grades 1-12]) and methodological (learning target [vocabulary, grammar, pronunciation], number of sessions, type of practice, activity type, provision of feedback, feedback timing, frequency of practice, and retention interval) variables moderated the effects of spaced practice. 
+What the researchers found
+ 
+● Spaced practice showed greater benefits for immediate L2 learning (g = 0.58, i.e., over half a standard deviation unit) and longer-term (i.e., after a delay of 1 day or greater following the treatment) retention (g = 0.80, i.e., 0.8 of a standard deviation unit) than when there was no spacing. 
+● While shorter spacing was as effective as longer spacing on immediate L2 performance, longer spacing was more effective than shorter spacing for longer-term retention (g = 0.40, i.e., 0.4 of a standard deviation unit). 
+● Spacing effects (longer intervals between encountering the items) on L2 vocabulary were more pronounced when spacing was within a single training session than between multiple training sessions.  
+● Greater retention occurred when longer spacing involved test-restudy trials than study-only trials. 
+● Learning gains were not different between equal and expanding spacing conditions, but the effects of expanding spacing were greater than equal spacing when the retention interval was longer (i.e., when the tests were longer after the last practice or test session). 
+Things to consider
+ 
+● This meta-analysis showed significant effects of spaced practice on L2 vocabulary, grammar, and pronunciation learning. However, the majority of studies examining spacing effects have investigated L2 vocabulary learning and there is a need for more research on the effects of spaced practice on L2 grammar and pronunciation. 
+● Spaced practice benefits L2 learning, but the effects seemed to depend on what is being learnt (e.g., learning target) and how the learning happens (e.g., number of sessions, type of practice). 

@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ Many second language (L2) writers find it difficult to turn ideas into language due to a partial mastery of the L2. This study examined the processes involved when more and less proficient L2 writers produce argumentative and narrative essays and how L2 text quality is related to writing processes. I focused on L2 Chinese writers because Chinese has a logographic writing system (based on symbols that carry meaning) that requires a special method of typing. The findings suggest that (a) L2 Chinese proficiency related positively to the speed of writing, between-word pause duration, between-clause and between-sentence pause frequencies, and phrasal-level revision frequency, (b) proficiency related negatively to within-word and between-word pause frequencies and between-sentence pause duration, and (c) fewer between-word pauses contribute to producing higher quality texts. 
+What the researchers did
+ 
+● Thirty-two L2 Chinese writers with an alphabetic first language (L1) wrote two argumentative and two narrative essays using the Pinyin input method. Pinyin is a Roman alphabet that transcribes the pronunciations of Mandarin Chinese. When typing Chinese using the ‘Pinyin input method’, writers first enter Pinyin letters and then select the target written Chinese character from a fixed set that is offered by the software. 
+● Participants’ writing processes were recorded and analysed in terms of FLUENCY (speed of writing), PAUSING (how frequently writers pause and for how long), and REVISION (how frequently writers revise). 
+● Proficiency in Chinese was estimated by a cloze test, where participants must restore missing words in a text. 
+● The quality of the written texts was rated by two instructors of L2 Chinese. 
+What the researchers found
+ 
+● Relative to lower proficiency L2 Chinese learners, more proficient L2 Chinese learners wrote faster. They also made fewer pauses within a word and between words, more pauses between clauses and between sentences, shorter pauses between sentences, longer pauses between words, and more phrasal-level revisions. 
+● Regardless of proficiency, when selecting the target Chinese character after typing Pinyin letters, writers’ pauses were of a similar frequency and length. 
+● Despite differences in L2 Chinese proficiency, the type of text (argumentative versus narrative essays) seemed to make no difference to the kind of writing behaviors observed. 
+● Higher quality texts were linked to fewer pauses between words. 
+Things to consider
+ 
+● A main source of writing difficulty in L2 Chinese may be related to writers’ incomplete linguistic knowledge. 
+● Proficiency seemed not to make a difference to the amount of mental involvement required when selecting the correct Chinese characters using the Pinyin input method. 
+● In future research, it may be worth investigating L2 Chinese writers with a nonalphabetic L1 background, such as Japanese L2 writers of Chinese. 

@@ -1,0 +1,24 @@
+
+What this research was about and why it is important 
+ Learning a language involves understanding which words typically combine with each other. For example, it is much more idiomatic in English to say strong tea rather than powerful tea (although both are grammatically correct). This study uses data collected from learners of L2 French completing a stay abroad in France. We looked at how their use of word combinations developed over time in writing and speaking. We found that development was overall quite slow and that learners used different types of word combinations in different tasks. 
+What the researchers did
+ 
+● This study uses data from the LANGSNAP corpus. 
+● Participants included 29 learners of French, aged between 20 and 24, who spent part of their third year of university abroad as well as 10 native French speakers. 
+● On six occasions (before, during, and following their stay abroad) learners completed three different production tasks: a written argumentative essay, a re-telling of a picture story and an interview. 
+● We extracted two types of word combinations from the texts in the corpus: nouns + adjectives (nourriture + sain, ‘ healthy food’) and verbs + nouns (faire + devoir, ‘do + homework’). 
+● In each text, we measured the sophistication of word combinations that learners used (i.e., whether they used pairs of words that typically only appear together and seldomly with other words) and the diversity of word combinations (whether learners used a variety of different word combinations in their texts). 
+● We then compared the sophistication and diversity of word combinations between the written task and the oral tasks and tracked development in all three tasks across the six time points. 
+What the researchers found
+ Comparing oral and written tasks 
+● For native speakers only the diversity of adjective + noun combinations was found to be higher in the written task than in the oral tasks. This suggests that native speakers can select the word combination they want to use equally well when writing as when speaking but that writing an argumentative essay requires the use of adjective + noun combinations more than the other tasks. 
+● Learners, on the other hand, tended to use more sophisticated word combinations and a larger variety of word combinations in the written task as compared to both the oral tasks – suggesting that the writing process gave learners more time to select word combinations that they wanted to use compared to the oral tasks. Development over time 
+● Over time, the learners used slightly more sophisticated verb + object combinations in all three tasks. 
+● In terms of diversity, the learners already behaved very similarly to the native speakers before their time abroad, which indicated that there was not much room for development. 
+Things to consider
+ 
+● Oral and written tasks seem to require different types of word combinations. 
+● When writing, these learners seemed to be better able to carefully select the word combinations they wanted to use, which may be because there was less pressure to come up with them ‘on the spot’ (as is generally the case with speaking). 
+● Learners used slightly more sophisticated (i.e., exclusive) word combinations over time but development was very slow. 
+● This study did not look at the variation between individual time points. 
+● This study only investigated two types of word combinations. More research is needed to determine what other types of word combinations would be useful indicators of development for learners of French. 

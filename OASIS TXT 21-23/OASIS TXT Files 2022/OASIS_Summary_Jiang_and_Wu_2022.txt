@@ -1,0 +1,19 @@
+
+What this research was about and why it is important 
+ Understanding how words in a nonnative language are represented and processed as compared to words in a native language is important for understanding human cognition in general. Previous research showed that when a ‘target’ word (the word that is to be recognized) was preceded by another word (the prime word) that overlapped in spelling but not in meaning (e.g., freeze-free), nonnative speakers responded to it faster than to the same word preceded by a word without spelling overlap (e.g., bring-free), but native speakers usually did not show such a facilitative effect of spelling similarities. However, results to date have differed regarding whether this nonnative-native difference occurred for word pairs that overlapped at a word-final position, e.g., stage-age. This study explored this issue by including word pairs that overlapped at either the initial or final positions. The findings showed that similarly spelt words facilitated the recognition of target words among nonnative speakers when the spelling overlap occurred both at word-initial and word-final positions, but native speakers showed no such facilitation. This finding demonstrated a major difference in word organization and recognition between a native and a nonnative language.  
+What the researchers did
+ 
+● Nonnative and native speakers of English were asked to decide if a stimulus was a word or not. 
+● A target word was preceded by a prime word that overlapped (addict-add) or did not overlap (symbol-add) in spelling. The overlap occurred at either the word-initial (see previous examples) or word-final (essay-say /critic-say) positions.  
+● The prime word was presented very briefly such that the participants were not consciously aware of its presence. This minimized the likelihood of the participants’ explicitly noticing spelling overlap between the prime and the target that would lead to processes such as guessing in performing the decision task. 
+● The participants’ reaction times and error rates for the overlapped and non-overlapped conditions were recorded. 
+What the researchers found
+ 
+● The nonnative speaker participants responded to a word preceded by another word that had a spelling overlap faster than to the same word when it was preceded by a word without such spelling overlap. 
+● This facilitative effect occurred for words with both word-initial and word-final overlaps. 
+● Native speakers of English showed no such facilitative effect. 
+Things to consider
+ 
+● The findings provided further evidence for a difference between how words are represented and accessed by native and nonnative speakers. 
+● Specifically, words in a nonnative language may more likely be linked to each other when they are spelled similarly, but spelling similarity may play a less important role in the organization of words in a native language. 
+● This raises the question of what leads to such native-nonnative difference. One potential cause is that there is a different strength of connection between word forms and their meanings in native versus nonnative languages. 

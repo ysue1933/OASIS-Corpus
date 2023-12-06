@@ -1,0 +1,23 @@
+
+What this research was about and why it is important 
+ Second language (L2) vocabulary research has explored the effects of different types of input—reading, listening, and reading while listening—on learning the written forms of new words. However, little attention has been paid to the extent to which exposure to different input modes leads to learning the spoken forms of L2 words. Therefore, the present study examined the value of spoken input for developing two aspects of L2 learners’ vocabulary knowledge: pronunciation (how comprehensible and targetlike is pronunciation of words) and form-meaning connection (linking the spoken forms of words to their meanings) by comparing three input conditions (reading-while-listening, listening-only, and reading-only). Findings suggest that simultaneous presentation of written and spoken forms is optimal for the development of form-meaning connection and comprehensibility of unknown words, but provision of only spoken input may be beneficial for the attainment of targetlike accent. 
+What the researchers did
+ 
+● Seventy-five Japanese university students were randomly assigned to one of three experimental groups (reading-only, listening-only, and reading-while-listening). 
+● Participants completed a paired-associate learning program where they were presented with 40 unfamiliar English words while viewing pictures conveying the words’ meanings. 
+● The way target words were presented was different depending on the input condition participants were assigned to: (a) the reading-only group saw the spellings of words, (b) the listening-only group heard the pronunciation of words, and (c) the reading-while-listening group saw the spellings of words while hearing the words’ pronunciation. 
+● Participants’ pronunciation of words was elicited via a picture naming test before, immediately after, and approximately 1 week after the treatment. 
+● Learning form-meaning connection was indicated by the number of words accurately recalled cued by corresponding pictures. 
+● Pronunciation accuracy was evaluated by English-speaking raters according to comprehensibility (listeners’ perceived ease or difficulty in understanding L2 speech) and accentedness (listeners’ judgments of how different L2 speech sounds from the L1 variety). 
+What the researchers found
+ 
+● The reading-while-listening and reading-only groups recalled a greater number of L2 words than did the listening-only group at the immediate posttest. 
+● The reading-while-listening and listening-only groups pronounced L2 words in a more comprehensible and targetlike manner compared to the reading-only group at the immediate posttest. 
+● However, the results of the tests a week later showed that only learners receiving spoken input without orthographic support retained more targetlike (less accented) pronunciation compared to the reading-only group. 
+● Learners, especially those who were assigned to the reading-only and reading-while-listening conditions, pronounced L2 words in a more comprehensible and targetlike manner when the sound-spelling consistency of target words was higher. 
+Things to consider
+ 
+● The current study indicates that spoken input plays an important role in learning the pronunciation of new words. Exposure to spoken input is necessary even for the purpose of improving the pronunciation of words whose sound-spelling correspondences are consistent and transparent. 
+● Encountering L2 words in both written and spoken modes can enhance knowledge of form-meaning connection. However, the benefit of auditory support may be smaller in the situation of decontextualized word learning (i.e., paired-associate training) compared to contextualized word learning (e.g., reading books). 
+● Exposure to the spoken form of words alone may be optimal for learners whose goal is to be able to pronounce L2 words in a targetlike manner. 
+● The findings suggest that providing spoken input as well as written input improves form-meaning connection and increases comprehensibility of individual words. 

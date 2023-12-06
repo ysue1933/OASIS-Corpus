@@ -1,0 +1,21 @@
+
+What this research was about and why it is important 
+ Implicit learning refers to the process of learning without intention and even without awareness of what has been learned. Whether this type of learning process is feasible when learning meaning-based regularities remains understudied. Moreover, how the language that someone already knows would affect the way that they learn another language implicitly is also underresearched. Using an implicit learning task, the researchers investigated whether the connection between made-up articles (gi, ro, ul, ne) and fire/water distinctions can be learned implicitly. In Chinese, fire and water are explicit marked by 火 and 氵, respectively, while there is no such marking in English. We found that both Cantonese–English bilinguals and native English speakers learned the connection between made-up articles and fire/water distinctions. Moreover, the Cantonese–English group was faster than the native English group in distinguishing fire/water-related words. 
+What the researchers did
+ 
+● The researchers used an implicit learning task with made-up articles (gi, ro, ul, ne) and real fire- and water-related English words. 
+● 38 Cantonese–English bilinguals and 37 native English speakers were recruited. 
+● Participants were not told that the made-up gi and ul articles were only compatible with water-related words (e.g., gi shower, ul rain) and ro and ne were compatible with fire-related words (e.g., ro burn, ne lighter). 
+● Participants were interviewed after the experiment to see whether they had become aware of the hidden rules. 
+What the researchers found
+ 
+● Both Cantonese–English bilinguals and English speakers learned the connection between novel articles (gi, ro, ul, ne) and fire/water distinctions, implying that these meaning-based regularities can be learned implicitly. 
+● Post-experiment interview ensured that the participants included in the analysis were not aware of the hidden rules, suggesting that the knowledge that the participants had developed might have been implicit. 
+● Cantonese–English bilinguals were faster in distinguishing fire/water-related words than English speakers. 
+Things to consider
+ 
+● The connection between made-up articles and fire/water distinctions can be learned through implicit learning. 
+● It is possible to learn meaning-based regularities implicitly. 
+● Chinese markings of fire/water-related characters in did not seem to influence implicit learning in English. 
+● However, the markings of fire/water-related characters in Chinese may have allowed the Cantonese–English group to respond faster than the native English group when distinguishing fire- and water-related words. 
+● Meaning is at the core of language learning; hence, future studies should explore other meaning-based regularities that can be learned implicitly. 

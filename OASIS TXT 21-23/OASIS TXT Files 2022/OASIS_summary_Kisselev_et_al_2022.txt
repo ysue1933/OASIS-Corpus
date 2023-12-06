@@ -1,0 +1,17 @@
+
+What this study was about and why it is important Linguistic complexity has served as an important measure of second language (L2) writing development and an important construct in language assessment. Complexity can refer to word and sentence complexity, such as, word length, frequency of words (how common they are), sentence length, number of clauses per sentence, use of complex structures, such as, relative clauses. Complexity indices rarely feature in the studies of learner languages other than English, especially the Less Commonly Taught Languages (LCTLs), and there is lack of consistency in defining proficiency. The current article addresses these gaps by exploring writing development in one LCTL, Russian, while paying specific attention to operationalization of the notion of proficiency. We investigate the writing development of L2 learners of Russian over an 8-week Russian immersion program through administering the Writing Proficiency Test (WPT). This is important as it assesses the usefulness of complexity measures in tracking writing development in L2 Russian. 
+What the researchers did
+ 
+● We collected essays from 133 L2 Russian learners in seven curricular levels from Introductory to Advanced Russian II in an 8-week college-level intensive summer language program. 
+● The WPT was administered during both entrance and exit exams. The final data set consisted of 601 essays (103,150 words total). 
+● We measured four lexical (word-level) and nine syntactic (sentence-level) complexity indices and analysed how they changed over the summer program. 
+What the researchers found
+ 
+● Nine complexity measures (i.e., mean word length, type-token ratio, percentage of high-frequency words, mean sentence length, clauses per sentence, syntactic depth, proportion of subordinate clauses, and proportion of relative clauses) changed significantly over the course of the summer program. 
+● These complexity measures were found to correlate with the WPT scores (both entrance and exit scores) and initial curricular placement. Higher complexity appeared to link with higher scores. 
+Things to consider
+ 
+● Our results partially confirm patterns identified in previous L2 complexity research with the expected increase in the use of subordinate clauses rather than relying on coordination (the use of conjunctions to join clauses) at the intermediate level of proficiency. Learners are expected to move from coordination to subordination when transitioning from beginner to more advanced proficienies. 
+● Human raters’ complexity ratings seem to be particularly influenced by sentence length, variation in vocabulary use, and the use of less frequent words. 
+● Complexity measures can serve as a means to determine proficiency and could be used to judge progress in a language course. 
+● Teachers could make students aware of these elements of linguistic complexity to help them to improve their writing.   

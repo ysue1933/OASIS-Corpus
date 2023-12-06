@@ -1,0 +1,16 @@
+
+What this research was about and why it is important 
+ Humans are very sensitive to patterns in their environment. For example, their brains automatically group together syllables that frequently occur in combination (often identifiable as words). This process, called statistical learning, is thought to play a significant role in language acquisition and processing. Studies of statistical learning typically test whether participants can unconsciously learn syllable patterns (words) by listening to made-up languages, but have rarely tested whether participants are better at learning syllable patterns with which they have had lots of experience (i.e., those that occur in their native language). We tested this possibility by asking German adults to recall syllable sequences that were manipulated to be German-like and German-unlike. The German-like sequences contained syllable combinations that frequently co-occur in spoken German whereas the German-unlike sequences did not contain any attested syllable combinations (confirmed by an analysis of German speech). We asked participants to repeat the sequences. Participants were generally better at repeating German-like sequences than German-unlike sequences, and also quickly improved at repeating the German-like sequences, which was not the case for the German-unlike sequences. Taken together, this shows that the German adults had prior knowledge of the syllable combinations of their native language and drew on this knowledge to acquire and process the new input. 
+What the researchers did
+ 
+● The researchers tested 40 German adults who heard sequences of eight syllables, which they had to repeat. 
+● There were three different types of sequences: (a) sequences containing German-like words (i.e., words comprising frequent German syllable combinations), (b) sequences containing German-unlike words (i.e., words comprising unattested German syllable combinations), and (c) sequences containing no words at all (i.e., control sequences where syllables were randomly scrambled). 
+● The researchers measured how many (a) syllables and (b) words participants recalled correctly per sequence. 
+What the researchers found
+ 
+● Participants were better at repeating German-like sequences than German-unlike sequences and better at repeating German-unlike sequences than control sequences. 
+● Participants quickly improved at repeating German-like sequences in comparison to German-unlike sequences. They did not improve at repeating German-unlike sequences in comparison to control sequences. 
+Things to consider
+ 
+● The findings indicate that the adults had stored frequent German syllable combinations in memory and built on this knowledge when processing words in an unfamiliar language (i.e., the German-like language). 
+● Although adults showed a learning effect for the German-unlike words, their lack of improvement on these across the task might have been due to interference from the more familiar German-like words, especially early in the experiment. An improvement might have been observed if the experiment had been longer. 

@@ -1,0 +1,21 @@
+
+What this research was about and why it is important 
+ Learning to listen in another language is challenging because listening is inherently ephemeral in nature. Unlike reading, where the written words can be re-read until the passage is fully understood, listening often affords only one attempt to understand the utterance. Comprehensible input practice is a necessary aspect of language learning. It is based on the idea that a language learner needs to practice reading and listening to material that are at or just slightly above their current proficiency level. Often this is measured by the amount of unknown vocabulary words a learner will encounter in a text or listening task. There are guidelines in reading research which suggests that a learner should know 95-98% of the vocabulary on a page in order to achieve comprehensible input practice. The guidelines for listening comprehensible input practice has not yet been fully determined, but there are studies which suggest that listeners might be able to understand a text successfully with fewer than 95% known words. The researcher in this study used an increasing number of fake words to simulate unknown vocabulary items in dialogues of various topics to evaluate how well or how poorly language learners could understand the content. The study showed that it is possible for language learners to adequately understand a dialogue with as few as 90% known words; however, the topic and proficiency in the language play important roles. 
+What the researchers did
+ 
+● The participants were 44 Japanese English as Foreign Language (EFL) students in an international studies department at a university in Japan. All of the students were between 18 and 19 years old and categorized in the A2-B1 Common European Framework of Reference (CEFR) range for English proficiency. 
+● Over 8 weeks, they completed a background survey, a general English proficiency test, a listening vocabulary levels test, and 5 dialogue listening tasks. 
+● Each dialogue contained an increasing number of fake words to simulate increased difficulty caused by lack of vocabulary knowledge. Texts contained 98%, 95%, 90%, 85%, and 83% known words. 
+● After listening to the recordings of the dialogue, participants took a multiple-choice vocabulary test and assessed their level of familiarity with the topic in general. 
+● Adequate comprehension of the text in general was determined to be a score of 70% on the tests. 
+● Participants’ data were analyzed using descriptive statistics and generalized linear mixed modeling to evaluate the effects of individual and task variables on listening comprehension. 
+What the researchers found
+ 
+● More than 60% of the participants were able to achieve adequate listening comprehension on the 90% coverage task, whereas approximately 30% of the participants could achieve adequate listening comprehension on the 98% coverage task. 
+● This result was surprising because it did not show a predictable decrease in comprehension scores as the number of fake words increased. This result ran counter to previous studies which prompted additional analysis. 
+● Additional analysis revealed that proficiency and topic familiarity played a significant role in achieving success on the listening tasks. Participants with higher proficiency and higher self-rated topic familiarity tended to score higher on all the dialogues, but scores on the 90% coverage dialogue were particularly affected by proficiency. 
+Things to consider
+ 
+● These findings suggested, in conjunction with previous research, that the vocabulary coverage suggestions established for reading tasks might not be the same for listening tasks. This result allows more flexibility and choice for learners and educators when choosing and making listening materials for comprehensible input training. 
+● If learners are able to get the gist of a 3-minute dialogue while only being able to understand 90% of the vocabulary in the task, then there is a much wider range of authentic materials accessible to language learners. 
+● Informal interviews with some participants suggested that the third listening task might have been more imageable despite pilot testing not finding any significant differences in the texts or audio files. This suggests the need for research and rigorous control of task variables. 

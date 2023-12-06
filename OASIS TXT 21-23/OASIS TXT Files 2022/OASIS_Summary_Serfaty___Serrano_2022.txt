@@ -1,0 +1,24 @@
+
+What this research was about and why it is important 
+  This research investigated whether it is better to leave a longer or shorter gap between learning sessions for studying grammar in a second language. Previous research has shown that a gap between sessions helps to build memory, which is known as the spacing effect. Some research with vocabulary has shown that a longer gap leads to stronger memory, known as the lag effect. However, the same effect has not been found for grammar learning. It is thought that longer gaps make learning more difficult, which is good for learning, but that too much difficulty can lead to weaker memory. Since grammar is already more difficult than vocabulary, the difficulty of the task could affect which length of gap is better. The difficulty could be influenced by the materials being learned and the learners themselves. 
+What the researchers did
+ 
+● Participants were 129 students (age 10-18) at an English-language Cambodian international school. 
+● Two structures were taught using flashcards – the future perfect progressive (e.g. I will have been studying for 3 hours by the time I see you) and the more difficult past perfect conditional (e.g. What would you have done if you had found the money?). 
+● Two learning sessions for each structure were spaced 1 or 7 days apart and tested either 7 or 28 days after the final learning session. 
+● Learning involved reading a cue and guessing a correct response (see screen shot), which they did until every response was correct. 
+● Students were tested using different sentences to those in the learning sessions, to make sure that they had learned grammar rules and not just specific sentences. 
+● Learner-related difficulty was measured by their age, their time needed to complete the training sessions, and their general English proficiency. 
+What the researchers found
+ 
+● Differing the length of the lag between learning sessions was found to have no overall effect on learning. 
+● More was remembered after 7 days than after 28 days in both conditions. 
+● The easier structure was better remembered than the more difficult structure in both conditions. 
+● Older teenagers performed better than younger ones in both conditions. 
+● For high-proficiency learners, the longer gap enhanced results. For medium-proficiency students, the length of gap made no difference. For low-proficiency learners, the shorter gap boosted their memory. 
+● Faster learners were found to benefit from longer gaps and slower learners from short ones. 
+Things to consider
+ 
+● Findings suggest that individual differences have a strong effect on learning outcomes. 
+● The difficulty of the task, from the perspective of the learner, influences how difficult the conditions should be. For learners that found the task easy (high-proficiency, fast times), a more difficult longer gap helped to strengthen their memory, but for those who found the task difficult already (low-proficiency, slow times), the shorter gap helped to reduce difficulty. 
+● Applying this to the classroom, teachers should review material quickly if it was difficult for the students, but if it was easy the teacher should wait before reviewing it again. 

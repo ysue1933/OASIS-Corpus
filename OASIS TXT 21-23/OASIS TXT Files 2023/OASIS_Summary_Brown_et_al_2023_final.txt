@@ -1,0 +1,24 @@
+
+What this research was about and why it is important 
+ Written corrective feedback (WCF) on second language (L2) writing is one of the most heavily studied areas in language teaching research, yet clear guidance for teachers about how to provide it most effectively remains limited. Meta-analysis is a research method that combines results of all studies that exist on a given topic to determine overall effects (across existing research) of a particular treatment, or in this case, a teaching technique such as WCF. A few meta-analyses exist that investigate the effects of WCF, finding it to be somewhat effective overall in improving learners written accuracy, but this study is the first to differentiate the short-term and long-term effects of WCF. We found that WCF helps language learners improve their written accuracy in new writings, and that the effects generally hold, even after a month. We also uncover new details regarding the variables that influence the efficacy of teacher’s WCF. 
+What the researchers did
+ 
+● We collected all existing WCF studies (N = 52) that include a control group in their design. 
+● We then coded the studies for information about the outcome of the experiments (effect sizes) and other study variables relating to the learners, the teaching context, the writings, and the feedback. 
+● In our coding we differentiated between short-, medium-, and long-term effects by noting the length of time between the final provision of WCF and the post-test. 
+● Using a new approach to meta-analysis (Bayesian) we analyzed the results to find overall effects, across the studies, as well the influence of a range of variables. 
+What the researchers found
+ 
+● Overall, WCF provides a moderate benefit in helping L2 learners improve their written accuracy in new writings (19.32% advantage in improving written accuracy over peers who did not receive WCF). 
+● When students produced new writings immediately after viewing/responding to WCF their accuracy improved the most (26.11% advantage), then diminished slightly after 2 weeks (17.72%). But results after 3-4 weeks (21.23%) and after 5 or more weeks (18.08%) demonstrate that the gains largely held durably. 
+● Learners in language institutes benefited (31.06%) more than secondary and university students (about 19%). 
+● Most types of feedback that teachers provided (i.e., direct, location only, error coding, metalinguistic) resulted in similar effects (between 17% and 20%), while a combination of direct and metalinguistic feedback (in which teachers supplied corrections along with explanations about why it was an error) resulted in greatest gains (26.42%). 
+● Focusing on only one error type resulted in greatest gains (25.8%) compared to 3-5 error types (13.68%) and comprehensive feedback attempting to address all errors (13.31%). 
+● A single round of feedback resulted in the greatest gains (23.24%) compared to 2 rounds/writings (20.19%) or 3-5 provisions (16.64%), somewhat surprisingly. 
+● Limited data has been reported on target error type, but findings somewhat support the notion of more ‘treatable’ error types, such as simple verb tense (30.51%) compared to more idiosyncratic error types (prepositions, 21.23%) or articles (21.9%). 
+● Shorter writings resulted in greater gains (19%) than longer writings (12.21%) and visual descriptions (writing tasks used in 38% of the experiments) showed greater gains (23.57%) than academic or narrative tasks (14.43%). 
+Things to consider
+ 
+● Teachers should be relatively confident that their effort and time spent addressing errors in writing is somewhat useful overall, as the learning effects appear to hold over time. 
+● Although focusing on a single error type leads to greater overall gains, the (somewhat weaker) benefits of casting a wider net on more types of errors could be worth the tradeoff, as learners aim to improve their overall accuracy. 
+● These findings tentatively suggest diminishing returns of WCF, as shorter writings and fewer treatments led to the greatest gains. It could be that a measured approach may suffice, for example, limiting WCF to a single page on longer writings, and/or limiting the focus of WCF to a single error type but rotating that focus over time may prove most efficient, although further research can help explore these hypotheses. 

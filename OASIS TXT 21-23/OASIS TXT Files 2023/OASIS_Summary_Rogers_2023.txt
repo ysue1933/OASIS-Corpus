@@ -1,0 +1,16 @@
+
+What this research was about and why it is important 
+ Task repetition (repetitions of the same or slightly altered tasks) has in recent decades received increased attention in the field of second language acquisition (SLA), with growing consensus on its benefits for task performance and second language (L2) development. However, various methodological issues make previous empirical findings hard to interpret. One such issue is input spacing (i.e., the spacing between task repetitions). Interest in this issue is only recent in SLA, but goes back more than a century in cognitive psychology. This conceptual article reviews existing literature on input spacing from both fields. It outlines key terms, main theories, and research methodologies. Theoretical rationales and empirical evidence are provided to clarify why and how input spacing moderates the effects of task repetition on task performance and L2 development. The article concludes by discussing several methodological variables that task repetition researchers should take into consideration as part of their experimental designs. What the researcher did 
+● The researcher reviewed the input spacing literature from the fields of cognitive psychology and SLA. 
+● The focus was on the methodologies from the empirical input spacing literature and the methodological considerations they raise. 
+● The researcher then surveyed the relevant task repetition literature, with a particular focus on empirical studies that directly manipulated spacing as an independent variable of interest. 
+● The researcher then brought together the two areas of research and discussed how the methodological considerations from the input spacing literature are relevant for task repetition research. What the researcher found 
+● Input spacing influences task performance, and potentially L2 development. 
+● In particular, shorter spacing appears to be beneficial for fluency development. 
+● On a methodological level, variables that moderate the effects of spacing, as indicated by the broader literature in cognitive psychology, are often not controlled for in task repetition studies. 
+● Such variables include the interaction of spacing intervals, the experimental manipulation of posttest(s), the number of repetitions, absolute versus relative spacing, the criterion of learning, and blocked versus interleaved practice. 
+Things to consider
+ 
+● The results of studies that have examined the effects of spacing on task repetition have generally suggested benefits for shorter-spaced conditions (e.g., massed conditions) over longer-spaced conditions. This goes against findings from cognitive psychology, where longer spacing is held to be more beneficial. 
+● On a methodological level, input spacing should be taken into consideration in all task repetition studies, including studies for which spacing is not a main variable of interest. 
+● When designing task repetition studies, researchers should take into consideration several potentially confounding variables highlighted in this article. 

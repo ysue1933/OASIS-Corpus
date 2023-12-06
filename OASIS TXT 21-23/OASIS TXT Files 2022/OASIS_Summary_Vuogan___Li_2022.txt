@@ -1,0 +1,24 @@
+
+What this research was about and why it is important 
+ Peer feedback is common in second language (L2) writing instruction. However, whether it improves learners’ L2 writing development is controversial. Advocates of peer feedback argue that it fosters critical thinking, builds rapport among students, makes feedback more accessible, and promotes deep cognitive processing of language learners’ written output. Peer feedback is also controversial, and some have questioned whether learners can provide accurate feedback that helps their peers’ writing improve. To resolve some of the controversy, we aggregated the effects of 26 studies investigating peer feedback’s influence on language learners’ writing. Meta-analytic results indicate that peer feedback has a small to moderate positive influence on L2 writing outcomes. We also compared similarities and differences in effects of peer feedback to both teacher feedback and self-revisions and compared trends in research methods in the primary studies to determine the pedagogical practices that enhance the effects of peer feedback. Effects of peer feedback were larger (1) when participants had more time to write, (2) when more days passed between the pre- and post-test, (3) when revisions were assessed rather than new writing, and (4) for topic development in contrast to language-related outcomes such as vocabulary and grammar. 
+What the researchers did
+ 
+● We searched three databases and 24 journals in January of 2019 to locate studies examining the effects of peer feedback on L2 writing. 
+● 26 studies satisfied our inclusion criteria and were included in the analysis. 
+● Effect sizes were calculated and aggregated using meta-analytical techniques to determine the overall effect of peer feedback on L2 writing. 
+● Effects of peer feedback were compared to the effects of teacher feedback as well as self-revisions. 
+● Trends in the primary studies were investigated to identify aspects of instruction that might impact peer feedback’s effects. 
+What the researchers found
+ 
+● Results revealed that peer feedback has a small to moderate effect on L2 writing. 
+● Peer feedback has a greater impact on topic development in comparison to teacher feedback and self-revision. 
+● Teacher feedback more positively influences grammatical accuracy of L2 writing than peer feedback. 
+● Self-revision promotes more accurate vocabulary use than peer feedback. 
+● Greater effect sizes were observed when students had more time to write and when treatment was longer. 
+● Peer feedback had significantly greater effects on revisions than new compositions. 
+● Peer feedback effects were significantly higher for topic development than vocabulary and grammar. 
+Things to consider
+ 
+● One way to address learners’ distrust in their classmates’ language-related feedback is to train L2 writing students to focus on topic development when exchanging peer feedback. 
+● Longer writing times corresponded to greater effect sizes. Therefore, if writing must be timed, teachers should give students as much time as is reasonable. Another possible option would be to have students write as homework, removing the time constraints that writing in class might impose. 
+● Because the effects of peer feedback were higher for revisions than new compositions, teachers may encourage students to exchange feedback with a peer and to revise their writing before submitting for a grade. 

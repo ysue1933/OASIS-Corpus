@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ Morphological awareness (MA) refers to one’s sensitivity to the internal structure of words, and is an important predictor of second language (L2) reading development. The researchers aimed to provide a critical review of existing evidence, examine how and to what extent MA is associated with child L2 reading, and identify features of the research studies that might affect the interpretation of existing evidence. The researchers conducted a systematic review and meta-analysis of 34 studies. They investigated the correlations (strength of associations) between first language (L1) and L2 morphological awareness and L2 reading development in child L2 learners. 
+What the researchers did
+ 
+● The researchers identified 34 relevant studies that included child L2 learners, measured MA in the L1 and/or L2, and measured L2 reading-related outcomes (i.e., either word decoding and/or passage reading comprehension). 
+● For each study, an effect size was calculated. This is a standardized way of expressing the size of the relationship between two constructs (e.g., between MA in a L1 and word decoding in a L2). 
+● The effect sizes were averaged across all the studies. 
+● The researchers considered the impact of a number of study features that might explain larger or smaller effect sizes, including the type of word formation rules, L1–L2 writing system types (e.g., both Spanish and English are alphabetic), participants’ age, and how reading-related outcomes were measured. 
+What the researchers found
+ 
+● The majority of studies included in the synthesis investigated participants from kindergarten level to grade five (aged 6 to 11 years old), learning to read in two alphabetic languages with English as the L2 in North America. 
+● MA that had developed in the L1 correlated positively with MA in the L2, with a small effect. 
+● L1 MA correlated positively with L2 word decoding and passage reading comprehension with a small effect. 
+● L2 MA correlated positively with L2 word decoding and passage reading comprehension with a medium effect. 
+● There was a larger correlation between L2 MA and L2 passage reading comprehension in children at grades three to five than in younger children. 
+Things to consider
+ 
+● Overall, MA in children’s L1 and L2 seem to correlate positively across languages, and greater MA is associated with greater L2 reading abilities. Caution should be taken not to generalize the findings to all L2 readers, such as adults. Also, different measures of MA seemed to affect some of the findings. 
+● In your teaching: Do you provide morphological instruction? Is it effective for younger and older learners? 

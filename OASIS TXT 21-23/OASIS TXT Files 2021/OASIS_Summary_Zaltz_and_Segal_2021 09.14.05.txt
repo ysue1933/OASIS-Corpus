@@ -1,0 +1,20 @@
+
+What this research was about and why it is important 
+ The native language has a long-term influence on the ability of adult speakers to perceive phonemic (meaningful sound) contrasts in a second language (L2). However, the question of whether and how the impact of the native language can be remoulded is still unclear, as systematic data on the effect of training on the L2 perception of sound contrasts are scarce. The present study examined the influence of a short training session on identifying a non-native contrast of vowel length in an understudied language, Arabic. The results provide an important insight into the ability to update sound representations in adulthood following a focused, and short training session, and have significant theoretical as well as practical implications for adult L2 learners. 
+What the researchers did
+ 
+● Hebrew does not distinguish between short and long vowels, whereas Arabic does. 
+● We assessed the influence of the first language (L1 - Hebrew), a language which lacks the short-long vowel contrast, on the ability to discriminate between short and long vowels in the L2 (Arabic) before and after training. 
+● A total of 60 young-adults (aged 20–35 years), including 20 native Arabic speakers and 40 native Hebrew speakers, were tested approximately 10 days apart. 
+● Speakers heard 3 non-words in a row. The words were spoken by a single speaker and only differed in vowel length. Speakers had to indicate whether the last word was similar to the first or the second word. 
+● A single training session was provided for half of the Hebrew speakers (n=20) approximately 2-3 days after the first testing session. 
+● Accuracy rates and reaction times for discrimination were assessed during the testing and training sessions. 
+What the researchers found
+ 
+● The discrimination accuracy rates of the Hebrew speakers were above chance level, but nevertheless lower (i.e., poorer) in comparison to those of the Arabic speakers in the first testing session. 
+● Reaction times (RT) were slower for the Hebrew compared to the Arabic speakers in the first testing session. 
+● A short training session was sufficient to yield a native-like performance (in terms of accuracy rates and RT) that generalized to untrained non-words for the majority of the trained participants. 
+Things to consider
+ 
+● The quick improvement in discrimination after one training session might have been somewhat related to the fact that duration contrast is a salient psychoacoustic cue that is used for word stress (supra-segmental cue) in Hebrew. Further studies, including non-stress languages (e.g., Chinese) may improve our understanding of whether supra-segmental duration cues in the L1 support one’s ability to learn vowel length contrasts in L2. 
+● The Hebrew speakers that participated in the present study had an advanced knowledge in English, a language with duration differences between the tense and lax vowels. This knowledge may have boosted the effects of training, although vowel distinction is not phonemic in English. 

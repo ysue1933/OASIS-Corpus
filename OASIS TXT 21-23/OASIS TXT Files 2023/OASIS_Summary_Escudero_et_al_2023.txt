@@ -1,0 +1,21 @@
+
+What this research was about and why it is important 
+ Word learning is an important part of language learning for young children as well as adults learning a second language. When new words are encountered in everyday life, there is often more than one object in the environment that could potentially relate to the new word, such that word–object correspondences can be (at least initially) unclear. Over time, however, humans can implicitly track word–object co-occurrences to identify word meanings. This study examined this type of word learning, referred to as cross-situational (or statistical) word learning, in two different contexts using two different forms of presentation. As it is not yet known if learners learn better when words are heard or read, we presented Australian English speakers with novel words either in a written or in an auditory form. In Experiment 1, we did this in the laboratory. In Experiment 2, we moved the experiment online due to the restrictions caused by the COVID-19 pandemic. We found that novel words were learned more easily when presented in a written form and that the online procedure was fruitful and, at times, better than the laboratory procedure. 
+What the researchers did
+ 
+● Participants were tested on their ability to learn novel words paired with corresponding objects without explicit instruction. Participants were tested either in a laboratory setting or through an online setting. 
+● Novel words were all very similar but differed either in their initial consonant, middle vowel, or in more than one sound/letter, to test if there is a difference in learning between these three types of word pairs. 
+● Participants were either learning the new words by reading or by listening to them. 
+● First, participants were exposed to combinations of the images and the words (written/spoken). They saw two images and two words, but there was no indication as to which word belonged to which image. 
+● After that, they were tested on how well they could match each novel word to its correct corresponding image. 
+What the researchers found
+ 
+● The main conclusion is that the novel words were generally easier to learn when they were read (orthographic/written stimuli) compared to when they were heard (auditory/spoken stimuli). 
+● This difference was largest for the novel word type that is most distinct and easiest to learn. 
+● The written words were easier to learn in a laboratory setting compared to online. For the auditory words, it did not matter whether this was online or in the laboratory. 
+Things to consider
+ 
+● Learning novel words may be easier when they are presented in writing compared to when they are spoken. 
+● However, more research is needed that also includes a condition where people are presented with both written and auditory information. 
+● The online testing procedure was fruitful and can be used for further experiments. 
+● This study offers avenues for future research, including how different combinations of presentation impact learning (orthographic vs. auditory vs. both). Incorporating other methods (e.g., electroencephalography) with the current paradigm can shed light on the neurophysiological correlates underlying novel word learning. 
