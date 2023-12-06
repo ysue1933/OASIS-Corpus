@@ -1,6 +1,12 @@
 # OASIS-Corpus
 
-OASIS-Corpus is a library of cleaned texts of open accessible summaries from the Open Accessible Summaries in Language Studies (OASIS) and their corresponding abstracts.
+OASIS-Corpus is a library of cleaned texts of open accessible summaries from the Open Accessible Summaries in Language Studies [OASIS](https://oasis-database.org/) and their corresponding abstracts. 
+
+This corpus
+
+- resolves the issue that open accessible summaries available on [OASIS](https://oasis-database.org/) are inconvenient for text analysis - they are mainly PDFs with some contents that may interfere the outcome,
+
+- collects the corresponding academic abstracts in case of comparison studies.
 
 ## Constitution
 
