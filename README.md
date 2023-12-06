@@ -12,7 +12,7 @@ Criteria of selection:
 
 ## Contribution
 
-You are welcome to use the data in your research, mixups and (fun) projects — like I did with creating this corpus. You may find some code I have used in `code` and some analysis I have done in `myresult`.
+You are welcome to use the data in your research, mixups and (fun) projects — like I did with creating this corpus. You may find some code I have written in `code` and some analysis I have done in `myresult`.
 
 ## License
 
